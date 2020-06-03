@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-% Author: Jose Santos <jcas81@gmail.com>
-% Date: 2009-05-11
+% Author: Christelle Van Sebroeck
+% Date: 03-06-2020
 %
 %   This file has predicates to generate a theory in Progolem way
 %
