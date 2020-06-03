@@ -1,0 +1,139 @@
+% Restoring file /usr/lib/Yap/startup.yss
+YAP 6.2.2 (x86_64-linux): Wed Jul 15 05:25:26 UTC 2015
+GILPS: General Inductive Logic Programming System
+
+Version: 0.15
+Date: 15th March 2010
+Author: Jose Santos
+For more information please check: http://www.doc.ic.ac.uk/~jcs06
+
+% Warning:  (/home/superteteie/toxin_class_ILP/datasets/proteins/nclasses.pl:161).
+% predicate user:not_k/1 previously defined in file /home/superteteie/toxin_class_ILP/datasets/proteins/classes.pl
+% Warning:  (/home/superteteie/toxin_class_ILP/datasets/proteins/nclasses.pl:241).
+% predicate user:not_p/1 previously defined in file /home/superteteie/toxin_class_ILP/datasets/proteins/classes.pl
+100 examples loaded.
+50 positives, 50 negatives.
+Bottom clause covers negatives
+2% (1/50) examples processed.
+Bottom clause covers negatives
+4% (2/50) examples processed.
+Bottom clause covers negatives
+6% (3/50) examples processed.
+Bottom clause covers negatives
+8% (4/50) examples processed.
+10% (5/50) examples processed.
+Bottom clause covers negatives
+12% (6/50) examples processed.
+Bottom clause covers negatives
+14% (7/50) examples processed.
+16% (8/50) examples processed.
+Bottom clause covers negatives
+18% (9/50) examples processed.
+Bottom clause covers negatives
+20% (10/50) examples processed.
+Bottom clause covers negatives
+22% (11/50) examples processed.
+Bottom clause covers negatives
+24% (12/50) examples processed.
+26% (13/50) examples processed.
+28% (14/50) examples processed.
+Bottom clause covers negatives
+30% (15/50) examples processed.
+Bottom clause covers negatives
+32% (16/50) examples processed.
+34% (17/50) examples processed.
+36% (18/50) examples processed.
+Bottom clause covers negatives
+38% (19/50) examples processed.
+Bottom clause covers negatives
+40% (20/50) examples processed.
+Bottom clause covers negatives
+42% (21/50) examples processed.
+44% (22/50) examples processed.
+Bottom clause covers negatives
+46% (23/50) examples processed.
+Bottom clause covers negatives
+48% (24/50) examples processed.
+50% (25/50) examples processed.
+Bottom clause covers negatives
+52% (26/50) examples processed.
+Bottom clause covers negatives
+54% (27/50) examples processed.
+Bottom clause covers negatives
+56% (28/50) examples processed.
+Bottom clause covers negatives
+58% (29/50) examples processed.
+60% (30/50) examples processed.
+Bottom clause covers negatives
+62% (31/50) examples processed.
+Bottom clause covers negatives
+64% (32/50) examples processed.
+66% (33/50) examples processed.
+68% (34/50) examples processed.
+Bottom clause covers negatives
+70% (35/50) examples processed.
+72% (36/50) examples processed.
+74% (37/50) examples processed.
+76% (38/50) examples processed.
+Bottom clause covers negatives
+78% (39/50) examples processed.
+80% (40/50) examples processed.
+82% (41/50) examples processed.
+84% (42/50) examples processed.
+Bottom clause covers negatives
+86% (43/50) examples processed.
+88% (44/50) examples processed.
+Bottom clause covers negatives
+90% (45/50) examples processed.
+Bottom clause covers negatives
+92% (46/50) examples processed.
+94% (47/50) examples processed.
+96% (48/50) examples processed.
+98% (49/50) examples processed.
+Bottom clause covers negatives
+100% (50/50) examples processed.
+5 unique hypotheses were generated from 50 examples.
+20% (1/5) hypotheses coverage computed.
+40% (2/5) hypotheses coverage computed.
+60% (3/5) hypotheses coverage computed.
+80% (4/5) hypotheses coverage computed.
+100% (5/5) hypotheses coverage computed.
+Coverage for 5 unique hypotheses has been computed.
+
+*************************************************
+* Theory constructed from all the training data *
+*************************************************
+
+
+**************************
+* Induced General Theory *
+**************************
+
+Hypothesis 1/1:
+#Literals=3, PosScore=21 (21 new), NegScore=5 (5 new) Prec=80.8% (80.8% new)
+toxic(A):-
+   start(A,B), not_m(B).
+
+
+************************************************************
+* Train theory statistics (using all examples as training) *
+************************************************************
+
+           |                 Actual                |
+ Predicted |           Positive|           Negative|             Totals
+-----------|-------------------|-------------------|-------------------
+   Positive|             21+/-0|              5+/-0|             26+/-0
+-----------|-------------------|-------------------|-------------------
+   Negative|             29+/-0|             45+/-0|             74+/-0
+-----------|-------------------|-------------------|-------------------
+ Totals    |             50+/-0|             50+/-0|            100+/-0
+
+Default accuracy: 50% +/-0.0%
+Classifier accuracy: 66% +/-0.0%
+Recall/Sensitivity: 42% +/-0.0% (% of correctly class. positive examples)
+Specificity: 90% +/-0.0% (% of correctly class. negative examples)
+Precision: 80.8% +/-0.0% (% of correctly predicted positive examples)
+CorPredNeg: 60.8% +/-0.0% (i.e. % of correctly predicted negative examples)
+F1-score: 0.553 +/-0.00 (i.e. 2*Precision*Recall/(Precision+Recall)
+Matthews correlation: 0.365 +/-0.00 (i.e. (TP*TN-FP*FN)/sqrt((TP+FP)*(TP+FN)*(TN+FP)*(TN+FN)))
+

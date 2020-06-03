@@ -11,6 +11,7 @@ hydrophobic(a).
 hydrophobic(g).
 hydrophobic(t).
 hydrophobic(k).
+
 very_hydrophobic(a).
 very_hydrophobic(f).
 very_hydrophobic(g).
@@ -18,17 +19,20 @@ very_hydrophobic(i).
 very_hydrophobic(l).
 very_hydrophobic(m).
 very_hydrophobic(v).
+
 hydrophilic(s).
 hydrophilic(e).
 hydrophilic(q).
 hydrophilic(r).
 hydrophilic(d).
 hydrophilic(n).
+
 positive(r).
 positive(k).
 positive(h).
 negative(d).
 negative(e).
+
 neutral(a).
 neutral(c).
 neutral(f).
@@ -44,6 +48,7 @@ neutral(t).
 neutral(v).
 neutral(w).
 neutral(y).
+
 large(q).
 large(e).
 large(r).
@@ -55,6 +60,7 @@ large(f).
 large(m).
 large(l).
 large(i).
+
 small(p).
 small(v).
 small(c).
@@ -64,9 +70,11 @@ small(t).
 small(s).
 small(n).
 small(d).
+
 tiny(a).
 tiny(g).
 tiny(s).
+
 polar(y).
 polar(t).
 polar(s).
@@ -78,6 +86,7 @@ polar(r).
 polar(k).
 polar(h).
 polar(w).
+
 aliphatic(l).
 aliphatic(i).
 aliphatic(v).
@@ -85,6 +94,7 @@ aromatic(h).
 aromatic(w).
 aromatic(y).
 aromatic(f).
+
 hydro_b_don(w).
 hydro_b_don(y).
 hydro_b_don(h).
@@ -103,6 +113,7 @@ hydro_b_acc(d).
 hydro_b_acc(e).
 hydro_b_acc(n).
 hydro_b_acc(q).
+
 % NEW CLASSES
 not_aromatic(a).
 not_aromatic(c).
@@ -120,6 +131,7 @@ not_aromatic(r).
 not_aromatic(s).
 not_aromatic(t).
 not_aromatic(v).
+
 small_or_polar(a).
 small_or_polar(c).
 small_or_polar(d).
@@ -136,6 +148,7 @@ small_or_polar(t).
 small_or_polar(v).
 small_or_polar(w).
 small_or_polar(y).
+
 not_p(a).
 not_p(c).
 not_p(d).
@@ -155,6 +168,7 @@ not_p(t).
 not_p(v).
 not_p(w).
 not_p(y).
+
 ar_or_al_or_m(f).
 ar_or_al_or_m(h).
 ar_or_al_or_m(i).
@@ -163,6 +177,7 @@ ar_or_al_or_m(m).
 ar_or_al_or_m(v).
 ar_or_al_or_m(w).
 ar_or_al_or_m(y).
+
 not_k(a).
 not_k(c).
 not_k(d).
@@ -182,6 +197,7 @@ not_k(t).
 not_k(v).
 not_k(w).
 not_k(y).
+
 aromatic_or_very_hydrophobic(a).
 aromatic_or_very_hydrophobic(f).
 aromatic_or_very_hydrophobic(g).
