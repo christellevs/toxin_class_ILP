@@ -1,7 +1,7 @@
 :- modeh(1,toxic(+protein)).
 
 % protein positions
-:- modeb(1,position(+protein,+position,-aminoacid)).
+:- modeb(1,position(+protein,-position,-aminoacid)).
 :- modeb(1,start(+protein,-aminoacid)).
 :- modeb(1,end(+protein,-aminoacid)).
 
