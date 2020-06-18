@@ -1,0 +1,1641 @@
+% Warning:  (/home/superteteie/toxin_class_ILP/datasets/proteins/nclasses.pl:161).
+% predicate user:not_k/1 previously defined in file /home/superteteie/toxin_class_ILP/datasets/proteins/classes.pl
+% Warning:  (/home/superteteie/toxin_class_ILP/datasets/proteins/nclasses.pl:241).
+% predicate user:not_p/1 previously defined in file /home/superteteie/toxin_class_ILP/datasets/proteins/classes.pl
+400 examples loaded.
+200 positives, 200 negatives.
+Best armg at iter 1:[1]. Score:-24 NumLits:29 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[1,121]. Score:-8 NumLits:22 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[1,67,121]. Score:1 NumLits:21 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[1,67,121,124]. Score:10 NumLits:20 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[1,36,67,121,124]. Score:18 NumLits:19 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[1,36,67,79,121,124]. Score:25 NumLits:18 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[1,36,67,79,121,124,189]. Score:33 NumLits:17 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[1,24,36,39,67,121,124,143]. Score:41 NumLits:15 NewPos:56 Neg:0 Prec:1
+Best armg at iter 9:[1,36,42,67,79,121,124,143,189]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,24,36,39,55,57,67,121,124,143]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[1,24,36,39,55,57,67,121,124,143,194]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,24,36,39,55,57,62,67,121,124,143,194]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,24,36,39,55,57,62,64,67,121,124,143,194]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[1,24,36,39,55,57,62,64,67,108,121,124,143,194]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[1,24,36,39,55,57,62,64,67,108,121,124,143,170,194]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[1,24,36,39,55,57,62,64,67,84,108,121,124,143,170,194]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[2]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[2,148]. Score:-10 NumLits:26 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[2,88,197]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[2,88,126,197]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[2,36,88,126,197]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[2,36,88,126,160,197]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[2,36,47,88,126,189,197]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[2,36,47,68,88,126,189,197]. Score:41 NumLits:15 NewPos:56 Neg:0 Prec:1
+Best armg at iter 9:[2,36,47,68,88,126,144,189,197]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[2,36,47,68,88,126,144,173,189,197]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[2,32,36,47,68,88,126,144,173,189,197]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[2,10,32,36,47,68,88,126,144,173,189,197]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[2,10,32,36,47,64,68,88,126,144,173,189,197]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[2,10,32,36,47,62,68,88,108,126,144,173,189,197]. Score:67 NumLits:9 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 15:[2,10,12,32,36,47,62,68,88,108,126,144,173,189,197]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[2,10,12,32,36,47,62,68,88,108,126,130,144,173,189,197]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[10]. Score:-28 NumLits:30 NewPos:2 Neg:0 Prec:1
+Best armg at iter 2:[10,182]. Score:-14 NumLits:24 NewPos:10 Neg:0 Prec:1
+Best armg at iter 3:[10,85,182]. Score:-3 NumLits:22 NewPos:19 Neg:0 Prec:1
+Best armg at iter 4:[10,90,127,182]. Score:7 NumLits:20 NewPos:27 Neg:0 Prec:1
+Best armg at iter 5:[10,90,127,176,182]. Score:15 NumLits:19 NewPos:34 Neg:0 Prec:1
+Best armg at iter 6:[10,90,127,143,176,182]. Score:23 NumLits:18 NewPos:41 Neg:0 Prec:1
+Best armg at iter 7:[10,17,90,127,143,176,182]. Score:31 NumLits:17 NewPos:48 Neg:0 Prec:1
+Best armg at iter 8:[10,17,57,90,127,143,176,182]. Score:38 NumLits:16 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[10,17,40,59,90,127,143,176,182]. Score:44 NumLits:15 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[10,17,40,47,59,90,127,143,176,182]. Score:51 NumLits:13 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[10,17,40,47,59,90,91,127,143,176,182]. Score:56 NumLits:12 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[10,17,40,47,55,59,90,91,127,143,176,182]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[10,17,40,47,55,59,90,91,127,143,152,176,182]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[10,17,40,47,55,56,59,90,91,127,143,152,176,182]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,17,40,47,55,59,90,91,127,132,143,152,170,176,182]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[12]. Score:-26 NumLits:29 NewPos:3 Neg:0 Prec:1
+Best armg at iter 2:[12,127]. Score:-14 NumLits:25 NewPos:11 Neg:0 Prec:1
+Best armg at iter 3:[12,88,186]. Score:-2 NumLits:22 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[12,88,166,186]. Score:8 NumLits:20 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[12,88,166,186,197]. Score:16 NumLits:19 NewPos:35 Neg:0 Prec:1
+Best armg at iter 6:[12,17,88,166,186,197]. Score:24 NumLits:18 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[12,17,88,113,166,186,197]. Score:32 NumLits:17 NewPos:49 Neg:0 Prec:1
+Best armg at iter 8:[1,12,17,88,113,166,186,197]. Score:38 NumLits:16 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[1,12,17,88,113,166,186,194,197]. Score:44 NumLits:14 NewPos:59 Neg:1 Prec:0.9833
+Best armg at iter 10:[1,12,17,66,88,113,166,186,194,197]. Score:49 NumLits:13 NewPos:63 Neg:1 Prec:0.9844
+Best armg at iter 11:[12,17,40,59,88,113,132,166,173,186,197]. Score:55 NumLits:12 NewPos:68 Neg:1 Prec:0.9855
+Best armg at iter 12:[12,17,40,59,88,113,132,151,166,173,186,197]. Score:60 NumLits:11 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[12,17,40,59,88,96,113,132,151,166,173,186,197]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[12,17,40,59,88,96,113,130,132,151,166,173,186,197]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[12,17,40,59,88,96,113,130,132,151,166,170,173,186,197]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[12,17,40,59,88,96,108,113,130,132,151,166,170,173,186,197]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[14]. Score:-23 NumLits:30 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[14,162]. Score:-10 NumLits:25 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[14,85,162]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[14,85,162,186]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[14,43,85,162,186]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[14,29,43,85,162,186]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[14,29,40,43,85,162,186]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[14,29,39,40,43,85,162,186]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[14,29,39,40,43,85,91,162,186]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[14,29,39,40,43,85,91,154,162,186]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[14,29,39,40,43,66,85,91,154,162,186]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[14,29,39,40,43,64,66,85,91,154,162,186]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[14,19,29,39,40,43,64,66,85,91,154,162,186]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:65 NumLits:10 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[17]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[17,127]. Score:-10 NumLits:25 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[17,116,148]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[17,116,148,162]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[17,116,143,148,162]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[17,57,116,143,148,162]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[17,39,43,116,143,148,162]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[17,39,43,79,116,143,148,162]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[17,39,43,79,116,143,148,154,162]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[17,39,43,59,79,116,143,148,162,173]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[17,39,43,55,59,79,116,143,148,162,173]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[17,19,39,43,55,59,79,116,143,148,162,173]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[12,17,19,39,43,55,59,79,116,143,148,162,173]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[12,17,19,39,43,55,59,79,116,130,143,148,162,173]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:68 NumLits:9 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[19]. Score:-28 NumLits:30 NewPos:2 Neg:0 Prec:1
+Best armg at iter 2:[19,126]. Score:-14 NumLits:24 NewPos:10 Neg:0 Prec:1
+Best armg at iter 3:[19,67,126]. Score:-4 NumLits:22 NewPos:18 Neg:0 Prec:1
+Best armg at iter 4:[19,67,90,126]. Score:7 NumLits:20 NewPos:27 Neg:0 Prec:1
+Best armg at iter 5:[19,67,90,113,126]. Score:15 NumLits:19 NewPos:34 Neg:0 Prec:1
+Best armg at iter 6:[19,67,90,113,126,195]. Score:23 NumLits:18 NewPos:41 Neg:0 Prec:1
+Best armg at iter 7:[14,19,67,90,113,126,195]. Score:31 NumLits:17 NewPos:48 Neg:0 Prec:1
+Best armg at iter 8:[19,39,67,79,90,113,126,195]. Score:37 NumLits:15 NewPos:52 Neg:0 Prec:1
+Best armg at iter 9:[14,19,39,67,79,90,113,126,195]. Score:45 NumLits:14 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[1,14,19,39,67,79,90,113,126,195]. Score:51 NumLits:13 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[1,14,19,39,66,67,79,90,113,126,195]. Score:56 NumLits:12 NewPos:68 Neg:0 Prec:1
+Best armg at iter 12:[1,14,19,34,39,66,67,79,90,113,126,195]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[1,14,19,34,39,62,66,67,79,90,113,126,195]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,12,14,19,34,39,62,66,67,79,90,113,126,195]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,12,14,19,34,39,62,66,67,79,90,113,126,130,195]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[1,14,19,34,39,45,62,66,67,79,90,108,113,126,152,195]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Best armg at iter 17:[1,14,19,34,39,45,62,66,67,79,84,90,108,113,126,152,195]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[20]. Score:-23 NumLits:30 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[20,96]. Score:-12 NumLits:24 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[20,37,74]. Score:-1 NumLits:24 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[20,37,74,140]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[20,37,74,140,166]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[2,20,90,96,186,195]. Score:27 NumLits:17 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[20,29,37,68,74,140,166]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[20,29,37,68,74,120,140,166]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[20,29,37,68,74,114,120,140,166]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[20,29,37,55,68,74,114,120,140,166]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[20,29,37,55,68,74,114,120,140,166,194]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[20,29,37,55,62,68,74,114,120,140,166,194]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,20,29,37,55,62,68,74,114,120,140,166,194]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[10,12,20,29,37,55,62,68,74,114,120,140,166,194]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,20,29,37,55,56,68,74,114,120,130,140,166,170,194]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[10,20,29,37,55,56,68,74,108,114,120,130,140,166,170,194]. Score:73 NumLits:7 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:73 NumLits:7 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[24]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[2,24]. Score:-10 NumLits:25 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[2,24,140]. Score:2 NumLits:21 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[2,24,140,155]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[24,113,155,166,182]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[24,113,143,155,166,182]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[24,113,143,144,155,166,182]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[24,113,114,143,144,155,166,182]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[24,113,114,143,144,155,166,182,194]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[24,113,114,132,143,144,155,166,182,194]. Score:51 NumLits:13 NewPos:65 Neg:1 Prec:0.9848
+Best armg at iter 11:[1,24,113,114,132,143,144,155,166,182,194]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[1,24,113,114,132,143,144,151,155,166,182,194]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,12,24,55,113,114,132,143,144,155,166,182,194]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[1,12,24,55,113,114,132,143,144,155,166,170,182,194]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,10,24,64,84,113,114,132,143,144,151,155,166,182,194]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[1,10,12,24,55,108,113,114,132,143,144,155,166,170,182,194]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Best armg at iter 17:[1,10,12,24,55,108,113,114,130,132,143,144,155,166,170,182,194]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[29]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[29,140]. Score:-8 NumLits:23 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[29,75,140]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[29,43,75,140]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[29,43,75,77,140]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[29,43,75,77,140,197]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[29,43,57,75,77,140,197]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[29,43,57,75,77,114,140,197]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[29,43,57,68,75,77,114,140,197]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[29,43,57,68,75,77,114,140,173,197]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[12,29,43,57,68,75,77,114,140,173,197]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[12,29,43,57,68,75,77,114,140,170,173,197]. Score:60 NumLits:11 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[12,29,43,57,62,68,75,77,114,140,170,173,197]. Score:64 NumLits:10 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[10,12,29,43,57,68,75,77,114,140,151,170,173,197]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[10,12,29,43,56,57,68,75,77,114,140,151,170,173,197]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[10,12,29,43,56,57,68,75,77,114,130,140,151,170,173,197]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[32]. Score:-26 NumLits:30 NewPos:4 Neg:0 Prec:1
+Best armg at iter 2:[32,122]. Score:-10 NumLits:23 NewPos:13 Neg:0 Prec:1
+Best armg at iter 3:[29,32,122]. Score:-2 NumLits:22 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[29,32,67,122]. Score:8 NumLits:20 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[29,32,67,122,186]. Score:17 NumLits:19 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[29,32,67,122,176,186]. Score:25 NumLits:18 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[14,29,32,67,122,176,186]. Score:33 NumLits:17 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[14,29,32,67,95,122,176,186]. Score:40 NumLits:16 NewPos:56 Neg:0 Prec:1
+Best armg at iter 9:[14,29,32,67,82,95,122,176,186]. Score:46 NumLits:15 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[29,32,42,67,82,122,144,176,186,197]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[14,29,32,39,67,82,95,122,173,176,186]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[12,14,29,32,39,67,82,95,122,173,176,186]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,14,29,32,39,56,67,82,95,122,173,176,186]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[12,14,29,32,39,56,67,82,95,122,170,173,176,186]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,12,14,29,32,39,62,67,82,84,95,122,173,176,186]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[10,12,14,29,32,39,62,67,82,84,95,122,170,173,176,186]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[34]. Score:-25 NumLits:29 NewPos:5 Neg:1 Prec:0.8333
+Best armg at iter 2:[34,182]. Score:-10 NumLits:22 NewPos:13 Neg:1 Prec:0.9286
+Best armg at iter 3:[34,88,182]. Score:0 NumLits:21 NewPos:22 Neg:1 Prec:0.9565
+Best armg at iter 4:[34,88,166,182]. Score:10 NumLits:19 NewPos:30 Neg:1 Prec:0.9677
+Best armg at iter 5:[34,88,99,166,182]. Score:18 NumLits:18 NewPos:37 Neg:1 Prec:0.9737
+Best armg at iter 6:[17,34,88,162,182,199]. Score:26 NumLits:17 NewPos:44 Neg:1 Prec:0.9778
+Best armg at iter 7:[14,17,34,77,88,182,199]. Score:34 NumLits:16 NewPos:51 Neg:1 Prec:0.9808
+Best armg at iter 8:[14,17,34,77,88,95,182,199]. Score:41 NumLits:15 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[14,17,34,77,82,88,95,182,199]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[14,17,34,77,82,88,95,151,182,199]. Score:52 NumLits:13 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[14,17,34,39,77,82,88,95,151,182,199]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[12,14,17,34,42,55,77,82,88,95,182,199]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,14,17,34,42,55,62,77,82,88,95,182,199]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[10,12,14,17,34,42,55,62,77,82,88,95,182,199]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,12,14,17,34,42,55,62,77,82,88,95,130,182,199]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[12,14,17,34,42,45,55,56,77,82,88,95,108,130,182,199]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Best armg at iter 17:[12,14,17,19,34,42,45,55,56,77,82,88,95,108,130,182,199]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[36]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[36,121]. Score:-9 NumLits:25 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[36,67,121]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[36,116,189,192]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[36,88,140,189,192]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[20,36,88,140,189,192]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[36,67,120,121,186,190,195]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[36,47,67,120,121,186,190,195]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[36,47,67,68,120,121,186,190,195]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[36,47,67,68,120,121,151,186,190,195]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[36,47,67,68,91,120,121,151,186,190,195]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[36,47,62,67,68,115,120,121,151,186,190,195]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[36,47,62,67,68,115,120,121,151,152,186,190,195]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[36,47,62,64,67,68,84,115,120,121,151,186,190,195]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,36,47,62,64,67,68,84,115,120,121,151,186,190,195]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[37]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[37,184]. Score:-11 NumLits:25 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[37,127,184]. Score:0 NumLits:22 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[37,74,127,184]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[37,74,127,184,186]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[37,74,125,127,184,186]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[37,57,74,125,127,184,186]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[37,57,59,74,125,127,184,186]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[34,37,57,59,74,125,127,184,186]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[37,39,74,95,115,125,127,154,184,186]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[34,37,47,57,59,66,74,125,127,184,186]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[34,37,47,57,59,66,74,125,127,152,184,186]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[34,37,45,47,57,59,66,74,125,127,152,184,186]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[34,37,45,47,57,59,62,66,74,125,127,152,184,186]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,34,37,45,47,57,59,62,66,74,125,127,152,184,186]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[10,34,37,45,47,57,59,62,66,74,108,125,127,152,184,186]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[39]. Score:-24 NumLits:29 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[39,199]. Score:-12 NumLits:24 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[39,85,199]. Score:-1 NumLits:22 NewPos:21 Neg:0 Prec:1
+Best armg at iter 4:[39,85,166,199]. Score:9 NumLits:20 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[39,85,166,187,199]. Score:19 NumLits:18 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[39,85,125,166,187,199]. Score:27 NumLits:17 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[39,85,125,166,187,195,199]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[39,85,120,125,166,187,195,199]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[39,82,85,120,125,166,187,195,199]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[12,39,82,85,120,125,166,187,195,199]. Score:52 NumLits:13 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[12,39,82,85,91,120,125,166,187,195,199]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[12,39,82,85,91,120,125,132,166,187,195,199]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[12,39,66,82,85,91,120,125,132,166,187,195,199]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[10,12,39,66,82,85,91,120,125,132,166,187,195,199]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,12,39,66,82,84,85,91,120,125,132,166,187,195,199]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[40]. Score:-24 NumLits:30 NewPos:6 Neg:0 Prec:1
+Best armg at iter 2:[40,58]. Score:-11 NumLits:25 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[40,58,176]. Score:-3 NumLits:24 NewPos:21 Neg:0 Prec:1
+Best armg at iter 4:[40,58,121,176]. Score:9 NumLits:21 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[40,58,85,140,176]. Score:19 NumLits:19 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[14,40,58,85,140,176]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[40,58,121,174,176,190,195]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[14,24,40,42,58,85,140,176]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[40,42,58,121,154,174,176,190,195]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[14,24,40,42,58,59,85,91,140,176]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[14,24,40,42,55,58,59,85,91,140,176]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[14,24,40,42,55,58,59,85,91,140,170,176]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[12,14,24,40,42,55,58,59,85,91,140,170,176]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:65 NumLits:10 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[42]. Score:-24 NumLits:29 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[42,189]. Score:-13 NumLits:25 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[42,124,189]. Score:-1 NumLits:21 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[42,122,124,189]. Score:9 NumLits:20 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[42,58,122,124,189]. Score:19 NumLits:18 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[42,99,116,148,166,189]. Score:27 NumLits:17 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[42,99,116,125,148,166,189]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[42,95,99,116,125,148,166,189]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,42,79,99,116,125,148,166,189]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,42,66,79,99,116,125,148,166,189]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[1,34,42,66,79,99,116,125,148,166,189]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,34,42,66,79,99,116,125,148,152,166,189]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[42,59,64,95,99,116,125,132,148,151,166,173,189]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[19,42,59,64,95,99,116,125,132,148,151,166,173,189]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,10,34,42,45,66,79,99,116,125,130,148,152,166,189]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[1,10,34,42,45,56,66,79,99,116,125,130,148,152,166,189]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[43]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[43,155]. Score:-9 NumLits:25 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[2,43,90]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[2,43,90,190]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[2,43,90,160,190]. Score:18 NumLits:20 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[43,59,148,155,162,190]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[2,29,43,90,144,186,190]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[2,29,43,47,90,144,186,190]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,2,29,43,47,90,144,186,190]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,2,29,43,47,90,91,144,186,190]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[1,2,29,43,47,90,91,144,152,186,190]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[1,2,29,43,47,90,91,132,144,152,186,190]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[1,2,29,32,43,47,90,91,132,144,152,186,190]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[1,2,29,43,47,55,84,90,91,132,144,152,186,190]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,2,19,29,43,47,55,84,90,91,132,144,152,186,190]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[1,2,29,43,47,90,91,108,130,132,144,151,152,170,186,190]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Best armg at iter 17:[1,2,19,29,43,47,90,91,108,130,132,144,151,152,170,186,190]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[45]. Score:-28 NumLits:30 NewPos:2 Neg:0 Prec:1
+Best armg at iter 2:[45,82]. Score:-16 NumLits:23 NewPos:7 Neg:0 Prec:1
+Best armg at iter 3:[45,75,148]. Score:-3 NumLits:22 NewPos:19 Neg:0 Prec:1
+Best armg at iter 4:[45,67,75,148]. Score:7 NumLits:20 NewPos:27 Neg:0 Prec:1
+Best armg at iter 5:[20,45,67,75,148]. Score:15 NumLits:19 NewPos:34 Neg:0 Prec:1
+Best armg at iter 6:[20,29,45,67,75,148]. Score:23 NumLits:18 NewPos:41 Neg:0 Prec:1
+Best armg at iter 7:[20,29,45,67,75,79,148]. Score:30 NumLits:17 NewPos:47 Neg:0 Prec:1
+Best armg at iter 8:[20,29,36,45,67,75,79,148]. Score:38 NumLits:16 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[20,29,36,45,67,75,79,96,148]. Score:45 NumLits:14 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[1,20,29,36,45,67,75,79,96,148]. Score:51 NumLits:13 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[1,20,29,36,45,67,75,79,96,148,194]. Score:56 NumLits:12 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[1,20,29,36,45,66,67,75,79,96,148,194]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[1,20,29,36,45,62,66,67,75,79,96,148,194]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,10,20,29,36,45,62,66,67,75,79,96,148,194]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[1,10,12,20,29,36,45,62,66,67,75,79,96,148,194]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[1,10,12,20,29,36,45,62,66,67,75,79,96,108,148,194]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[47]. Score:-24 NumLits:29 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[47,88]. Score:-11 NumLits:25 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[47,88,126]. Score:1 NumLits:21 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[47,88,126,162]. Score:11 NumLits:19 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[37,47,88,126,162]. Score:19 NumLits:18 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[37,47,88,126,162,189]. Score:27 NumLits:17 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[14,37,47,88,126,162,189]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[14,37,47,88,95,126,162,189]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,14,37,47,88,95,126,162,189]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[14,37,47,82,88,95,115,126,162,189]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[14,37,47,64,82,88,95,115,126,162,189]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[14,37,47,55,64,82,88,95,115,126,162,189]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[14,37,47,55,64,82,88,95,115,126,132,162,189]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[14,37,45,47,55,64,82,88,95,115,126,132,162,189]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[14,37,45,47,55,64,82,84,88,95,115,126,132,162,189]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[14,19,37,45,47,55,64,82,84,88,95,115,126,132,162,189]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[55]. Score:-26 NumLits:30 NewPos:4 Neg:0 Prec:1
+Best armg at iter 2:[55,88]. Score:-10 NumLits:23 NewPos:13 Neg:0 Prec:1
+Best armg at iter 3:[55,88,192]. Score:0 NumLits:21 NewPos:21 Neg:0 Prec:1
+Best armg at iter 4:[55,88,186,192]. Score:9 NumLits:20 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[55,88,176,186,192]. Score:17 NumLits:19 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[55,88,176,186,189,192]. Score:25 NumLits:18 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[20,55,88,176,186,189,192]. Score:33 NumLits:17 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[20,55,57,88,176,186,189,192]. Score:40 NumLits:16 NewPos:56 Neg:0 Prec:1
+Best armg at iter 9:[20,55,57,88,96,176,186,189,192]. Score:47 NumLits:14 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[20,55,68,88,96,144,176,186,189,192]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[20,55,57,59,88,96,115,176,186,189,192]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[20,55,57,59,88,96,115,152,176,186,189,192]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[20,34,55,62,68,84,88,96,144,176,186,189,192]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[12,20,34,55,62,68,84,88,96,144,176,186,189,192]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Before neg reduction. Score:69 NumLits:9 NewPos:79, Neg:1 Prec:0.9875
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[56]. Score:-26 NumLits:29 NewPos:3 Neg:0 Prec:1
+Best armg at iter 2:[56,186]. Score:-12 NumLits:23 NewPos:11 Neg:0 Prec:1
+Best armg at iter 3:[56,85,186]. Score:-1 NumLits:21 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[56,58,85,186]. Score:9 NumLits:19 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[56,58,85,186,189]. Score:17 NumLits:18 NewPos:35 Neg:0 Prec:1
+Best armg at iter 6:[56,58,85,176,186,189]. Score:25 NumLits:17 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[56,57,58,85,176,186,189]. Score:32 NumLits:16 NewPos:48 Neg:0 Prec:1
+Best armg at iter 8:[37,39,56,58,85,143,186,189]. Score:39 NumLits:15 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[37,39,56,58,85,143,144,186,189]. Score:46 NumLits:14 NewPos:60 Neg:0 Prec:1
+Best armg at iter 10:[47,56,57,58,85,125,154,176,186,189]. Score:52 NumLits:13 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[47,56,57,58,85,125,154,173,176,186,189]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[32,47,56,57,58,85,125,154,173,176,186,189]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[32,47,56,57,58,64,85,125,154,173,176,186,189]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[32,47,56,57,58,64,85,125,154,170,173,176,186,189]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[32,45,47,56,57,58,64,85,108,125,154,173,176,186,189]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[32,45,47,56,57,58,64,85,108,125,130,154,173,176,186,189]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[57]. Score:-24 NumLits:30 NewPos:6 Neg:0 Prec:1
+Best armg at iter 2:[57,162]. Score:-11 NumLits:25 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[57,122,162]. Score:1 NumLits:22 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[57,122,162,182]. Score:11 NumLits:20 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[17,57,122,162,182]. Score:19 NumLits:19 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[17,37,57,122,162,182]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[17,37,57,122,125,162,182]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[17,37,57,115,122,125,162,182]. Score:41 NumLits:15 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[17,37,42,57,66,122,125,162,182]. Score:47 NumLits:14 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[17,37,57,66,82,96,122,125,162,182]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[17,37,42,57,66,82,122,125,162,182,194]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[17,37,42,57,66,82,122,125,132,162,182,194]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[17,19,37,42,57,66,82,122,125,132,162,182,194]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:65 NumLits:10 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[58]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[58,116]. Score:-8 NumLits:25 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[58,116,187]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[37,58,116,187]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[37,58,116,187,189]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[37,58,116,144,187,189]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[14,37,58,116,144,187,189]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[14,37,39,58,116,144,187,189]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[14,37,58,68,114,116,144,187,189]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[14,37,55,58,68,114,116,144,187,189]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[14,37,55,58,68,114,116,144,173,187,189]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[14,37,55,58,64,68,114,116,144,173,187,189]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[14,37,45,55,58,64,68,114,116,144,173,187,189]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[14,37,45,55,58,62,64,68,114,115,116,144,187,189]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[14,37,45,55,58,62,64,68,84,114,115,116,144,187,189]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[59]. Score:-24 NumLits:29 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[59,85]. Score:-8 NumLits:22 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[59,85,127]. Score:1 NumLits:21 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[37,59,85,127]. Score:9 NumLits:20 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[37,59,85,127,190]. Score:17 NumLits:19 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[37,59,85,127,182,190]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[37,59,85,127,182,189,190]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[37,42,59,85,127,182,189,190]. Score:41 NumLits:15 NewPos:56 Neg:0 Prec:1
+Best armg at iter 9:[37,47,59,85,120,127,182,190,195]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[37,47,59,64,85,120,127,182,190,195]. Score:52 NumLits:13 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[37,47,59,64,85,115,120,127,182,190,195]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[32,37,47,59,64,85,115,120,127,182,190,195]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[32,37,47,59,64,85,115,120,127,132,182,190,195]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[32,37,47,59,64,85,115,120,127,132,170,182,190,195]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[32,37,47,59,64,85,115,120,127,130,132,170,182,190,195]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[10,32,37,47,59,64,85,115,120,127,130,132,170,182,190,195]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Best armg at iter 17:[10,32,37,47,59,64,85,108,115,120,127,130,132,170,182,190,195]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[62]. Score:-26 NumLits:29 NewPos:3 Neg:0 Prec:1
+Best armg at iter 2:[24,62]. Score:-16 NumLits:26 NewPos:10 Neg:0 Prec:1
+Best armg at iter 3:[24,62,187]. Score:-3 NumLits:21 NewPos:18 Neg:0 Prec:1
+Best armg at iter 4:[24,62,155,187]. Score:7 NumLits:20 NewPos:27 Neg:0 Prec:1
+Best armg at iter 5:[24,62,155,166,187]. Score:17 NumLits:18 NewPos:35 Neg:0 Prec:1
+Best armg at iter 6:[24,62,155,166,176,187]. Score:25 NumLits:17 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[14,24,62,155,166,176,187]. Score:33 NumLits:16 NewPos:49 Neg:0 Prec:1
+Best armg at iter 8:[24,40,62,90,109,127,176,187]. Score:40 NumLits:15 NewPos:55 Neg:0 Prec:1
+Best armg at iter 9:[24,40,62,90,109,127,154,176,187]. Score:46 NumLits:14 NewPos:60 Neg:0 Prec:1
+Best armg at iter 10:[24,40,42,62,90,109,127,154,176,187]. Score:52 NumLits:13 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[24,34,40,42,62,90,109,127,154,176,187]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[24,32,34,40,42,62,90,109,127,154,176,187]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,24,34,40,42,62,90,109,127,151,154,176,187]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[10,12,24,34,40,42,62,90,109,127,151,154,176,187]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[19,24,34,40,42,45,55,62,84,90,109,127,154,176,187]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[19,24,34,40,42,45,55,62,84,90,109,127,152,154,176,187]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[64]. Score:-26 NumLits:29 NewPos:3 Neg:0 Prec:1
+Best armg at iter 2:[64,148]. Score:-13 NumLits:24 NewPos:11 Neg:0 Prec:1
+Best armg at iter 3:[64,127,148]. Score:-3 NumLits:22 NewPos:19 Neg:0 Prec:1
+Best armg at iter 4:[64,113,116,148]. Score:6 NumLits:21 NewPos:27 Neg:0 Prec:1
+Best armg at iter 5:[58,64,113,116,148]. Score:16 NumLits:19 NewPos:35 Neg:0 Prec:1
+Best armg at iter 6:[29,64,113,116,148,166]. Score:24 NumLits:18 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[29,64,113,116,148,166,190]. Score:32 NumLits:17 NewPos:49 Neg:0 Prec:1
+Best armg at iter 8:[20,29,64,79,113,116,148,166]. Score:39 NumLits:16 NewPos:55 Neg:0 Prec:1
+Best armg at iter 9:[29,39,64,79,113,116,148,166,190]. Score:46 NumLits:14 NewPos:60 Neg:0 Prec:1
+Best armg at iter 10:[29,39,64,68,79,113,116,148,166,190]. Score:52 NumLits:13 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[29,39,64,68,79,113,116,148,151,166,190]. Score:57 NumLits:12 NewPos:69 Neg:0 Prec:1
+Best armg at iter 12:[29,32,39,64,79,82,91,113,116,148,166,190]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[29,32,39,64,79,82,84,91,113,116,148,166,190]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[19,29,32,39,64,79,82,84,91,113,116,148,166,190]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[19,29,39,45,62,64,68,79,113,116,130,148,151,166,190]. Score:70 NumLits:8 NewPos:78 Neg:0 Prec:1
+Best armg at iter 16:[19,29,39,45,62,64,68,79,108,113,116,148,151,166,190,194]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[66]. Score:-26 NumLits:30 NewPos:4 Neg:0 Prec:1
+Best armg at iter 2:[66,122]. Score:-10 NumLits:23 NewPos:13 Neg:0 Prec:1
+Best armg at iter 3:[66,77,122]. Score:0 NumLits:21 NewPos:21 Neg:0 Prec:1
+Best armg at iter 4:[66,77,122,126]. Score:9 NumLits:20 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[66,77,122,126,143]. Score:17 NumLits:19 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[66,77,99,122,126,143]. Score:25 NumLits:18 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[29,43,66,77,122,148,197]. Score:33 NumLits:17 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[1,29,43,66,77,122,148,197]. Score:39 NumLits:16 NewPos:55 Neg:0 Prec:1
+Best armg at iter 9:[1,29,43,66,77,122,144,148,197]. Score:46 NumLits:15 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[1,29,43,66,77,115,122,144,148,197]. Score:52 NumLits:13 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[1,29,42,43,66,77,115,122,144,148,197]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,29,42,43,64,66,77,115,122,144,148,197]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,29,42,43,64,66,77,115,122,130,144,148,197]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,12,29,34,43,47,66,77,84,122,144,148,170,197]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[1,12,29,34,43,47,66,77,84,108,122,144,148,170,197]. Score:70 NumLits:8 NewPos:79 Neg:1 Prec:0.9875
+Before neg reduction. Score:70 NumLits:8 NewPos:79, Neg:1 Prec:0.9875
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[67]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[67,74]. Score:-8 NumLits:25 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[67,90,186]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[67,90,125,186]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[36,67,90,125,186]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[36,67,90,125,144,186]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[36,67,90,125,154,160,186]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[36,67,90,125,144,154,160,186]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[36,39,67,90,125,144,154,160,186]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[36,39,67,90,91,125,144,154,160,186]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[36,39,67,90,91,125,144,152,154,160,186]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[36,39,67,90,91,125,144,152,154,160,170,186]. Score:60 NumLits:11 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[10,36,39,67,90,91,125,144,152,154,160,170,186]. Score:63 NumLits:10 NewPos:74 Neg:1 Prec:0.9867
+Before neg reduction. Score:63 NumLits:10 NewPos:74, Neg:1 Prec:0.9867
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[68]. Score:-24 NumLits:29 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[68,195]. Score:-10 NumLits:22 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[68,88,176]. Score:0 NumLits:21 NewPos:21 Neg:0 Prec:1
+Best armg at iter 4:[67,68,88,176]. Score:9 NumLits:20 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[20,67,68,88,176]. Score:17 NumLits:19 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[20,67,68,88,148,176]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[20,24,67,68,88,174,176]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[20,24,67,68,88,144,176,187]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[20,24,67,68,88,91,144,176,187]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[20,24,67,68,88,91,114,144,176,187]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[20,24,56,67,68,88,91,114,144,176,187]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[20,24,56,66,67,68,88,91,114,144,176,187]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,20,24,56,66,67,68,88,91,114,144,176,187]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[20,24,45,66,67,68,88,91,114,132,144,152,176,187]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,12,20,24,56,66,67,68,88,91,108,114,144,176,187]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[10,12,20,24,56,66,67,68,88,91,108,114,130,144,176,187]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[74]. Score:-21 NumLits:30 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[74,166]. Score:-8 NumLits:25 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[74,166,187]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[74,99,166,187]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[74,99,160,166,187]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[74,95,99,160,166,187]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[74,95,99,160,166,187,197]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[39,74,95,99,160,166,187,197]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[39,74,95,99,151,160,166,187,197]. Score:47 NumLits:14 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[32,39,64,74,95,99,160,166,187,197]. Score:51 NumLits:13 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[32,34,39,64,74,95,99,160,166,187,197]. Score:56 NumLits:12 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[32,34,39,64,74,95,99,154,160,166,187,197]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[32,34,39,56,64,74,95,99,154,160,166,187,197]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[32,34,39,56,64,74,95,99,154,160,166,170,187,197]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[32,34,39,56,64,74,95,99,130,154,160,166,170,187,197]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[32,34,39,56,64,74,95,99,108,130,154,160,166,170,187,197]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[75]. Score:-21 NumLits:30 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[75,174]. Score:-6 NumLits:23 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[75,77,186]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[24,75,77,186]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[24,75,77,143,186]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[24,43,75,77,143,186]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[24,57,75,77,113,143,186]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[24,42,57,75,77,113,143,186]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[24,34,39,57,75,77,113,143,186]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[24,39,57,66,75,77,82,113,143,186]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[24,39,57,66,75,77,82,91,113,143,186]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[24,39,57,66,75,77,82,91,113,143,152,186]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[24,39,56,57,66,75,77,82,84,113,143,173,186]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:65 NumLits:10 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[77]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[75,77]. Score:-8 NumLits:25 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[75,77,182]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[75,77,99,182]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[75,77,99,109,182]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[75,77,99,109,144,182]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[42,75,77,99,109,144,182]. Score:34 NumLits:16 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[59,75,77,99,109,144,182,195]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[59,75,77,99,109,144,173,182,195]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[59,66,75,77,99,109,144,173,182,195]. Score:52 NumLits:13 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[47,59,66,75,77,99,109,144,173,182,195]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[47,59,66,75,77,99,109,132,144,173,182,195]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,47,59,66,75,77,99,109,132,144,173,182,195]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[19,47,56,59,64,66,75,77,99,109,144,173,182,195]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[19,47,59,64,66,75,77,99,108,109,132,144,173,182,195]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[19,47,56,59,64,66,75,77,84,99,108,109,144,173,182,195]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[79]. Score:-24 NumLits:30 NewPos:6 Neg:0 Prec:1
+Best armg at iter 2:[67,79]. Score:-11 NumLits:25 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[67,79,88]. Score:1 NumLits:22 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[67,79,88,126]. Score:11 NumLits:20 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[67,79,88,126,199]. Score:19 NumLits:19 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[67,79,88,126,190,199]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[67,79,88,114,126,190,199]. Score:34 NumLits:16 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[67,79,88,114,126,189,190,199]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[66,67,79,88,114,126,189,190,199]. Score:47 NumLits:14 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[64,66,67,79,88,114,126,189,190,199]. Score:51 NumLits:13 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[64,66,67,79,88,114,126,189,190,194,199]. Score:56 NumLits:12 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[1,12,66,67,79,88,114,126,130,189,190,199]. Score:60 NumLits:11 NewPos:71 Neg:0 Prec:1
+Best armg at iter 13:[1,12,34,66,67,79,88,114,126,130,189,190,199]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[12,66,67,68,79,88,91,114,126,130,132,189,190,199]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,10,12,34,62,66,67,79,88,114,126,130,189,190,199]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[82]. Score:-24 NumLits:29 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[82,155]. Score:-8 NumLits:22 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[82,155,186]. Score:1 NumLits:21 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[82,155,162,186]. Score:10 NumLits:20 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[43,82,155,162,186]. Score:18 NumLits:19 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[43,82,143,155,162,186]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[40,43,82,143,155,162,186]. Score:33 NumLits:17 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[40,43,82,143,155,162,184,186]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[40,43,82,96,143,155,162,184,186]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[32,40,43,82,96,143,155,162,184,186]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[32,40,43,82,96,132,143,155,162,184,186]. Score:57 NumLits:12 NewPos:69 Neg:0 Prec:1
+Best armg at iter 12:[32,40,43,82,96,132,143,155,162,184,186,194]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[32,40,43,82,96,130,132,143,155,162,184,186,194]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[12,32,40,43,82,96,130,132,143,155,162,184,186,194]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,12,32,40,43,82,96,130,132,143,155,162,184,186,194]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[10,12,32,40,43,82,96,108,130,132,143,155,162,184,186,194]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[84]. Score:-29 NumLits:31 NewPos:2 Neg:0 Prec:1
+Best armg at iter 2:[84,155]. Score:-13 NumLits:24 NewPos:11 Neg:0 Prec:1
+Best armg at iter 3:[84,155,176]. Score:-3 NumLits:21 NewPos:18 Neg:0 Prec:1
+Best armg at iter 4:[84,155,186,192]. Score:8 NumLits:19 NewPos:27 Neg:0 Prec:1
+Best armg at iter 5:[84,143,155,186,192]. Score:16 NumLits:18 NewPos:34 Neg:0 Prec:1
+Best armg at iter 6:[43,84,143,155,186,192]. Score:24 NumLits:17 NewPos:41 Neg:0 Prec:1
+Best armg at iter 7:[43,79,84,143,155,186,192]. Score:31 NumLits:16 NewPos:47 Neg:0 Prec:1
+Best armg at iter 8:[43,55,84,143,155,186,189,192]. Score:37 NumLits:15 NewPos:52 Neg:0 Prec:1
+Best armg at iter 9:[24,43,66,79,84,143,155,186,192]. Score:44 NumLits:14 NewPos:58 Neg:0 Prec:1
+Best armg at iter 10:[24,43,66,79,84,143,154,155,186,192]. Score:50 NumLits:13 NewPos:63 Neg:0 Prec:1
+Best armg at iter 11:[24,42,43,66,79,84,143,154,155,186,192]. Score:56 NumLits:12 NewPos:68 Neg:0 Prec:1
+Best armg at iter 12:[24,42,43,66,79,84,132,143,154,155,186,192]. Score:60 NumLits:11 NewPos:71 Neg:0 Prec:1
+Best armg at iter 13:[24,42,43,45,66,79,84,143,152,154,155,186,192]. Score:63 NumLits:10 NewPos:73 Neg:0 Prec:1
+Best armg at iter 14:[24,42,43,45,62,66,79,84,143,152,154,155,186,192]. Score:67 NumLits:9 NewPos:76 Neg:0 Prec:1
+Before neg reduction. Score:67 NumLits:9 NewPos:76, Neg:0 Prec:1
+After neg reduction. Score:75 NumLits:4 NewPos:79, Neg:0 Prec:1
+Best armg at iter 1:[85]. Score:-21 NumLits:30 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[85,186]. Score:-6 NumLits:23 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[67,85,124]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[67,85,124,199]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[67,85,124,184,199]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[36,57,85,162,186,189]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[36,57,85,162,186,189,197]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[36,39,57,85,162,186,189,197]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[34,36,39,57,85,162,186,189,197]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[34,36,39,57,66,85,162,186,189,197]. Score:52 NumLits:13 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[34,36,39,57,66,85,132,162,186,189,197]. Score:56 NumLits:12 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[36,39,55,57,62,64,85,162,173,186,189,197]. Score:60 NumLits:11 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[19,36,39,55,57,59,62,64,85,162,186,189,197]. Score:64 NumLits:10 NewPos:74 Neg:0 Prec:1
+Best armg at iter 14:[19,36,39,55,57,59,62,64,85,162,186,189,194,197]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[19,36,39,55,57,59,62,64,85,130,162,186,189,194,197]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[19,36,39,45,55,57,59,62,64,85,130,162,186,189,194,197]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Best armg at iter 17:[19,36,39,45,55,57,59,62,64,85,108,130,162,186,189,194,197]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[88]. Score:-21 NumLits:30 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[88,127]. Score:-8 NumLits:25 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[88,124,127]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[88,124,127,197]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[88,124,127,189,197]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[17,88,109,127,176,187]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[17,88,109,120,127,176,187]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[17,39,88,109,120,127,176,187]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[17,39,82,88,109,120,127,176,187]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[17,39,66,82,88,109,120,127,176,187]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[17,39,66,82,88,109,120,127,173,176,187]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[12,17,39,66,82,88,109,120,127,173,176,187]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,17,39,66,82,88,109,120,127,132,173,176,187]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[10,12,17,39,62,66,82,88,109,120,127,173,176,187]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,12,17,39,62,66,82,88,109,120,127,130,173,176,187]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[90]. Score:-21 NumLits:30 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[90,140]. Score:-6 NumLits:23 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[90,140,166]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[14,90,140,166]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[24,90,140,162,176]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[24,90,140,143,162,176]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[24,57,90,140,143,162,176]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[24,57,90,114,140,143,162,176]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[24,57,90,114,140,143,154,162,176]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[24,57,66,90,114,140,143,154,162,176]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[24,57,66,90,91,114,140,143,154,162,176]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[12,24,57,66,90,91,114,140,143,154,162,176]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,24,57,66,84,90,91,114,140,143,154,162,176]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[12,24,57,62,66,84,90,91,114,140,143,154,162,176]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[12,19,24,57,62,66,84,90,91,114,140,143,154,162,176]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[19,24,45,57,62,66,90,91,108,114,130,140,143,154,162,176]. Score:73 NumLits:7 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:73 NumLits:7 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[91]. Score:-25 NumLits:29 NewPos:5 Neg:1 Prec:0.8333
+Best armg at iter 2:[58,91]. Score:-11 NumLits:23 NewPos:13 Neg:1 Prec:0.9286
+Best armg at iter 3:[58,91,148]. Score:0 NumLits:20 NewPos:21 Neg:1 Prec:0.9545
+Best armg at iter 4:[58,85,91,126]. Score:10 NumLits:19 NewPos:30 Neg:1 Prec:0.9677
+Best armg at iter 5:[58,85,91,126,184]. Score:18 NumLits:18 NewPos:37 Neg:1 Prec:0.9737
+Best armg at iter 6:[14,58,85,91,126,184]. Score:26 NumLits:17 NewPos:44 Neg:1 Prec:0.9778
+Best armg at iter 7:[57,58,85,91,109,126,184]. Score:33 NumLits:16 NewPos:50 Neg:1 Prec:0.9804
+Best armg at iter 8:[57,58,85,91,109,126,176,184]. Score:41 NumLits:15 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[42,57,58,85,91,109,126,176,184]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[1,42,57,58,85,91,109,126,176,184]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[42,57,58,66,82,85,91,109,126,176,184]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[42,57,58,64,66,82,85,91,109,126,176,184]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[42,57,58,64,66,82,84,85,91,109,126,176,184]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[42,56,57,58,64,66,82,84,85,91,109,126,176,184]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[42,56,57,58,64,66,82,84,85,91,109,126,170,176,184]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[10,42,56,57,58,64,66,82,84,85,91,109,126,170,176,184]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[95]. Score:-24 NumLits:30 NewPos:6 Neg:0 Prec:1
+Best armg at iter 2:[95,155]. Score:-10 NumLits:25 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[95,140,155]. Score:1 NumLits:22 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[67,95,140,155]. Score:11 NumLits:20 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[67,95,113,140,155]. Score:19 NumLits:19 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[47,67,95,113,140,155]. Score:26 NumLits:17 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[29,37,58,95,109,140,155]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[29,37,47,58,95,109,140,155]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,29,37,47,58,95,109,140,155]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,29,37,47,58,95,109,140,155,194]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[1,29,37,47,58,66,95,109,140,155,194]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,29,37,47,58,66,95,109,132,140,155,194]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,12,29,37,47,58,66,95,109,140,155,170,194]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,10,12,29,37,47,58,66,95,109,140,155,170,194]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[1,10,29,37,47,56,58,66,84,95,108,109,140,155,194]. Score:70 NumLits:8 NewPos:79 Neg:1 Prec:0.9875
+Before neg reduction. Score:70 NumLits:8 NewPos:79, Neg:1 Prec:0.9875
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[96]. Score:-24 NumLits:29 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[88,96]. Score:-11 NumLits:25 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[88,96,186]. Score:1 NumLits:21 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[77,88,96,186]. Score:11 NumLits:19 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[77,88,96,186,190]. Score:19 NumLits:18 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[29,77,88,96,186,190]. Score:27 NumLits:17 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[29,36,77,88,96,186,190]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[29,36,40,77,88,96,186,190]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,29,36,40,77,88,96,186,190]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,29,36,40,62,77,88,96,186,190]. Score:52 NumLits:13 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[1,29,36,40,62,77,88,96,173,186,190]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[1,29,32,36,40,62,77,88,96,173,186,190]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,29,32,36,40,62,64,77,88,96,173,186,190]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[1,10,29,32,36,40,62,64,77,88,96,173,186,190]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,10,29,32,36,40,62,64,77,88,96,170,173,186,190]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[1,10,29,32,36,40,62,64,77,88,96,130,170,173,186,190]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Best armg at iter 17:[1,10,29,32,36,40,62,64,77,88,96,108,130,170,173,186,190]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[99]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[99,121]. Score:-9 NumLits:25 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[99,121,126]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[99,121,126,197]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[58,99,121,126,197]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[57,58,99,121,126,197]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[17,39,58,99,121,126,197]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[17,39,58,99,121,126,144,197]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[17,39,58,59,99,121,126,144,197]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[17,39,58,59,99,121,126,132,144,197]. Score:52 NumLits:13 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[17,39,58,59,99,121,126,132,144,173,197]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[17,32,39,58,59,99,121,126,132,144,173,197]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[17,32,39,58,59,99,121,126,132,144,152,173,197]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[17,32,39,58,59,99,121,126,132,144,152,170,173,197]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[17,19,39,55,58,59,84,99,121,126,132,144,170,173,197]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[12,17,19,39,55,58,59,84,99,121,126,132,144,170,173,197]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[108]. Score:-28 NumLits:29 NewPos:1 Neg:0 Prec:1
+Best armg at iter 2:[37,108]. Score:-15 NumLits:23 NewPos:8 Neg:0 Prec:1
+Best armg at iter 3:[37,108,121]. Score:-5 NumLits:22 NewPos:17 Neg:0 Prec:1
+Best armg at iter 4:[37,88,108,140]. Score:5 NumLits:20 NewPos:25 Neg:0 Prec:1
+Best armg at iter 5:[37,88,108,140,192]. Score:15 NumLits:18 NewPos:33 Neg:0 Prec:1
+Best armg at iter 6:[37,88,108,140,160,192]. Score:23 NumLits:17 NewPos:40 Neg:0 Prec:1
+Best armg at iter 7:[20,37,88,108,140,162,184]. Score:31 NumLits:16 NewPos:47 Neg:0 Prec:1
+Best armg at iter 8:[20,37,88,108,120,140,162,184]. Score:38 NumLits:15 NewPos:53 Neg:0 Prec:1
+Best armg at iter 9:[20,37,59,88,108,120,140,162,184]. Score:44 NumLits:14 NewPos:58 Neg:0 Prec:1
+Best armg at iter 10:[20,37,39,59,88,108,120,140,162,184]. Score:50 NumLits:13 NewPos:63 Neg:0 Prec:1
+Best armg at iter 11:[20,37,39,59,88,108,120,140,151,162,184]. Score:55 NumLits:12 NewPos:67 Neg:0 Prec:1
+Best armg at iter 12:[20,37,42,59,88,108,120,140,151,162,184,194]. Score:60 NumLits:11 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[20,37,42,59,88,108,120,132,140,151,162,184,194]. Score:64 NumLits:10 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[20,37,42,59,64,88,108,120,132,140,151,162,184,194]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:68 NumLits:9 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[109]. Score:-23 NumLits:30 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[2,109]. Score:-10 NumLits:25 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[2,109,186]. Score:0 NumLits:23 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[109,126,155,189]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[77,109,126,155,189]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[2,109,113,126,155,189]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[2,40,109,113,126,155,189]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[2,40,96,109,113,126,155,189]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,2,40,47,109,113,126,155,189]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,2,32,40,47,109,113,126,155,189]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[1,2,32,40,47,109,113,126,155,189,194]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,2,32,34,40,47,64,109,113,126,155,189]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,2,32,40,45,47,84,109,113,126,155,173,189]. Score:64 NumLits:10 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[1,2,10,32,40,45,47,64,109,113,126,130,155,189]. Score:66 NumLits:9 NewPos:75 Neg:0 Prec:1
+Best armg at iter 15:[1,2,10,32,40,45,47,64,109,113,126,130,132,155,189]. Score:70 NumLits:8 NewPos:78 Neg:0 Prec:1
+Best armg at iter 16:[1,2,10,32,40,45,47,64,109,113,115,126,130,132,155,189]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Best armg at iter 17:[1,2,10,32,34,40,45,47,64,108,109,113,126,130,132,155,189]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[113]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[88,113]. Score:-9 NumLits:25 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[88,113,124]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[58,88,113,124]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[29,58,88,113,124]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[14,29,58,88,113,124]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[20,29,58,88,113,124,144]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[20,29,58,88,96,113,124,144]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[20,29,58,66,88,96,113,124,144]. Score:47 NumLits:14 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[1,20,29,47,55,58,88,113,124,144]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[1,20,29,47,55,58,88,113,115,124,144]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,20,29,47,55,58,88,113,115,124,132,144]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,20,29,47,55,58,64,88,113,115,124,132,144]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[1,20,29,47,55,58,64,88,113,115,124,132,144,170]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Before neg reduction. Score:69 NumLits:9 NewPos:79, Neg:1 Prec:0.9875
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[114]. Score:-24 NumLits:29 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[114,122]. Score:-11 NumLits:25 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[114,122,182]. Score:1 NumLits:21 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[43,114,122,192]. Score:9 NumLits:20 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[43,114,122,187,192]. Score:19 NumLits:18 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[43,114,122,174,192,195]. Score:27 NumLits:17 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[43,109,114,122,174,192,195]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[43,109,114,115,122,174,192,195]. Score:40 NumLits:15 NewPos:56 Neg:1 Prec:0.9825
+Best armg at iter 9:[43,62,109,114,115,122,174,192,195]. Score:44 NumLits:14 NewPos:59 Neg:1 Prec:0.9833
+Best armg at iter 10:[43,62,109,114,115,122,144,174,192,195]. Score:51 NumLits:13 NewPos:65 Neg:1 Prec:0.9848
+Best armg at iter 11:[43,62,79,82,109,114,115,122,174,192,195]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[43,62,79,82,109,114,115,122,151,174,192,195]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[43,62,64,79,82,109,114,115,122,151,174,192,195]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[19,43,62,64,79,82,109,114,115,122,151,174,192,195]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[19,43,62,64,79,82,109,114,115,122,151,170,174,192,195]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[19,43,62,64,79,82,84,109,114,115,122,151,170,174,192,195]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[115]. Score:-25 NumLits:29 NewPos:5 Neg:1 Prec:0.8333
+Best armg at iter 2:[77,115]. Score:-11 NumLits:23 NewPos:13 Neg:1 Prec:0.9286
+Best armg at iter 3:[77,115,124]. Score:0 NumLits:20 NewPos:21 Neg:1 Prec:0.9545
+Best armg at iter 4:[77,90,115,124]. Score:10 NumLits:19 NewPos:30 Neg:1 Prec:0.9677
+Best armg at iter 5:[37,77,90,115,124]. Score:18 NumLits:18 NewPos:37 Neg:1 Prec:0.9737
+Best armg at iter 6:[20,37,77,90,115,124]. Score:26 NumLits:17 NewPos:44 Neg:1 Prec:0.9778
+Best armg at iter 7:[20,37,77,90,115,124,184]. Score:34 NumLits:16 NewPos:51 Neg:1 Prec:0.9808
+Best armg at iter 8:[37,40,77,90,115,124,195,197]. Score:41 NumLits:15 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[37,40,68,77,90,115,124,195,197]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[37,40,47,68,77,90,115,124,195,197]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[37,40,47,62,68,77,90,115,124,195,197]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[37,40,47,55,62,68,77,90,115,124,195,197]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[37,40,47,55,62,68,77,90,115,124,170,195,197]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[37,40,47,55,62,64,68,77,90,115,124,170,195,197]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[37,40,47,55,62,64,68,77,90,115,124,130,170,195,197]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[37,40,47,55,62,64,68,77,90,108,115,124,130,170,195,197]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[116]. Score:-21 NumLits:30 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[67,116]. Score:-8 NumLits:25 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[67,116,187]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[67,109,116,187]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[67,109,116,176,187]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[57,67,116,125,187,189]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[29,42,67,109,116,176,187]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[29,42,57,67,109,116,176,187]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[29,32,42,57,67,109,116,176,187]. Score:47 NumLits:14 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[29,32,42,57,67,109,116,154,176,187]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[29,32,42,57,67,91,109,116,154,176,187]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[12,29,32,42,57,67,91,109,116,154,176,187]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,29,32,42,57,67,91,109,116,132,154,176,187]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Before neg reduction. Score:66 NumLits:10 NewPos:77, Neg:1 Prec:0.9872
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[120]. Score:-24 NumLits:30 NewPos:6 Neg:0 Prec:1
+Best armg at iter 2:[85,120]. Score:-10 NumLits:25 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[85,120,174]. Score:1 NumLits:22 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[85,120,174,192]. Score:11 NumLits:20 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[85,120,174,192,199]. Score:19 NumLits:19 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[85,109,120,174,192,199]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[85,91,109,120,174,192,199]. Score:33 NumLits:16 NewPos:50 Neg:1 Prec:0.9804
+Best armg at iter 8:[14,47,67,85,120,160,174,199]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[14,47,67,68,85,120,160,174,199]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[14,47,66,67,68,85,120,160,174,199]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[14,34,47,66,67,68,85,120,160,174,199]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[14,47,56,67,68,85,120,151,160,173,174,199]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[14,19,47,56,67,68,85,120,151,160,173,174,199]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[14,19,34,45,47,62,66,67,68,85,120,160,174,199]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[14,19,34,45,47,62,66,67,68,84,85,120,160,174,199]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Before neg reduction. Score:71 NumLits:8 NewPos:80, Neg:1 Prec:0.9877
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[121]. Score:-21 NumLits:30 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[17,121]. Score:-13 NumLits:29 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[17,121,140]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[17,121,125,140]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[17,121,125,140,162]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[17,113,121,125,140,162]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[17,79,113,121,125,140,162]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[17,39,79,113,121,125,140,162]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,17,79,113,114,121,125,140,162]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,17,55,79,113,114,121,125,140,162]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[1,17,32,47,79,113,121,125,140,162,194]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,17,32,47,62,79,113,121,125,140,162,194]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,17,32,47,79,84,113,121,125,140,152,162,194]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,17,32,47,56,79,84,113,121,125,140,152,162,194]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,10,17,32,47,56,79,84,113,121,125,140,152,162,194]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[1,10,17,32,47,56,79,84,108,113,121,125,140,152,162,194]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Best armg at iter 17:[1,10,17,32,47,56,79,84,108,113,121,125,140,152,162,170,194]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[122]. Score:-21 NumLits:30 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[67,122]. Score:-8 NumLits:25 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[67,122,190]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[67,122,126,190]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[67,122,126,190,195]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[67,122,126,176,190,195]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[67,122,126,144,176,190,195]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[39,67,122,126,144,176,190,195]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[39,59,67,122,126,144,176,190,195]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[34,39,59,67,122,126,144,176,190,195]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[34,39,59,67,122,126,144,151,176,190,195]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[34,39,59,67,122,126,144,151,152,176,190,195]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[34,39,45,59,67,122,126,144,151,152,176,190,195]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[34,39,45,59,67,122,126,132,144,151,152,176,190,195]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,34,39,45,59,67,122,126,132,144,151,152,176,190,195]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[124]. Score:-22 NumLits:30 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[122,124]. Score:-6 NumLits:23 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[122,124,162]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[122,124,143,162]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[29,122,124,143,162]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[113,122,124,143,144,162]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[113,122,124,143,144,162,184]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[42,113,122,124,143,144,162,184]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[42,68,113,122,124,143,144,162,184]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[42,68,91,113,122,124,143,144,162,184]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[12,42,66,68,113,122,124,143,144,162,184]. Score:57 NumLits:12 NewPos:69 Neg:0 Prec:1
+Best armg at iter 12:[12,42,62,66,68,113,122,124,143,144,162,184]. Score:61 NumLits:11 NewPos:72 Neg:0 Prec:1
+Best armg at iter 13:[12,34,42,45,66,68,113,122,124,143,144,162,184]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[12,42,62,66,68,113,122,124,143,144,162,170,173,184]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Before neg reduction. Score:69 NumLits:9 NewPos:79, Neg:1 Prec:0.9875
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[125]. Score:-30 NumLits:31 NewPos:1 Neg:0 Prec:1
+Best armg at iter 2:[116,125]. Score:-9 NumLits:25 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[116,125,126]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[75,125,166,186]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[75,125,166,184,186]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[75,125,166,176,184,186]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[75,125,144,166,176,184,186]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[39,75,125,144,166,176,184,186]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[39,75,91,125,144,166,176,184,186]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[1,39,75,91,125,144,166,176,184,186]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[1,39,75,91,125,130,144,166,176,184,186]. Score:56 NumLits:12 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[1,39,66,75,91,125,130,144,166,176,184,186]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[1,39,56,66,75,91,125,130,144,166,176,184,186]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,39,56,66,75,91,125,130,144,152,166,176,184,186]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,19,39,56,66,75,91,125,130,144,152,166,176,184,186]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[126]. Score:-22 NumLits:30 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[116,126]. Score:-6 NumLits:23 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[77,116,126]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[77,116,126,176]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[77,116,126,160,176]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[37,116,126,143,162,184]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[37,57,116,126,143,162,184]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[37,47,57,116,126,143,162,184]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[37,59,79,114,116,126,143,162,184]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[37,59,79,114,116,126,143,162,173,184]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[37,59,79,114,116,126,143,162,170,173,184]. Score:56 NumLits:12 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[37,47,57,68,116,126,132,143,152,162,173,184]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[37,47,57,68,116,126,132,143,151,152,162,173,184]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[10,37,47,57,68,116,126,132,143,151,152,162,173,184]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[19,37,45,47,55,57,68,116,126,132,143,152,162,173,184]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[127]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[75,127]. Score:-8 NumLits:25 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[75,127,187]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[75,113,127,187]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[75,113,127,144,187]. Score:19 NumLits:19 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[20,43,75,124,127,195]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[39,75,95,109,113,127,187]. Score:34 NumLits:16 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[68,75,113,125,127,144,187,189]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[68,75,113,114,125,127,144,187,189]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[32,68,75,113,114,125,127,144,187,189]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[32,68,75,113,114,115,125,127,144,187,189]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[12,32,68,75,113,114,115,125,127,144,187,189]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,32,62,68,75,113,114,115,125,127,144,187,189]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[12,32,62,68,75,113,114,115,125,127,130,144,187,189]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,32,68,75,91,113,114,125,127,132,144,152,170,187,189]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[10,32,68,75,84,91,113,114,125,127,132,144,152,170,187,189]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[130]. Score:-29 NumLits:31 NewPos:2 Neg:0 Prec:1
+Best armg at iter 2:[130,174]. Score:-15 NumLits:25 NewPos:10 Neg:0 Prec:1
+Best armg at iter 3:[130,174,189]. Score:-3 NumLits:20 NewPos:17 Neg:0 Prec:1
+Best armg at iter 4:[74,130,174,189]. Score:7 NumLits:19 NewPos:26 Neg:0 Prec:1
+Best armg at iter 5:[74,130,166,174,189]. Score:16 NumLits:18 NewPos:34 Neg:0 Prec:1
+Best armg at iter 6:[74,125,130,166,174,189]. Score:24 NumLits:17 NewPos:41 Neg:0 Prec:1
+Best armg at iter 7:[74,125,130,144,166,174,189]. Score:31 NumLits:16 NewPos:47 Neg:0 Prec:1
+Best armg at iter 8:[74,113,125,130,144,166,174,189]. Score:39 NumLits:15 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[47,74,113,125,130,144,166,174,189]. Score:45 NumLits:14 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[1,47,74,113,125,130,144,166,174,189]. Score:51 NumLits:13 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[1,32,47,74,113,125,130,144,166,174,189]. Score:56 NumLits:12 NewPos:68 Neg:0 Prec:1
+Best armg at iter 12:[1,47,56,66,74,113,125,130,144,166,174,189]. Score:60 NumLits:11 NewPos:71 Neg:0 Prec:1
+Best armg at iter 13:[1,47,56,66,74,113,125,130,144,166,174,189,194]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,45,47,56,66,74,113,125,130,144,166,174,189,194]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[1,19,47,56,66,74,113,115,125,130,144,152,166,174,189]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[1,19,47,56,66,74,108,113,115,125,130,144,152,166,174,189]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Best armg at iter 17:[1,19,47,56,66,74,108,113,115,125,130,144,152,166,170,174,189]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[132]. Score:-26 NumLits:29 NewPos:3 Neg:0 Prec:1
+Best armg at iter 2:[132,162]. Score:-13 NumLits:24 NewPos:11 Neg:0 Prec:1
+Best armg at iter 3:[116,132,162]. Score:-2 NumLits:22 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[116,125,132,162]. Score:7 NumLits:20 NewPos:27 Neg:0 Prec:1
+Best armg at iter 5:[116,125,132,162,174]. Score:17 NumLits:18 NewPos:35 Neg:0 Prec:1
+Best armg at iter 6:[37,116,125,132,162,174]. Score:25 NumLits:17 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[17,37,116,125,132,162,174]. Score:33 NumLits:16 NewPos:49 Neg:0 Prec:1
+Best armg at iter 8:[17,37,116,125,132,144,162,174]. Score:40 NumLits:15 NewPos:55 Neg:0 Prec:1
+Best armg at iter 9:[17,37,91,116,125,132,144,162,174]. Score:45 NumLits:14 NewPos:60 Neg:1 Prec:0.9836
+Best armg at iter 10:[17,37,68,96,116,125,132,162,174,194]. Score:50 NumLits:13 NewPos:64 Neg:1 Prec:0.9846
+Best armg at iter 11:[1,10,17,37,96,116,125,132,144,162,174]. Score:55 NumLits:12 NewPos:67 Neg:0 Prec:1
+Best armg at iter 12:[1,10,17,37,55,96,116,125,132,144,162,174]. Score:60 NumLits:11 NewPos:71 Neg:0 Prec:1
+Best armg at iter 13:[1,10,17,37,55,91,96,116,125,132,144,162,174]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,10,17,37,55,64,91,96,116,125,132,144,162,174]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,10,17,37,55,64,91,96,116,125,132,144,162,170,174]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[140]. Score:-22 NumLits:30 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[140,194]. Score:-10 NumLits:22 NewPos:13 Neg:1 Prec:0.9286
+Best armg at iter 3:[77,140,197]. Score:0 NumLits:23 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[77,140,184,197]. Score:10 NumLits:20 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[77,85,140,184,197]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[43,74,77,140,184,197]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[43,74,77,95,140,184,197]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[43,47,74,77,95,140,184,197]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[43,47,74,77,95,140,173,184,197]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[43,47,68,74,77,95,140,173,184,197]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[43,47,68,74,77,95,140,151,173,184,197]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[43,47,68,74,77,95,140,151,152,173,184,197]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[43,47,68,74,77,84,95,140,151,152,173,184,197]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[19,43,47,68,74,77,84,95,140,151,152,173,184,197]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:68 NumLits:9 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[143]. Score:-23 NumLits:30 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[90,143]. Score:-9 NumLits:25 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[90,143,148]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[36,90,143,148]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[29,67,75,143,187]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[36,90,143,148,160,166]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[36,90,95,143,148,160,166]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[36,57,90,114,143,148,160,166]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[36,57,82,90,114,143,148,160,166]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[36,57,82,90,114,143,148,160,166,194]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[36,57,82,90,114,143,148,160,166,170,194]. Score:56 NumLits:12 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[36,57,66,82,90,114,143,148,160,166,170,194]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[10,36,57,66,82,90,114,143,148,160,166,170,194]. Score:64 NumLits:10 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[10,36,57,66,82,90,114,143,148,152,160,166,170,194]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[10,36,57,62,66,82,90,114,143,148,152,160,166,170,194]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[10,36,57,62,66,82,84,90,114,143,148,152,160,166,170,194]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[144]. Score:-24 NumLits:30 NewPos:6 Neg:0 Prec:1
+Best armg at iter 2:[122,144]. Score:-10 NumLits:25 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[122,126,144]. Score:1 NumLits:22 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[58,122,126,144]. Score:11 NumLits:20 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[58,122,126,144,190]. Score:19 NumLits:19 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[58,122,126,144,184,190]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[39,58,122,126,144,184,190]. Score:34 NumLits:16 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[39,58,122,126,144,176,184,190]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[34,39,58,122,126,144,176,184,190]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[34,39,55,58,122,126,144,176,184,190]. Score:52 NumLits:13 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[1,34,39,58,62,122,126,144,176,184,190]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[1,34,39,58,62,122,126,144,151,176,184,190]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,34,39,58,62,122,126,130,144,151,176,184,190]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,34,39,58,62,122,126,130,144,151,152,176,184,190]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,12,34,39,58,62,108,122,126,144,151,170,176,184,190]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[1,10,12,34,39,58,62,108,122,126,144,151,170,176,184,190]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Best armg at iter 17:[1,10,12,34,39,58,62,84,108,122,126,144,151,170,176,184,190]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[148]. Score:-22 NumLits:30 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[85,148]. Score:-6 NumLits:23 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[122,148,162]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[109,122,148,162]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[109,113,122,148,162]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[40,109,113,122,148,162]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[29,40,109,113,122,148,162]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[29,40,42,109,113,122,148,162]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[29,40,42,82,109,113,122,148,162]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[29,40,42,82,109,113,122,148,162,173]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[29,32,40,42,82,109,113,122,148,162,173]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[29,32,40,42,82,109,113,122,132,148,162,173]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,29,32,40,42,82,109,113,122,132,148,162,173]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[10,12,29,32,40,42,82,109,113,122,132,148,162,173]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,12,29,32,40,42,45,82,109,113,122,132,148,162,173]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[151]. Score:-26 NumLits:30 NewPos:4 Neg:0 Prec:1
+Best armg at iter 2:[2,151]. Score:-14 NumLits:26 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[2,151,195]. Score:-2 NumLits:21 NewPos:19 Neg:0 Prec:1
+Best armg at iter 4:[67,151,155,190]. Score:8 NumLits:20 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[67,148,151,155,190]. Score:17 NumLits:19 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[67,151,155,186,189,190]. Score:25 NumLits:18 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[67,99,151,155,186,189,190]. Score:33 NumLits:17 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[67,95,99,151,155,186,189,190]. Score:40 NumLits:16 NewPos:56 Neg:0 Prec:1
+Best armg at iter 9:[67,95,96,99,151,155,186,189,190]. Score:47 NumLits:14 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[67,95,96,99,151,154,155,186,189,190]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[47,67,95,99,151,154,155,186,189,190,194]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[12,67,95,99,114,151,154,155,186,189,190,194]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,67,95,99,114,132,151,154,155,186,189,190,194]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[12,67,95,99,114,130,132,151,154,155,186,189,190,194]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,12,67,95,99,114,130,132,151,154,155,186,189,190,194]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[152]. Score:-26 NumLits:29 NewPos:3 Neg:0 Prec:1
+Best armg at iter 2:[148,152]. Score:-13 NumLits:24 NewPos:11 Neg:0 Prec:1
+Best armg at iter 3:[75,148,152]. Score:-2 NumLits:22 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[75,77,148,152]. Score:8 NumLits:20 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[75,77,148,152,197]. Score:16 NumLits:19 NewPos:35 Neg:0 Prec:1
+Best armg at iter 6:[75,77,148,152,195,197]. Score:24 NumLits:18 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[75,77,148,152,195,197,199]. Score:32 NumLits:17 NewPos:49 Neg:0 Prec:1
+Best armg at iter 8:[57,75,77,148,152,195,197,199]. Score:39 NumLits:16 NewPos:55 Neg:0 Prec:1
+Best armg at iter 9:[40,42,75,77,148,152,195,197,199]. Score:46 NumLits:14 NewPos:60 Neg:0 Prec:1
+Best armg at iter 10:[1,40,42,75,77,148,152,195,197,199]. Score:52 NumLits:13 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[1,32,40,42,75,77,148,152,195,197,199]. Score:57 NumLits:12 NewPos:69 Neg:0 Prec:1
+Best armg at iter 12:[1,32,40,42,56,75,77,148,152,195,197,199]. Score:61 NumLits:11 NewPos:72 Neg:0 Prec:1
+Best armg at iter 13:[1,32,40,42,56,75,77,115,148,152,195,197,199]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[1,32,40,42,45,56,75,77,115,148,152,195,197,199]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Before neg reduction. Score:69 NumLits:9 NewPos:79, Neg:1 Prec:0.9875
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[154]. Score:-24 NumLits:29 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[154,155]. Score:-8 NumLits:22 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[154,155,182]. Score:1 NumLits:21 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[77,154,155,182]. Score:10 NumLits:20 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[77,154,155,176,182]. Score:18 NumLits:19 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[77,154,155,176,182,189]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[77,125,154,155,176,182,189]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[77,95,125,154,155,176,182,189]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[42,77,95,125,154,155,176,182,189]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[42,77,95,115,125,154,155,176,182,189]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[42,55,77,95,115,125,154,155,176,182,189]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[42,56,57,66,77,125,154,155,176,182,189,194]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[42,56,57,64,66,77,125,154,155,176,182,189,194]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[19,42,56,57,64,66,77,125,154,155,176,182,189,194]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[10,42,45,56,57,66,77,108,125,154,155,176,182,189,194]. Score:70 NumLits:8 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 16:[10,42,45,56,57,66,77,84,108,125,154,155,176,182,189,194]. Score:73 NumLits:7 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:73 NumLits:7 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[155]. Score:-21 NumLits:30 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[155,162]. Score:-8 NumLits:25 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[124,155,162]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[36,124,155,162]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[36,124,125,155,162]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[36,40,109,124,155,162]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[29,36,40,109,124,155,162]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[20,42,95,124,155,162,184,199]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[20,42,91,95,124,155,162,184,199]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[20,42,59,91,95,124,155,162,184,199]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[20,42,59,66,91,95,124,155,162,184,199]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[20,42,59,66,91,95,124,155,162,170,184,199]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[20,42,59,66,84,91,95,124,155,162,170,184,199]. Score:64 NumLits:10 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[20,42,59,66,84,91,95,124,132,155,162,170,184,199]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[19,20,42,59,66,84,91,95,124,132,155,162,170,184,199]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Before neg reduction. Score:71 NumLits:8 NewPos:80, Neg:1 Prec:0.9877
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[160]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[160,174]. Score:-8 NumLits:23 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[160,162,174]. Score:2 NumLits:21 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[160,162,174,176]. Score:10 NumLits:20 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[90,160,162,174,176]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[90,143,160,162,174,176]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[57,90,143,160,162,174,176]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[57,68,90,143,160,162,174,176]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[42,57,68,90,143,160,162,174,176]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[42,57,66,68,90,143,160,162,174,176]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[34,42,57,66,68,90,143,160,162,174,176]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[34,42,57,64,66,68,90,143,160,162,174,176]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[34,42,57,62,64,66,68,90,143,160,162,174,176]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[10,34,42,57,62,64,66,68,90,143,160,162,174,176]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[19,34,42,57,64,66,68,84,90,143,160,162,170,174,176]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Before neg reduction. Score:71 NumLits:8 NewPos:80, Neg:1 Prec:0.9877
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[162]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[90,162]. Score:-8 NumLits:25 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[90,162,187]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[90,125,162,187]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[43,90,125,162,187]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[43,90,125,144,162,187]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[47,90,113,162,187,189,190]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[47,79,90,113,162,187,189,190]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[47,79,90,91,113,162,187,189,190]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[47,66,79,90,91,113,162,187,189,190]. Score:52 NumLits:13 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[1,47,66,79,90,91,113,162,187,189,190]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,47,62,66,79,90,91,113,162,187,189,190]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,12,47,66,79,90,91,113,130,162,187,189,190]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,12,47,62,66,79,90,91,113,130,162,187,189,190]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,12,19,47,62,66,79,90,91,113,130,162,187,189,190]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[1,12,19,45,47,62,66,79,90,91,113,130,162,187,189,190]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Best armg at iter 17:[1,10,12,45,47,62,66,79,90,91,108,113,130,162,187,189,190]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[166]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[122,166]. Score:-8 NumLits:25 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[122,148,166]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[122,148,166,199]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[122,148,166,190,199]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[122,148,166,184,190,199]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[79,109,122,148,166,189,199]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[39,79,109,122,148,166,189,199]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[39,79,109,122,148,154,166,189,199]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[32,39,79,82,109,122,148,166,189,199]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[32,39,79,82,109,122,148,166,173,189,199]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[32,39,62,79,82,109,122,148,166,173,189,199]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[19,32,39,62,79,82,109,122,148,166,173,189,199]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[19,32,39,45,62,79,82,109,122,148,166,173,189,199]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[12,19,32,39,62,79,82,108,109,122,148,166,173,189,199]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Before neg reduction. Score:71 NumLits:8 NewPos:80, Neg:1 Prec:0.9877
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[170]. Score:-28 NumLits:30 NewPos:2 Neg:0 Prec:1
+Best armg at iter 2:[170,182]. Score:-14 NumLits:24 NewPos:10 Neg:0 Prec:1
+Best armg at iter 3:[88,170,182]. Score:-3 NumLits:22 NewPos:19 Neg:0 Prec:1
+Best armg at iter 4:[58,88,170,182]. Score:7 NumLits:20 NewPos:27 Neg:0 Prec:1
+Best armg at iter 5:[58,88,125,170,182]. Score:15 NumLits:19 NewPos:34 Neg:0 Prec:1
+Best armg at iter 6:[58,88,125,170,176,182]. Score:23 NumLits:18 NewPos:41 Neg:0 Prec:1
+Best armg at iter 7:[29,58,88,125,170,176,182]. Score:31 NumLits:17 NewPos:48 Neg:0 Prec:1
+Best armg at iter 8:[29,58,88,120,125,170,176,182]. Score:38 NumLits:16 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[29,58,82,88,120,125,170,176,182]. Score:44 NumLits:15 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[29,47,58,82,88,120,125,170,176,182]. Score:51 NumLits:13 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[29,47,58,82,88,120,125,170,173,176,182]. Score:56 NumLits:12 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[29,47,58,82,88,120,125,152,170,173,176,182]. Score:60 NumLits:11 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[29,32,47,58,82,88,120,125,152,170,173,176,182]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[19,29,32,47,58,82,88,120,125,152,170,173,176,182]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[19,29,32,47,56,58,82,88,120,125,152,170,173,176,182]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[173]. Score:-25 NumLits:29 NewPos:5 Neg:1 Prec:0.8333
+Best armg at iter 2:[173,182]. Score:-10 NumLits:22 NewPos:13 Neg:1 Prec:0.9286
+Best armg at iter 3:[121,173,182]. Score:0 NumLits:21 NewPos:22 Neg:1 Prec:0.9565
+Best armg at iter 4:[58,155,173,182]. Score:10 NumLits:19 NewPos:30 Neg:1 Prec:0.9677
+Best armg at iter 5:[20,58,155,173,182]. Score:18 NumLits:18 NewPos:37 Neg:1 Prec:0.9737
+Best armg at iter 6:[20,37,58,155,173,182]. Score:26 NumLits:17 NewPos:44 Neg:1 Prec:0.9778
+Best armg at iter 7:[20,29,37,58,155,173,182]. Score:34 NumLits:16 NewPos:51 Neg:1 Prec:0.9808
+Best armg at iter 8:[20,37,39,58,155,173,182,189]. Score:40 NumLits:15 NewPos:56 Neg:1 Prec:0.9825
+Best armg at iter 9:[20,37,39,58,144,155,173,182,189]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[20,37,39,55,58,144,155,173,182,189]. Score:52 NumLits:13 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[20,37,39,55,58,59,144,155,173,182,189]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[20,37,39,55,58,59,144,155,170,173,182,189]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[12,20,37,39,55,56,58,130,144,155,173,182,189]. Score:63 NumLits:10 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 14:[10,20,37,39,55,56,58,68,130,144,155,173,182,189]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[10,20,37,39,55,56,58,64,130,144,155,170,173,182,189]. Score:69 NumLits:8 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 16:[1,10,20,37,39,55,56,58,64,130,144,155,170,173,182,189]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[174]. Score:-22 NumLits:30 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[174,194]. Score:-10 NumLits:22 NewPos:13 Neg:1 Prec:0.9286
+Best armg at iter 3:[20,122,174]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[20,29,122,174]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[20,24,67,155,174]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[20,24,67,75,99,174]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[20,24,67,75,99,144,174]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[20,24,67,75,96,99,144,174]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,20,24,39,67,75,95,99,174]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,20,24,39,67,75,95,99,174,194]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[1,20,24,39,67,75,95,99,151,174,194]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,20,24,39,56,67,75,95,99,151,174,194]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,20,24,39,56,67,75,95,99,151,152,174,194]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[1,20,24,39,56,67,75,95,99,108,151,152,174,194]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[1,10,20,24,39,55,64,67,75,91,95,99,130,132,174]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[1,19,20,24,39,45,56,67,75,95,99,108,151,152,174,194]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[176]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[67,176]. Score:-11 NumLits:26 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[90,176,182]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[90,176,182,192]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[90,176,182,184,192]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[2,90,125,176,182,184]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[2,90,114,125,176,182,184]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[1,2,90,114,125,176,182,184]. Score:41 NumLits:15 NewPos:56 Neg:0 Prec:1
+Best armg at iter 9:[1,2,90,95,114,125,176,182,184]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,2,34,90,95,114,125,176,182,184]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[1,2,34,55,90,95,114,125,176,182,184]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,2,32,34,90,95,114,125,132,176,182,184]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,2,19,32,34,90,95,114,125,132,176,182,184]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,2,34,55,64,90,95,108,114,125,170,176,182,184]. Score:67 NumLits:9 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 15:[1,2,19,34,55,56,90,95,108,114,125,170,176,182,184]. Score:70 NumLits:8 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 16:[1,2,12,19,34,55,56,90,95,108,114,125,170,176,182,184]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Bottom clause covers negatives
+Best armg at iter 1:[182]. Score:-22 NumLits:30 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[88,182]. Score:-6 NumLits:23 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[85,182,192]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[20,85,182,192]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[20,58,88,160,182]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[20,58,88,144,160,182]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[20,58,88,99,144,160,182]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[17,20,36,85,114,120,182,192]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[17,20,36,55,85,114,120,182,192]. Score:47 NumLits:14 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[20,58,66,82,88,99,144,160,173,182]. Score:52 NumLits:13 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[20,42,58,66,82,88,99,144,160,173,182]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[20,42,58,62,66,82,88,99,144,160,173,182]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[20,58,66,82,88,99,114,132,144,152,160,173,182]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[20,58,66,82,84,88,99,114,132,144,152,160,173,182]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[19,20,58,66,82,84,88,99,114,132,144,152,160,173,182]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[19,20,58,66,82,84,88,99,114,132,144,152,160,170,173,182]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[184]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[184,187]. Score:-8 NumLits:23 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[58,182,184]. Score:2 NumLits:21 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[58,155,182,184]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[58,125,155,182,184]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[36,58,125,155,182,184]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[36,58,79,125,155,182,184]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[36,39,58,79,125,155,182,184]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[36,58,79,82,96,125,155,182,184]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[36,58,79,82,96,125,155,173,182,184]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[12,36,58,79,82,96,125,155,173,182,184]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[12,36,58,66,79,82,96,125,155,173,182,184]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,36,45,58,62,79,82,96,125,155,173,182,184]. Score:64 NumLits:10 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[12,36,45,58,62,79,82,96,125,151,155,173,182,184]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[12,36,45,58,62,79,82,96,125,130,151,155,173,182,184]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[10,12,36,45,58,62,79,82,96,125,130,151,155,173,182,184]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[186]. Score:-22 NumLits:30 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[116,186]. Score:-6 NumLits:23 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[116,186,192]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[43,116,186,192]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[29,43,116,186,192]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[29,43,116,125,186,192]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[29,43,116,125,144,186,192]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[29,43,116,125,144,154,186,192]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,29,34,43,116,125,144,186,192]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[1,29,34,43,47,116,125,144,186,192]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[1,29,34,43,47,116,125,144,151,186,192]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,29,34,43,47,64,116,125,144,151,186,192]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,29,34,43,47,64,84,116,125,144,151,186,192]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,29,34,43,47,64,84,116,125,144,151,170,186,192]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[1,29,34,43,47,56,64,84,116,125,144,151,170,186,192]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[1,19,29,34,43,47,56,64,84,116,125,144,151,170,186,192]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[187]. Score:-22 NumLits:30 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[88,187]. Score:-6 NumLits:23 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[88,113,187]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[121,166,187,195]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[43,121,166,187,195]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[43,95,121,166,187,195]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[43,95,121,166,187,190,195]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[1,43,95,121,166,187,190,195]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,43,95,96,121,166,187,190,195]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,43,95,96,121,166,187,190,194,195]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[1,43,95,96,121,151,166,187,190,194,195]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,19,43,95,96,121,151,166,187,190,194,195]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[1,19,43,95,96,121,151,152,166,187,190,194,195]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,19,43,62,95,96,121,151,152,166,187,190,194,195]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,19,43,56,64,95,96,121,151,166,170,187,190,194,195]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[1,19,43,62,95,96,108,121,130,151,152,166,187,190,194,195]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[189]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[1,189]. Score:-10 NumLits:22 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[1,155,189]. Score:0 NumLits:21 NewPos:21 Neg:0 Prec:1
+Best armg at iter 4:[20,90,174,189]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[1,58,155,187,189]. Score:18 NumLits:19 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[1,58,113,155,187,189]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[1,20,58,113,155,187,189]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[1,20,58,113,144,155,187,189]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,20,39,58,113,144,155,187,189]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,20,32,39,58,113,144,155,187,189]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[1,20,39,58,113,132,144,155,187,189,194]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[1,20,39,58,66,113,132,144,155,187,189,194]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,20,55,58,91,113,114,132,144,152,155,187,189]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[1,10,20,55,58,91,113,114,132,144,152,155,187,189]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,10,20,55,58,91,113,114,130,132,144,152,155,187,189]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[1,10,20,45,55,58,91,113,114,130,132,144,152,155,187,189]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:75 NumLits:7 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[190]. Score:-23 NumLits:30 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[74,190]. Score:-9 NumLits:25 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[74,174,190]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[74,127,174,190]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[74,99,127,174,190]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[17,74,99,127,174,190]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[17,39,74,99,127,174,190]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[17,39,57,74,99,127,174,190]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,17,39,57,74,99,127,174,190]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,17,34,39,57,74,99,127,174,190]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[1,17,32,34,39,57,74,99,127,174,190]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,17,32,34,39,56,57,74,99,127,174,190]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,12,17,32,34,39,56,57,74,99,127,174,190]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[1,12,17,32,34,39,56,57,74,99,127,130,174,190]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,12,17,19,32,34,39,56,57,74,99,127,130,174,190]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:72 NumLits:8 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[192]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[116,192]. Score:-8 NumLits:25 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[116,148,192]. Score:4 NumLits:21 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[37,116,148,192]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[37,116,148,184,192]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[37,109,116,148,184,192]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[37,109,114,116,148,184,192]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[37,109,114,116,144,148,184,192]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[37,42,82,109,116,120,148,184,192]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[37,42,62,82,109,116,120,148,184,192]. Score:52 NumLits:13 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[37,42,62,66,82,109,116,120,148,184,192]. Score:57 NumLits:12 NewPos:69 Neg:0 Prec:1
+Best armg at iter 12:[34,37,42,62,66,82,109,116,120,148,184,192]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,34,37,42,62,66,82,109,116,120,148,184,192]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[12,34,37,42,62,66,82,108,109,116,120,148,184,192]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[12,34,37,42,62,66,82,84,108,109,116,120,148,184,192]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Before neg reduction. Score:71 NumLits:8 NewPos:80, Neg:1 Prec:0.9877
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[194]. Score:-25 NumLits:29 NewPos:5 Neg:1 Prec:0.8333
+Best armg at iter 2:[192,194]. Score:-11 NumLits:23 NewPos:13 Neg:1 Prec:0.9286
+Best armg at iter 3:[124,192,194]. Score:0 NumLits:20 NewPos:21 Neg:1 Prec:0.9545
+Best armg at iter 4:[43,116,192,194]. Score:8 NumLits:20 NewPos:29 Neg:1 Prec:0.9667
+Best armg at iter 5:[43,116,186,192,194]. Score:18 NumLits:18 NewPos:37 Neg:1 Prec:0.9737
+Best armg at iter 6:[43,116,174,190,192,194]. Score:26 NumLits:17 NewPos:44 Neg:1 Prec:0.9778
+Best armg at iter 7:[43,116,174,184,190,192,194]. Score:34 NumLits:16 NewPos:51 Neg:1 Prec:0.9808
+Best armg at iter 8:[43,95,116,174,184,190,192,194]. Score:41 NumLits:15 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[43,47,95,116,174,184,190,192,194]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[43,47,95,116,151,174,184,190,192,194]. Score:52 NumLits:13 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[43,47,95,116,151,152,174,184,190,192,194]. Score:56 NumLits:12 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[43,47,82,95,116,151,152,174,184,190,192,194]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[43,47,56,82,95,116,151,152,174,184,190,192,194]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[43,47,56,82,95,116,130,151,152,174,184,190,192,194]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[43,47,56,82,95,108,116,130,151,152,174,184,190,192,194]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[43,47,56,82,95,108,116,130,151,152,170,174,184,190,192,194]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:74 NumLits:7 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Best armg at iter 1:[195]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[154,195]. Score:-10 NumLits:22 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[36,58,195]. Score:0 NumLits:22 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[36,58,74,195]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[36,58,74,140,195]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[14,36,58,74,124,195]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[36,58,74,140,144,190,195]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[14,36,58,74,114,120,124,195]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[14,36,58,66,74,114,120,124,195]. Score:47 NumLits:14 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[14,36,58,66,74,114,115,120,124,195]. Score:52 NumLits:13 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[14,36,58,66,74,82,114,115,120,124,195]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[14,36,58,59,66,74,114,115,120,124,170,195]. Score:61 NumLits:11 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[14,19,36,56,58,66,74,114,115,120,124,154,195]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[14,36,58,59,64,66,74,84,114,115,120,124,170,195]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[14,19,36,56,58,64,66,74,108,114,115,120,124,154,195]. Score:71 NumLits:8 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[14,19,36,56,58,64,66,74,108,114,115,120,124,130,154,195]. Score:74 NumLits:7 NewPos:82 Neg:1 Prec:0.988
+Best armg at iter 17:[14,19,36,45,56,58,64,66,74,108,114,115,120,124,130,154,195]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[197]. Score:-23 NumLits:30 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[116,197]. Score:-9 NumLits:25 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[116,187,197]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[121,148,160,197]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[2,114,116,187,197]. Score:19 NumLits:18 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[58,120,121,148,160,197]. Score:27 NumLits:18 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[113,120,121,127,148,160,197]. Score:35 NumLits:17 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[113,114,120,121,127,148,160,197]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[113,114,120,121,127,148,160,194,197]. Score:47 NumLits:14 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[113,114,120,121,127,148,154,160,194,197]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[66,113,114,120,121,127,148,154,160,194,197]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[64,66,113,114,120,121,127,148,154,160,194,197]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[56,66,84,113,114,120,121,127,148,154,160,194,197]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[64,84,113,114,120,121,127,132,148,154,160,170,194,197]. Score:67 NumLits:9 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 15:[64,84,113,114,120,121,127,132,148,151,154,160,170,194,197]. Score:72 NumLits:8 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[10,64,84,113,114,120,121,127,132,148,151,154,160,170,194,197]. Score:75 NumLits:7 NewPos:83 Neg:1 Prec:0.9881
+Best armg at iter 17:[10,64,84,108,113,114,120,121,127,132,148,151,154,160,170,194,197]. Score:77 NumLits:6 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:77 NumLits:6 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+Best armg at iter 1:[199]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[75,199]. Score:-9 NumLits:25 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[67,122,199]. Score:2 NumLits:22 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[67,122,174,199]. Score:12 NumLits:20 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[67,122,174,184,199]. Score:20 NumLits:19 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[67,122,174,184,197,199]. Score:28 NumLits:18 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[67,68,122,174,184,197,199]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[42,67,122,143,144,174,184,199]. Score:42 NumLits:15 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,42,67,122,143,144,174,184,199]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,42,67,122,143,144,174,184,194,199]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[1,42,67,122,143,144,151,174,184,194,199]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,42,55,56,67,122,143,144,174,184,194,199]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,42,55,56,67,122,143,144,170,174,184,194,199]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,19,42,55,56,67,122,143,144,170,174,184,194,199]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:68 NumLits:9 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Bottom clause covers negatives
+2 unique hypotheses were generated from 200 examples.
+Hypothesis 1/2. Coverage (weights): 79 (79) positives, 0 (0) negatives.
+Clause:
+toxic(A):-
+   start(A,B), not_m(B), not_d(B).
+
+Hypothesis 2/2. Coverage (weights): 84 (84) positives, 1 (1) negatives.
+Clause:
+toxic(A):-
+   start(A,B), not_m(B).
+
+Coverage for 2 unique hypotheses has been computed.
+
+*************************************************
+* Theory constructed from all the training data *
+*************************************************
+
+
+**************************
+* Induced General Theory *
+**************************
+
+Hypothesis 1/1:
+#Literals=3, PosScore=84 (84 new), NegScore=1 (1 new) Prec=98.8% (98.8% new)
+toxic(A):-
+   start(A,B), not_m(B).
+
+
+************************************************************
+* Train theory statistics (using all examples as training) *
+************************************************************
+
+           |                 Actual                |
+ Predicted |           Positive|           Negative|             Totals
+-----------|-------------------|-------------------|-------------------
+   Positive|             84+/-0|              1+/-0|             85+/-0
+-----------|-------------------|-------------------|-------------------
+   Negative|            116+/-0|            199+/-0|            315+/-0
+-----------|-------------------|-------------------|-------------------
+ Totals    |            200+/-0|            200+/-0|            400+/-0
+
+Default accuracy: 50% +/-0.0%
+Classifier accuracy: 70.8% +/-0.0%
+Recall/Sensitivity: 42% +/-0.0% (% of correctly class. positive examples)
+Specificity: 99.5% +/-0.0% (% of correctly class. negative examples)
+Precision: 98.8% +/-0.0% (% of correctly predicted positive examples)
+CorPredNeg: 63.2% +/-0.0% (i.e. % of correctly predicted negative examples)
+F1-score: 0.589 +/-0.00 (i.e. 2*Precision*Recall/(Precision+Recall)
+Matthews correlation: 0.507 +/-0.00 (i.e. (TP*TN-FP*FN)/sqrt((TP+FP)*(TP+FN)*(TN+FP)*(TN+FN)))
+
