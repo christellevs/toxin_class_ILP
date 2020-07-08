@@ -2,7 +2,7 @@
 
 %:- show_settings.
 
-:- set(verbose, 5).
+:- set(verbose, 4).
 
 % reads problem definition and saves learned theory in a file (this is optional)
 proteins:-
