@@ -1,0 +1,1915 @@
+% Restoring file /usr/lib/Yap/startup.yss
+YAP 6.2.2 (x86_64-linux): Wed Jul 15 05:25:26 UTC 2015
+GILPS: General Inductive Logic Programming System
+
+Version: 0.15
+Date: 15th March 2010
+Author: Jose Santos
+For more information please check: http://www.doc.ic.ac.uk/~jcs06
+
+% Warning:  (/home/superteteie/toxin_class_ILP/datasets/proteins/nclasses.pl:161).
+% predicate user:not_k/1 previously defined in file /home/superteteie/toxin_class_ILP/datasets/proteins/classes.pl
+% Warning:  (/home/superteteie/toxin_class_ILP/datasets/proteins/nclasses.pl:241).
+% predicate user:not_p/1 previously defined in file /home/superteteie/toxin_class_ILP/datasets/proteins/classes.pl
+600 examples loaded.
+300 positives, 300 negatives.
+Best armg at iter 1:[1]. Score:-25 NumLits:30 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[1,24]. Score:-11 NumLits:23 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[1,122,197]. Score:-1 NumLits:22 NewPos:21 Neg:0 Prec:1
+Best armg at iter 4:[1,122,148,197]. Score:8 NumLits:21 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[1,58,122,148,197]. Score:17 NumLits:20 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[1,58,122,148,184,197]. Score:25 NumLits:19 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[1,58,122,148,195,197,199]. Score:33 NumLits:18 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[1,40,67,122,148,195,197,199]. Score:40 NumLits:17 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,42,43,58,79,122,148,184,197]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,42,43,58,64,79,122,148,184,197]. Score:51 NumLits:14 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[1,40,62,66,67,91,122,148,195,197,199]. Score:55 NumLits:13 NewPos:69 Neg:1 Prec:0.9857
+Before neg reduction. Score:55 NumLits:13 NewPos:69, Neg:1 Prec:0.9857
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 1/300: toxic(p_P82427). Generated 1 hypotheses.
+Best armg at iter 1:[2]. Score:-24 NumLits:32 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[2,189]. Score:-11 NumLits:26 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[2,57,122]. Score:0 NumLits:23 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[2,75,126,189]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[2,75,124,189,197]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[2,75,99,114,126,189]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[2,75,113,124,173,189,197]. Score:33 NumLits:17 NewPos:51 Neg:1 Prec:0.9808
+Best armg at iter 8:[2,57,75,113,124,173,189,197]. Score:40 NumLits:16 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[2,57,75,82,113,124,173,189,197]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[2,36,57,59,75,96,124,173,189,197]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Before neg reduction. Score:52 NumLits:14 NewPos:67, Neg:1 Prec:0.9853
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 2/300: toxic(p_C0JAR7). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 3/300: toxic(p_B1P1C0). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 4/300: toxic(p_D2Y2F6). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 5/300: toxic(p_Q8AY55). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 6/300: toxic(p_Q90WA0). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 7/300: toxic(p_B2KKV6). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 8/300: toxic(p_D2Y1Y2). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 9/300: toxic(p_B2ZBC0). Generated 0 hypotheses.
+Best armg at iter 1:[10]. Score:-29 NumLits:31 NewPos:2 Neg:0 Prec:1
+Best armg at iter 2:[10,125]. Score:-16 NumLits:25 NewPos:9 Neg:0 Prec:1
+Best armg at iter 3:[10,77,140]. Score:-5 NumLits:23 NewPos:18 Neg:0 Prec:1
+Best armg at iter 4:[10,77,85,140]. Score:6 NumLits:21 NewPos:27 Neg:0 Prec:1
+Best armg at iter 5:[10,77,85,125,140]. Score:14 NumLits:20 NewPos:34 Neg:0 Prec:1
+Best armg at iter 6:[10,40,77,85,125,140]. Score:21 NumLits:19 NewPos:40 Neg:0 Prec:1
+Best armg at iter 7:[10,36,77,85,96,140,189]. Score:29 NumLits:17 NewPos:46 Neg:0 Prec:1
+Best armg at iter 8:[1,10,36,77,85,96,140,189]. Score:35 NumLits:16 NewPos:51 Neg:0 Prec:1
+Best armg at iter 9:[1,10,14,36,77,85,96,140,189]. Score:43 NumLits:15 NewPos:58 Neg:0 Prec:1
+Best armg at iter 10:[1,10,14,36,77,85,91,96,140,189]. Score:48 NumLits:14 NewPos:63 Neg:1 Prec:0.9844
+Best armg at iter 11:[1,10,14,36,62,77,85,95,96,140,189]. Score:54 NumLits:13 NewPos:67 Neg:0 Prec:1
+Best armg at iter 12:[1,10,14,34,36,62,77,85,95,96,140,189]. Score:59 NumLits:12 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[1,10,14,36,40,62,77,85,96,140,151,189,194]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,10,14,36,40,62,77,84,85,96,140,151,189,194]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[1,10,14,36,40,62,77,84,85,96,140,151,170,189,194]. Score:70 NumLits:9 NewPos:80 Neg:1 Prec:0.9877
+Before neg reduction. Score:70 NumLits:9 NewPos:80, Neg:1 Prec:0.9877
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 10/300: toxic(p_P0DKZ5). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 11/300: toxic(p_Q6T7B5). Generated 0 hypotheses.
+Best armg at iter 1:[12]. Score:-27 NumLits:30 NewPos:3 Neg:0 Prec:1
+Best armg at iter 2:[12,155]. Score:-16 NumLits:28 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[12,155,187]. Score:-3 NumLits:23 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[2,12,155,187]. Score:7 NumLits:21 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[2,12,24,155,187]. Score:15 NumLits:20 NewPos:35 Neg:0 Prec:1
+Best armg at iter 6:[2,12,24,109,155,187]. Score:23 NumLits:19 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[2,12,24,109,144,155,187]. Score:30 NumLits:18 NewPos:48 Neg:0 Prec:1
+Best armg at iter 8:[2,12,24,82,109,144,155,187]. Score:36 NumLits:17 NewPos:53 Neg:0 Prec:1
+Best armg at iter 9:[2,12,24,32,43,109,144,155,187]. Score:43 NumLits:16 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[2,12,24,39,82,109,144,155,187,194]. Score:48 NumLits:14 NewPos:63 Neg:1 Prec:0.9844
+Best armg at iter 11:[2,12,24,39,56,82,109,144,155,187,194]. Score:52 NumLits:13 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 12:[2,12,24,39,56,66,82,109,144,155,187,194]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 13:[2,12,24,36,39,56,66,82,109,144,155,187,194]. Score:65 NumLits:11 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[2,10,12,24,36,39,56,82,109,130,144,155,187,194]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 15:[2,10,12,24,32,36,39,56,82,109,130,144,155,187,194]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[2,10,12,24,32,36,39,45,56,82,109,130,144,155,187,194]. Score:74 NumLits:8 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:74 NumLits:8 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 12/300: toxic(p_P0C1R3). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 13/300: toxic(p_Q2I2Q5). Generated 0 hypotheses.
+Best armg at iter 1:[14]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[14,192]. Score:-11 NumLits:26 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[14,96,174]. Score:-3 NumLits:23 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[14,96,166,174]. Score:7 NumLits:21 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[1,14,29,155,174]. Score:16 NumLits:20 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[14,90,96,166,174,199]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[14,90,96,166,174,184,199]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[14,79,90,96,166,174,184,199]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[14,68,79,90,96,166,174,184,199]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[14,68,79,90,96,115,166,174,184,199]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[14,68,79,90,96,115,152,166,174,184,199]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Before neg reduction. Score:56 NumLits:13 NewPos:70, Neg:1 Prec:0.9859
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 14/300: toxic(p_Q68PG7). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 15/300: toxic(p_A8E2V8). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 16/300: toxic(p_P80548). Generated 0 hypotheses.
+Best armg at iter 1:[17]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[17,75]. Score:-14 NumLits:30 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[17,20,75]. Score:-2 NumLits:25 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[17,20,75,77]. Score:9 NumLits:22 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[17,20,75,77,126]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[17,20,36,75,77,148]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[17,20,36,75,77,84,148]. Score:31 NumLits:17 NewPos:48 Neg:0 Prec:1
+Best armg at iter 8:[17,20,36,75,77,84,144,148]. Score:38 NumLits:16 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[17,20,32,34,36,75,77,95,174]. Score:45 NumLits:15 NewPos:61 Neg:1 Prec:0.9839
+Best armg at iter 10:[17,20,34,36,66,75,77,84,144,148]. Score:48 NumLits:14 NewPos:63 Neg:1 Prec:0.9844
+Best armg at iter 11:[17,20,34,36,66,75,77,82,84,144,148]. Score:54 NumLits:13 NewPos:68 Neg:1 Prec:0.9855
+Best armg at iter 12:[17,20,34,36,47,66,75,77,82,84,144,148]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[17,19,20,34,36,47,66,75,77,82,84,144,148]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Before neg reduction. Score:63 NumLits:11 NewPos:75, Neg:1 Prec:0.9868
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 17/300: toxic(p_P83224). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 18/300: toxic(p_B8XH44). Generated 0 hypotheses.
+Best armg at iter 1:[19]. Score:-29 NumLits:31 NewPos:2 Neg:0 Prec:1
+Best armg at iter 2:[19,199]. Score:-16 NumLits:25 NewPos:9 Neg:0 Prec:1
+Best armg at iter 3:[19,162,199]. Score:-6 NumLits:23 NewPos:17 Neg:0 Prec:1
+Best armg at iter 4:[19,116,162,199]. Score:4 NumLits:22 NewPos:26 Neg:0 Prec:1
+Best armg at iter 5:[19,85,126,162,199]. Score:14 NumLits:20 NewPos:34 Neg:0 Prec:1
+Best armg at iter 6:[19,85,126,162,197,199]. Score:22 NumLits:19 NewPos:41 Neg:0 Prec:1
+Best armg at iter 7:[19,29,85,126,162,197,199]. Score:30 NumLits:18 NewPos:48 Neg:0 Prec:1
+Best armg at iter 8:[19,29,40,85,126,162,197,199]. Score:37 NumLits:17 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[1,19,29,40,85,126,162,197,199]. Score:43 NumLits:16 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[1,19,29,40,85,126,162,173,197,199]. Score:49 NumLits:14 NewPos:64 Neg:1 Prec:0.9846
+Best armg at iter 11:[1,19,29,40,64,85,126,162,173,197,199]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 12:[1,19,29,40,47,64,85,126,162,173,197,199]. Score:59 NumLits:12 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[19,20,39,59,62,84,85,120,126,162,189,194,199]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 14:[19,20,39,55,59,62,84,85,120,126,162,189,194,199]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[19,20,39,55,59,62,64,84,85,120,126,162,189,194,199]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[19,20,39,45,55,59,62,64,84,85,120,126,162,189,194,199]. Score:74 NumLits:8 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:74 NumLits:8 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 19/300: toxic(p_P0C7K0). Generated 1 hypotheses.
+Best armg at iter 1:[20]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[20,166]. Score:-11 NumLits:26 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[20,82,121]. Score:-1 NumLits:22 NewPos:21 Neg:0 Prec:1
+Best armg at iter 4:[20,82,121,126]. Score:8 NumLits:21 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[20,82,99,121,126]. Score:16 NumLits:20 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[20,24,40,82,121,174]. Score:23 NumLits:19 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[20,24,40,82,121,162,174]. Score:32 NumLits:18 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[20,58,82,99,115,121,126,184]. Score:39 NumLits:16 NewPos:56 Neg:1 Prec:0.9825
+Best armg at iter 9:[20,40,58,82,99,115,121,126,184]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[20,24,40,55,82,114,121,162,174,199]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[20,24,40,55,82,114,121,162,173,174,199]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[12,20,24,40,55,82,114,121,162,173,174,199]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[10,12,20,24,40,55,82,114,121,162,173,174,199]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[12,20,24,40,55,82,108,114,121,132,162,173,174,199]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:67 NumLits:10 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 20/300: toxic(p_P0DJ32). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 21/300: toxic(p_P0CI82). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 22/300: toxic(p_W4VRW6). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 23/300: toxic(p_B1P1J3). Generated 0 hypotheses.
+Best armg at iter 1:[24]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[24,99]. Score:-12 NumLits:26 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[24,90,127]. Score:-1 NumLits:25 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[24,90,127,148]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[24,90,99,127,182]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[20,24,90,99,127,182]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[24,36,90,95,109,127,148]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[24,36,90,95,109,114,127,148]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[24,36,82,90,95,109,114,127,148]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[24,36,82,90,95,109,114,127,148,194]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[24,36,82,90,95,109,114,127,148,152,194]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[24,36,82,90,95,109,114,127,148,151,152,194]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Before neg reduction. Score:61 NumLits:12 NewPos:74, Neg:1 Prec:0.9867
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 24/300: toxic(p_P04361). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 25/300: toxic(p_Q06ZW0). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 26/300: toxic(p_H1ZZI8). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 27/300: toxic(p_P82662). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 28/300: toxic(p_P0C201). Generated 0 hypotheses.
+Best armg at iter 1:[29]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[29,166]. Score:-11 NumLits:26 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[29,148,166]. Score:1 NumLits:22 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[29,36,148,166]. Score:9 NumLits:21 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[29,114,148,155,166]. Score:18 NumLits:19 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[29,36,116,120,148,166]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[29,36,116,120,143,148,166]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[29,36,116,120,143,148,154,166]. Score:40 NumLits:17 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[29,36,91,116,120,143,148,154,166]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[29,36,91,96,116,120,143,148,154,166]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[29,36,56,91,96,116,120,143,148,154,166]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[12,29,36,56,91,96,116,120,143,148,154,166]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[29,36,55,56,84,91,96,116,120,143,148,154,166]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[12,19,29,36,56,91,96,116,120,130,143,148,154,166]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Before neg reduction. Score:66 NumLits:10 NewPos:77, Neg:1 Prec:0.9872
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 29/300: toxic(p_P20249). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 30/300: toxic(p_P0DJ78). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 31/300: toxic(p_W4VS23). Generated 0 hypotheses.
+Best armg at iter 1:[32]. Score:-27 NumLits:31 NewPos:4 Neg:0 Prec:1
+Best armg at iter 2:[32,121]. Score:-11 NumLits:24 NewPos:13 Neg:0 Prec:1
+Best armg at iter 3:[32,121,127]. Score:-1 NumLits:22 NewPos:21 Neg:0 Prec:1
+Best armg at iter 4:[32,43,121,182]. Score:6 NumLits:22 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[32,43,121,166,182]. Score:16 NumLits:20 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[32,43,121,166,182,195]. Score:24 NumLits:19 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[32,43,57,121,166,182,195]. Score:31 NumLits:18 NewPos:49 Neg:0 Prec:1
+Best armg at iter 8:[32,43,57,96,121,166,182,195]. Score:38 NumLits:16 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[1,32,43,57,96,121,166,182,195]. Score:44 NumLits:15 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[1,20,32,43,57,96,121,166,182,195]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[1,20,32,34,43,57,96,121,166,182,195]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,20,32,34,43,56,57,96,121,166,182,195]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Before neg reduction. Score:61 NumLits:12 NewPos:74, Neg:1 Prec:0.9867
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 32/300: toxic(p_P85874). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 33/300: toxic(p_B6DCV9). Generated 0 hypotheses.
+Best armg at iter 1:[34]. Score:-26 NumLits:30 NewPos:5 Neg:1 Prec:0.8333
+Best armg at iter 2:[34,197]. Score:-14 NumLits:25 NewPos:12 Neg:1 Prec:0.9231
+Best armg at iter 3:[34,186,197]. Score:-3 NumLits:22 NewPos:20 Neg:1 Prec:0.9524
+Best armg at iter 4:[34,88,187,197]. Score:7 NumLits:21 NewPos:29 Neg:1 Prec:0.9667
+Best armg at iter 5:[34,88,166,187,197]. Score:17 NumLits:19 NewPos:37 Neg:1 Prec:0.9737
+Best armg at iter 6:[34,88,99,166,187,197]. Score:25 NumLits:18 NewPos:44 Neg:1 Prec:0.9778
+Best armg at iter 7:[34,88,99,166,184,187,197]. Score:33 NumLits:17 NewPos:51 Neg:1 Prec:0.9808
+Best armg at iter 8:[34,88,99,144,166,184,187,197]. Score:40 NumLits:16 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[34,59,88,95,99,166,184,187,197]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[34,64,88,99,144,154,166,184,187,197]. Score:50 NumLits:14 NewPos:65 Neg:1 Prec:0.9848
+Best armg at iter 11:[34,47,64,88,99,144,154,166,184,187,197]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[34,47,64,88,99,132,144,154,166,184,187,197]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[32,34,47,64,88,99,108,144,154,166,184,187,197]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[32,34,47,56,64,88,99,108,144,154,166,184,187,197]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:67 NumLits:10 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 34/300: toxic(p_P0CY76). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 35/300: toxic(p_P79810). Generated 0 hypotheses.
+Best armg at iter 1:[36]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[36,162]. Score:-12 NumLits:27 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[36,121,162]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[36,121,148,162]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[36,109,121,148,162]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[36,109,121,148,162,189]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[36,39,109,121,148,162,189]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[36,39,109,121,144,148,162,189]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[10,36,39,109,121,144,148,162,189]. Score:44 NumLits:15 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[10,36,39,68,109,121,144,148,162,189]. Score:50 NumLits:14 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[10,34,36,39,68,109,121,144,148,162,189]. Score:55 NumLits:13 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[12,29,36,47,66,79,82,109,121,148,162,194]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[10,34,36,39,56,68,109,121,144,148,151,162,189]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[10,12,32,34,36,39,68,84,109,121,144,148,162,189]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[10,12,34,36,39,45,68,84,109,121,132,144,148,162,189]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Before neg reduction. Score:69 NumLits:9 NewPos:79, Neg:1 Prec:0.9875
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 36/300: toxic(p_Q9PRW3). Generated 1 hypotheses.
+Best armg at iter 1:[37]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[37,74]. Score:-10 NumLits:26 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[17,37,140]. Score:-1 NumLits:23 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[17,37,75,140]. Score:9 NumLits:22 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[17,37,75,140,192]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[17,37,75,125,140,192]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[17,37,75,82,125,140,192]. Score:33 NumLits:18 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[17,37,75,95,114,140,192,197]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[17,37,75,79,82,96,125,140,192]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[17,37,75,79,82,96,115,125,140,192]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[17,32,37,75,79,82,96,115,125,140,192]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[17,32,37,75,79,82,96,115,125,132,140,192]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[10,17,32,37,75,79,82,96,115,125,140,170,192]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[10,12,17,32,37,75,79,82,96,115,125,140,170,192]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:67 NumLits:10 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 37/300: toxic(p_Q6T5L0). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 38/300: toxic(p_Q9U6W0). Generated 0 hypotheses.
+Best armg at iter 1:[39]. Score:-25 NumLits:30 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[39,75]. Score:-12 NumLits:26 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[39,75,197]. Score:-2 NumLits:23 NewPos:21 Neg:0 Prec:1
+Best armg at iter 4:[39,58,75,120]. Score:7 NumLits:21 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[39,75,109,162,189]. Score:16 NumLits:20 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[39,75,79,109,162,189]. Score:23 NumLits:19 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[39,75,79,99,109,162,189]. Score:31 NumLits:18 NewPos:49 Neg:0 Prec:1
+Best armg at iter 8:[39,58,59,75,120,143,187,199]. Score:39 NumLits:16 NewPos:55 Neg:0 Prec:1
+Best armg at iter 9:[39,58,59,75,120,143,160,187,199]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[39,58,59,66,75,120,143,160,187,199]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[39,58,59,66,75,115,120,143,160,187,199]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[39,58,59,66,75,84,115,120,143,160,187,199]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[39,45,58,59,66,75,84,115,120,143,160,187,199]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[12,39,45,58,59,66,75,84,115,120,143,160,187,199]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[12,39,45,56,58,59,66,75,84,115,120,143,160,187,199]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:71 NumLits:9 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 39/300: toxic(p_P61099). Generated 1 hypotheses.
+Best armg at iter 1:[40]. Score:-25 NumLits:31 NewPos:6 Neg:0 Prec:1
+Best armg at iter 2:[40,166]. Score:-12 NumLits:26 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[40,124,166]. Score:-2 NumLits:24 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[37,40,124,166]. Score:6 NumLits:23 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[40,121,166,189,199]. Score:16 NumLits:21 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[37,40,116,124,125,166]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[37,40,47,116,124,125,166]. Score:33 NumLits:17 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[24,37,40,47,116,124,125,166]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[24,37,40,47,116,124,125,151,166]. Score:46 NumLits:15 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[12,24,32,37,40,47,116,124,125,166]. Score:50 NumLits:14 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[19,37,40,62,64,116,124,125,166,194,195]. Score:51 NumLits:13 NewPos:65 Neg:1 Prec:0.9848
+Best armg at iter 12:[19,37,40,62,64,96,116,124,125,166,194,195]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 13:[19,37,40,59,62,64,96,116,124,125,166,194,195]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[19,37,40,45,59,62,64,96,116,124,125,166,194,195]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 15:[19,37,40,45,59,62,64,66,96,116,124,125,166,194,195]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:71 NumLits:9 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 40/300: toxic(p_P0DM47). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 41/300: toxic(p_P0DKM7). Generated 0 hypotheses.
+Best armg at iter 1:[42]. Score:-25 NumLits:30 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[42,75]. Score:-12 NumLits:26 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[42,75,192]. Score:-2 NumLits:24 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[42,75,186,192]. Score:10 NumLits:20 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[36,42,75,186,192]. Score:18 NumLits:19 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[42,75,125,144,184,192]. Score:23 NumLits:19 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[42,75,125,126,144,184,192]. Score:33 NumLits:17 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[32,36,42,75,186,190,192,195]. Score:39 NumLits:16 NewPos:55 Neg:0 Prec:1
+Best armg at iter 9:[32,36,42,75,144,186,190,192,195]. Score:46 NumLits:15 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[1,32,36,42,75,144,186,190,192,195]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[32,36,42,59,75,84,120,186,190,192,195]. Score:55 NumLits:13 NewPos:68 Neg:0 Prec:1
+Before neg reduction. Score:55 NumLits:13 NewPos:68, Neg:0 Prec:1
+After neg reduction. Score:75 NumLits:4 NewPos:79, Neg:0 Prec:1
+Example 42/300: toxic(p_Q9TWL0). Generated 1 hypotheses.
+Best armg at iter 1:[43]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[43,116]. Score:-10 NumLits:26 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[43,85,192]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[43,85,148,192]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[43,85,148,184,192]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[32,43,85,148,184,192]. Score:24 NumLits:19 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[32,43,85,109,148,184,192]. Score:32 NumLits:18 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[20,42,43,62,85,148,184,192]. Score:38 NumLits:16 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[20,42,43,62,66,85,148,184,192]. Score:43 NumLits:15 NewPos:58 Neg:0 Prec:1
+Best armg at iter 10:[20,40,42,43,62,66,85,148,184,192]. Score:50 NumLits:14 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[20,42,43,62,84,85,120,148,154,184,192]. Score:54 NumLits:13 NewPos:67 Neg:0 Prec:1
+Best armg at iter 12:[20,42,43,62,84,85,108,120,148,154,184,192]. Score:56 NumLits:12 NewPos:68 Neg:0 Prec:1
+Best armg at iter 13:[20,32,42,43,62,84,85,108,120,148,154,184,192]. Score:61 NumLits:11 NewPos:72 Neg:0 Prec:1
+Best armg at iter 14:[10,20,32,42,43,62,84,85,108,120,148,154,184,192]. Score:64 NumLits:10 NewPos:74 Neg:0 Prec:1
+Before neg reduction. Score:64 NumLits:10 NewPos:74, Neg:0 Prec:1
+After neg reduction. Score:75 NumLits:4 NewPos:79, Neg:0 Prec:1
+Example 43/300: toxic(p_Q9TWH3). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 44/300: toxic(p_D2Y2F4). Generated 0 hypotheses.
+Best armg at iter 1:[45]. Score:-29 NumLits:31 NewPos:2 Neg:0 Prec:1
+Best armg at iter 2:[45,59]. Score:-17 NumLits:24 NewPos:7 Neg:0 Prec:1
+Best armg at iter 3:[20,45,121]. Score:-7 NumLits:25 NewPos:18 Neg:0 Prec:1
+Best armg at iter 4:[45,59,122,124]. Score:3 NumLits:21 NewPos:24 Neg:0 Prec:1
+Best armg at iter 5:[20,45,74,182,189]. Score:12 NumLits:21 NewPos:33 Neg:0 Prec:1
+Best armg at iter 6:[20,45,58,74,182,189]. Score:22 NumLits:19 NewPos:41 Neg:0 Prec:1
+Best armg at iter 7:[20,45,58,74,79,182,189]. Score:29 NumLits:18 NewPos:47 Neg:0 Prec:1
+Best armg at iter 8:[20,45,58,74,173,182,189,199]. Score:36 NumLits:16 NewPos:53 Neg:1 Prec:0.9815
+Best armg at iter 9:[20,40,45,58,74,173,182,189,199]. Score:43 NumLits:15 NewPos:59 Neg:1 Prec:0.9833
+Best armg at iter 10:[20,40,45,47,58,74,173,182,189,199]. Score:49 NumLits:14 NewPos:64 Neg:1 Prec:0.9846
+Best armg at iter 11:[20,40,45,47,58,68,74,173,182,189,199]. Score:55 NumLits:13 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[20,40,45,47,58,74,151,154,173,182,189,199]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[20,40,45,47,58,64,74,151,154,173,182,189,199]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[19,20,40,45,47,58,74,130,151,154,173,182,189,199]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 15:[19,20,40,45,47,58,74,130,151,152,154,173,182,189,199]. Score:70 NumLits:9 NewPos:80 Neg:1 Prec:0.9877
+Before neg reduction. Score:70 NumLits:9 NewPos:80, Neg:1 Prec:0.9877
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 45/300: toxic(p_P0C1Z0). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 46/300: toxic(p_Q1A3Q8). Generated 0 hypotheses.
+Best armg at iter 1:[47]. Score:-25 NumLits:30 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[47,186]. Score:-12 NumLits:25 NewPos:13 Neg:0 Prec:1
+Best armg at iter 3:[24,47,186]. Score:-2 NumLits:22 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[47,113,121,186]. Score:8 NumLits:21 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[24,47,113,121,186]. Score:16 NumLits:20 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[24,47,77,113,121,186]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[2,24,47,113,121,144,186]. Score:33 NumLits:17 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[24,47,67,113,121,144,186,197]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[2,20,24,47,113,121,144,151,186]. Score:46 NumLits:15 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[2,20,24,47,62,113,121,144,151,186]. Score:50 NumLits:14 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[24,47,55,67,113,121,132,144,170,186,197]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Before neg reduction. Score:53 NumLits:13 NewPos:66, Neg:0 Prec:1
+After neg reduction. Score:75 NumLits:4 NewPos:79, Neg:0 Prec:1
+Example 47/300: toxic(p_P0DJ63). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 48/300: toxic(p_B6DD61). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 49/300: toxic(p_Q805F5). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 50/300: toxic(p_P0CE24). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 51/300: toxic(p_P0CH47). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 52/300: toxic(p_Q9BPK0). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 53/300: toxic(p_P60302). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 54/300: toxic(p_B6RLX2). Generated 0 hypotheses.
+Best armg at iter 1:[55]. Score:-27 NumLits:31 NewPos:4 Neg:0 Prec:1
+Best armg at iter 2:[55,166]. Score:-15 NumLits:27 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[55,166,184]. Score:-3 NumLits:22 NewPos:19 Neg:0 Prec:1
+Best armg at iter 4:[55,109,166,182]. Score:4 NumLits:23 NewPos:27 Neg:0 Prec:1
+Best armg at iter 5:[55,75,109,166,182]. Score:16 NumLits:20 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[24,55,75,109,166,182]. Score:24 NumLits:19 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[24,37,55,75,109,166,182]. Score:32 NumLits:18 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[24,37,55,75,109,144,166,182]. Score:39 NumLits:17 NewPos:56 Neg:0 Prec:1
+Best armg at iter 9:[24,37,55,59,75,95,109,166,182]. Score:45 NumLits:16 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[24,37,55,59,75,95,109,115,166,182]. Score:51 NumLits:14 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[12,24,37,47,55,59,75,95,109,166,182]. Score:56 NumLits:13 NewPos:69 Neg:0 Prec:1
+Best armg at iter 12:[12,24,37,47,55,56,59,75,95,109,166,182]. Score:60 NumLits:12 NewPos:72 Neg:0 Prec:1
+Best armg at iter 13:[24,37,45,47,55,56,59,75,95,109,166,173,182]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[19,24,37,45,47,55,56,59,75,95,109,166,173,182]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[10,24,37,45,47,55,56,59,75,91,95,109,152,166,182]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:71 NumLits:9 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 55/300: toxic(p_Q1I169). Generated 1 hypotheses.
+Best armg at iter 1:[56]. Score:-27 NumLits:30 NewPos:3 Neg:0 Prec:1
+Best armg at iter 2:[56,190]. Score:-14 NumLits:24 NewPos:10 Neg:0 Prec:1
+Best armg at iter 3:[56,90,126]. Score:-2 NumLits:22 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[56,90,126,192]. Score:8 NumLits:20 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[56,90,126,143,192]. Score:16 NumLits:19 NewPos:35 Neg:0 Prec:1
+Best armg at iter 6:[20,56,77,90,126,160]. Score:24 NumLits:18 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[56,79,90,126,143,176,192]. Score:31 NumLits:17 NewPos:48 Neg:0 Prec:1
+Best armg at iter 8:[24,56,79,90,126,143,176,192]. Score:39 NumLits:16 NewPos:55 Neg:0 Prec:1
+Best armg at iter 9:[37,40,56,90,126,143,154,192,195]. Score:45 NumLits:15 NewPos:60 Neg:0 Prec:1
+Best armg at iter 10:[37,39,40,56,90,126,143,154,192,195]. Score:51 NumLits:14 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[37,56,57,66,90,96,126,143,154,192,195]. Score:56 NumLits:13 NewPos:69 Neg:0 Prec:1
+Best armg at iter 12:[37,56,57,66,90,96,115,126,143,154,192,195]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[37,45,56,57,66,90,96,115,126,143,154,192,195]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:64 NumLits:11 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 56/300: toxic(p_P0DL48). Generated 1 hypotheses.
+Best armg at iter 1:[57]. Score:-25 NumLits:31 NewPos:6 Neg:0 Prec:1
+Best armg at iter 2:[2,57]. Score:-12 NumLits:26 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[2,57,85]. Score:0 NumLits:23 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[2,57,122,126]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[2,36,57,122,126]. Score:18 NumLits:20 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[2,17,36,57,122,126]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[2,17,36,57,122,126,154]. Score:32 NumLits:18 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[2,17,36,47,57,122,126,154]. Score:39 NumLits:16 NewPos:55 Neg:0 Prec:1
+Best armg at iter 9:[2,17,36,47,57,91,122,126,154]. Score:44 NumLits:15 NewPos:60 Neg:1 Prec:0.9836
+Best armg at iter 10:[2,17,36,45,57,114,122,126,143,173]. Score:49 NumLits:14 NewPos:64 Neg:1 Prec:0.9846
+Best armg at iter 11:[2,17,36,47,57,62,91,122,126,154,197]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[2,17,36,47,57,62,64,91,122,126,154,197]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Before neg reduction. Score:60 NumLits:12 NewPos:73, Neg:1 Prec:0.9865
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 57/300: toxic(p_P84093). Generated 1 hypotheses.
+Best armg at iter 1:[58]. Score:-24 NumLits:32 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[58,124]. Score:-11 NumLits:27 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[58,90,124]. Score:3 NumLits:22 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[24,58,90,124]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[24,58,90,124,199]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[20,40,58,90,124,189]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[20,40,58,90,124,176,189]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[20,40,47,58,90,124,189,199]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[20,40,47,58,68,90,124,189,199]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[20,34,40,47,58,68,90,124,189,199]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[20,34,40,47,58,68,90,124,151,189,199]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[20,34,40,47,58,62,64,68,90,124,189,199]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[20,32,34,40,47,58,62,64,68,90,124,189,199]. Score:65 NumLits:11 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[10,20,32,34,40,47,58,62,64,68,90,124,189,199]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Before neg reduction. Score:68 NumLits:10 NewPos:79, Neg:1 Prec:0.9875
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 58/300: toxic(p_C0JAY0). Generated 1 hypotheses.
+Best armg at iter 1:[59]. Score:-25 NumLits:30 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[47,59]. Score:-14 NumLits:24 NewPos:10 Neg:0 Prec:1
+Best armg at iter 3:[58,59,122]. Score:0 NumLits:22 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[58,59,122,124]. Score:9 NumLits:21 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[36,58,59,122,124]. Score:17 NumLits:20 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[36,58,59,122,124,143]. Score:25 NumLits:19 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[24,36,58,59,122,124,143]. Score:33 NumLits:18 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[57,58,59,122,125,148,195,199]. Score:40 NumLits:17 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[36,58,59,79,114,122,124,143,184]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[32,36,58,59,79,114,122,124,143,184]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[57,58,59,62,122,125,148,151,173,195,199]. Score:55 NumLits:13 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[12,57,58,59,84,122,125,148,151,173,195,199]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 13:[57,58,59,84,108,114,122,125,148,151,173,195,199]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 14:[45,57,58,59,84,108,114,122,125,148,151,173,195,199]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:65 NumLits:10 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 59/300: toxic(p_Q7M3V3). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 60/300: toxic(p_D6C4L3). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 61/300: toxic(p_D2Y2R1). Generated 0 hypotheses.
+Best armg at iter 1:[62]. Score:-27 NumLits:30 NewPos:3 Neg:0 Prec:1
+Best armg at iter 2:[62,77]. Score:-14 NumLits:25 NewPos:11 Neg:0 Prec:1
+Best armg at iter 3:[62,77,121]. Score:-3 NumLits:23 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[62,77,121,186]. Score:8 NumLits:20 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[62,77,121,143,186]. Score:16 NumLits:19 NewPos:35 Neg:0 Prec:1
+Best armg at iter 6:[43,62,77,121,143,186]. Score:24 NumLits:18 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[40,62,77,121,143,184,186]. Score:31 NumLits:17 NewPos:48 Neg:0 Prec:1
+Best armg at iter 8:[37,40,62,77,121,143,184,186]. Score:39 NumLits:16 NewPos:55 Neg:0 Prec:1
+Best armg at iter 9:[37,40,62,77,82,121,143,184,186]. Score:45 NumLits:15 NewPos:60 Neg:0 Prec:1
+Best armg at iter 10:[37,40,62,77,82,121,143,170,184,186]. Score:48 NumLits:14 NewPos:62 Neg:0 Prec:1
+Best armg at iter 11:[37,39,40,62,77,82,121,143,170,184,186]. Score:54 NumLits:13 NewPos:67 Neg:0 Prec:1
+Best armg at iter 12:[37,39,40,62,77,82,115,121,143,170,184,186]. Score:59 NumLits:12 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[37,39,40,62,64,77,82,84,121,143,170,184,186]. Score:61 NumLits:11 NewPos:72 Neg:0 Prec:1
+Best armg at iter 14:[12,37,39,40,62,77,82,108,121,143,170,184,186,194]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 15:[12,37,39,40,62,66,77,82,108,121,143,170,184,186,194]. Score:70 NumLits:9 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[12,19,37,39,40,62,66,77,82,108,121,143,170,184,186,194]. Score:73 NumLits:8 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:73 NumLits:8 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 62/300: toxic(p_Q7LZT4). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 63/300: toxic(p_O93422). Generated 0 hypotheses.
+Best armg at iter 1:[64]. Score:-27 NumLits:30 NewPos:3 Neg:0 Prec:1
+Best armg at iter 2:[2,64]. Score:-15 NumLits:26 NewPos:11 Neg:0 Prec:1
+Best armg at iter 3:[2,64,88]. Score:-4 NumLits:24 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[2,64,88,182]. Score:7 NumLits:21 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[2,43,64,88,182]. Score:15 NumLits:20 NewPos:35 Neg:0 Prec:1
+Best armg at iter 6:[2,17,43,64,88,182]. Score:23 NumLits:19 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[2,17,20,37,64,88,174]. Score:31 NumLits:18 NewPos:49 Neg:0 Prec:1
+Best armg at iter 8:[1,2,17,20,37,64,88,174]. Score:37 NumLits:17 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[2,17,20,34,37,64,68,88,174]. Score:43 NumLits:15 NewPos:59 Neg:1 Prec:0.9833
+Best armg at iter 10:[2,17,20,34,37,64,68,88,120,174]. Score:50 NumLits:14 NewPos:65 Neg:1 Prec:0.9848
+Best armg at iter 11:[2,17,20,34,37,64,68,88,114,120,174]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[2,17,20,34,37,64,66,68,88,114,120,174]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[2,17,20,34,37,64,66,68,88,114,120,130,174]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[2,17,20,34,37,62,64,66,68,88,114,120,130,174]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[2,17,19,20,34,37,62,64,66,68,88,114,120,130,174]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:71 NumLits:9 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 64/300: toxic(p_P86255). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 65/300: toxic(p_D2Y2K2). Generated 0 hypotheses.
+Best armg at iter 1:[66]. Score:-27 NumLits:31 NewPos:4 Neg:0 Prec:1
+Best armg at iter 2:[66,124]. Score:-18 NumLits:30 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[24,66,124]. Score:-4 NumLits:23 NewPos:19 Neg:0 Prec:1
+Best armg at iter 4:[42,66,88,124]. Score:5 NumLits:21 NewPos:26 Neg:0 Prec:1
+Best armg at iter 5:[2,42,66,88,124]. Score:15 NumLits:19 NewPos:34 Neg:0 Prec:1
+Best armg at iter 6:[2,42,66,88,124,160]. Score:23 NumLits:18 NewPos:41 Neg:0 Prec:1
+Best armg at iter 7:[2,42,43,66,88,124,160]. Score:31 NumLits:17 NewPos:48 Neg:0 Prec:1
+Best armg at iter 8:[24,43,58,66,79,109,124,155]. Score:39 NumLits:17 NewPos:56 Neg:0 Prec:1
+Best armg at iter 9:[24,43,58,66,79,96,109,124,155]. Score:46 NumLits:15 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[12,24,39,43,58,66,79,109,124,155]. Score:50 NumLits:14 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[10,12,24,39,43,58,66,79,109,124,155]. Score:53 NumLits:13 NewPos:66 Neg:0 Prec:1
+Best armg at iter 12:[10,12,24,39,43,58,66,79,109,124,132,155]. Score:57 NumLits:12 NewPos:69 Neg:0 Prec:1
+Best armg at iter 13:[10,12,24,39,43,58,66,79,82,109,124,132,155]. Score:63 NumLits:11 NewPos:74 Neg:0 Prec:1
+Best armg at iter 14:[10,12,24,39,43,58,66,79,82,108,109,124,132,155]. Score:65 NumLits:10 NewPos:75 Neg:0 Prec:1
+Best armg at iter 15:[10,12,24,39,43,58,66,79,82,91,108,109,124,132,155]. Score:70 NumLits:9 NewPos:80 Neg:1 Prec:0.9877
+Before neg reduction. Score:70 NumLits:9 NewPos:80, Neg:1 Prec:0.9877
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 66/300: toxic(p_P85029). Generated 1 hypotheses.
+Best armg at iter 1:[67]. Score:-24 NumLits:32 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[67,88]. Score:-9 NumLits:26 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[67,88,186]. Score:3 NumLits:22 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[43,67,88,186]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[14,43,67,88,186]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[14,43,67,79,88,186]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[14,42,43,67,88,186,189]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[14,42,43,67,88,95,186,189]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,14,42,43,67,88,95,186,189]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,14,42,43,67,88,95,186,189,194]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[1,14,42,43,66,67,88,95,186,189,194]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,14,42,43,66,67,88,95,130,186,189,194]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[1,10,14,34,42,43,64,67,88,95,151,186,189]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,10,14,34,42,43,56,64,67,88,95,151,186,189]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,10,14,34,42,43,56,64,67,88,95,108,151,186,189]. Score:70 NumLits:9 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[1,10,14,34,42,43,56,64,67,84,88,95,108,151,186,189]. Score:73 NumLits:8 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:73 NumLits:8 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 67/300: toxic(p_C0JB29). Generated 1 hypotheses.
+Best armg at iter 1:[68]. Score:-25 NumLits:30 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[68,74]. Score:-9 NumLits:23 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[68,74,126]. Score:0 NumLits:22 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[68,74,125,126]. Score:8 NumLits:21 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[68,74,125,126,199]. Score:16 NumLits:20 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[68,74,125,126,195,199]. Score:24 NumLits:19 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[68,74,77,125,126,195,199]. Score:33 NumLits:18 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[67,68,74,120,125,126,195,199]. Score:40 NumLits:17 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[2,68,74,91,114,125,126,160,199]. Score:45 NumLits:15 NewPos:61 Neg:1 Prec:0.9839
+Best armg at iter 10:[2,68,74,91,114,120,125,126,160,199]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[2,56,68,74,91,114,120,125,126,160,199]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Before neg reduction. Score:56 NumLits:13 NewPos:70, Neg:1 Prec:0.9859
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 68/300: toxic(p_P0DL41). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 69/300: toxic(p_Q5W958). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 70/300: toxic(p_P80963). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 71/300: toxic(p_D2Y207). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 72/300: toxic(p_B5L5P2). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 73/300: toxic(p_Q9BPJ3). Generated 0 hypotheses.
+Best armg at iter 1:[74]. Score:-22 NumLits:31 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[74,174]. Score:-7 NumLits:24 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[74,127,174]. Score:3 NumLits:22 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[74,113,127,174]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[74,109,113,127,174]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[74,79,109,113,127,174]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[29,68,74,109,113,127,174]. Score:33 NumLits:18 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[29,40,68,74,109,113,127,174]. Score:40 NumLits:17 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[66,74,109,113,115,120,127,160,174]. Score:45 NumLits:15 NewPos:61 Neg:1 Prec:0.9839
+Best armg at iter 10:[66,68,74,109,113,115,120,127,160,174]. Score:51 NumLits:14 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[29,39,40,68,74,91,109,113,127,152,174]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[29,39,40,68,74,91,109,113,127,130,152,174]. Score:59 NumLits:12 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[29,39,40,68,74,91,109,113,127,130,152,170,174]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Before neg reduction. Score:62 NumLits:11 NewPos:74, Neg:1 Prec:0.9867
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 74/300: toxic(p_P0DL16). Generated 1 hypotheses.
+Best armg at iter 1:[75]. Score:-22 NumLits:31 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[2,75]. Score:-9 NumLits:26 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[2,75,186]. Score:3 NumLits:22 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[2,14,75,186]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[2,14,75,176,186]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[2,14,40,75,186,195]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[2,14,75,82,176,186,195]. Score:33 NumLits:18 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[2,14,75,79,82,176,186,195]. Score:40 NumLits:17 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[2,14,75,82,96,120,176,186,195]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[2,14,40,42,75,82,115,176,186,195]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[2,14,40,66,75,82,96,115,176,186,195]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[2,14,40,66,75,82,96,115,152,176,186,195]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[2,14,19,40,66,75,82,96,115,152,176,186,195]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[2,14,19,40,45,64,66,75,82,96,115,176,186,195]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:67 NumLits:10 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 75/300: toxic(p_A2CJE2). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 76/300: toxic(p_P35777). Generated 0 hypotheses.
+Best armg at iter 1:[77]. Score:-24 NumLits:32 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[77,88]. Score:-9 NumLits:26 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[77,88,124]. Score:3 NumLits:22 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[77,88,124,160]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[77,88,109,124,160]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[37,59,77,88,124,160]. Score:25 NumLits:19 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[37,40,59,77,88,124,160]. Score:32 NumLits:18 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[37,40,59,77,88,124,143,160]. Score:40 NumLits:17 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[14,37,47,59,77,88,95,124,160]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[14,34,37,47,59,77,79,88,124,160]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[10,14,34,37,47,59,77,79,88,124,160]. Score:55 NumLits:13 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[14,32,34,37,47,59,77,79,88,108,124,160]. Score:59 NumLits:12 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[14,32,34,37,47,59,62,77,79,88,108,124,160]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[14,32,34,37,47,59,62,77,79,84,88,108,124,160]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Before neg reduction. Score:66 NumLits:10 NewPos:77, Neg:1 Prec:0.9872
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 77/300: toxic(p_C0JB92). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 78/300: toxic(p_D2Y290). Generated 0 hypotheses.
+Best armg at iter 1:[79]. Score:-25 NumLits:31 NewPos:6 Neg:0 Prec:1
+Best armg at iter 2:[74,79]. Score:-11 NumLits:26 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[74,77,79]. Score:0 NumLits:23 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[42,74,77,79]. Score:7 NumLits:21 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[42,74,77,79,148]. Score:17 NumLits:19 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[42,43,74,77,79,148]. Score:25 NumLits:18 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[17,42,43,74,77,79,148]. Score:33 NumLits:17 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[17,42,43,55,74,77,79,148]. Score:38 NumLits:16 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[14,17,42,43,55,74,77,79,148]. Score:46 NumLits:15 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[14,17,42,43,55,74,77,79,91,148]. Score:51 NumLits:14 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[14,17,42,43,55,64,74,77,79,82,148]. Score:56 NumLits:13 NewPos:69 Neg:0 Prec:1
+Best armg at iter 12:[14,17,42,43,55,56,74,77,79,91,148,154]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[14,17,34,42,43,55,64,74,77,79,82,108,148]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Before neg reduction. Score:63 NumLits:11 NewPos:75, Neg:1 Prec:0.9868
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 79/300: toxic(p_P0CD70). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 80/300: toxic(p_P85256). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 81/300: toxic(p_I6RA76). Generated 0 hypotheses.
+Best armg at iter 1:[82]. Score:-25 NumLits:30 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[82,195]. Score:-11 NumLits:23 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[74,82,195]. Score:-1 NumLits:22 NewPos:21 Neg:0 Prec:1
+Best armg at iter 4:[74,82,126,195]. Score:8 NumLits:21 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[67,74,82,126,195]. Score:17 NumLits:20 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[74,79,82,126,127,195]. Score:24 NumLits:19 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[74,79,82,113,126,127,195]. Score:32 NumLits:18 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[74,79,82,126,127,143,194,195]. Score:38 NumLits:16 NewPos:55 Neg:1 Prec:0.9821
+Best armg at iter 9:[74,79,82,126,127,143,194,195,199]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[39,74,79,82,126,127,143,194,195,199]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[39,55,74,79,82,126,127,143,194,195,199]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[39,55,74,79,82,126,127,143,152,194,195,199]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[39,55,56,74,79,82,126,127,143,152,194,195,199]. Score:65 NumLits:11 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[19,39,55,74,79,82,126,127,143,152,170,194,195,199]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[19,39,55,74,79,82,84,126,127,143,152,170,194,195,199]. Score:70 NumLits:9 NewPos:80 Neg:1 Prec:0.9877
+Best armg at iter 16:[12,19,39,55,62,74,79,82,108,126,127,130,143,194,195,199]. Score:73 NumLits:8 NewPos:82 Neg:1 Prec:0.988
+Best armg at iter 17:[12,19,39,55,62,74,79,82,108,126,127,130,143,170,194,195,199]. Score:76 NumLits:7 NewPos:84 Neg:1 Prec:0.9882
+Before neg reduction. Score:76 NumLits:7 NewPos:84, Neg:1 Prec:0.9882
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 82/300: toxic(p_C0JB41). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 83/300: toxic(p_C4PWC4). Generated 0 hypotheses.
+Best armg at iter 1:[84]. Score:-30 NumLits:32 NewPos:2 Neg:0 Prec:1
+Best armg at iter 2:[84,88]. Score:-14 NumLits:25 NewPos:11 Neg:0 Prec:1
+Best armg at iter 3:[14,84,88]. Score:-4 NumLits:22 NewPos:18 Neg:0 Prec:1
+Best armg at iter 4:[75,84,144,182]. Score:5 NumLits:20 NewPos:25 Neg:0 Prec:1
+Best armg at iter 5:[14,84,88,166,195]. Score:13 NumLits:20 NewPos:33 Neg:0 Prec:1
+Best armg at iter 6:[14,57,77,84,88,148]. Score:22 NumLits:18 NewPos:40 Neg:0 Prec:1
+Best armg at iter 7:[14,57,77,84,88,113,148]. Score:30 NumLits:17 NewPos:47 Neg:0 Prec:1
+Best armg at iter 8:[14,57,68,77,84,88,113,148]. Score:36 NumLits:16 NewPos:52 Neg:0 Prec:1
+Best armg at iter 9:[14,17,57,68,77,84,88,113,148]. Score:44 NumLits:15 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[1,14,57,77,84,88,113,115,148,184]. Score:49 NumLits:14 NewPos:64 Neg:1 Prec:0.9846
+Best armg at iter 11:[1,14,39,57,77,84,88,113,115,148,184]. Score:55 NumLits:13 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[1,10,14,39,57,77,84,88,113,115,148,184]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 13:[1,10,14,32,39,57,77,84,88,113,115,148,184]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[1,10,14,32,39,57,77,84,88,113,115,148,152,184]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[1,10,14,32,39,45,57,77,84,88,113,115,148,152,184]. Score:70 NumLits:9 NewPos:80 Neg:1 Prec:0.9877
+Before neg reduction. Score:70 NumLits:9 NewPos:80, Neg:1 Prec:0.9877
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 84/300: toxic(p_P85040). Generated 1 hypotheses.
+Best armg at iter 1:[85]. Score:-22 NumLits:31 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[85,162]. Score:-9 NumLits:26 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[14,85,162]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[14,85,162,187]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[14,85,162,176,187]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[14,29,85,162,176,187]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[14,29,85,144,162,176,187]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[14,29,85,96,144,162,176,187]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,14,29,39,85,144,162,176,187]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,14,29,39,85,115,144,162,176,187]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[1,14,29,39,66,85,115,144,162,176,187]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Before neg reduction. Score:57 NumLits:13 NewPos:71, Neg:1 Prec:0.9861
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 85/300: toxic(p_P15445). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 86/300: toxic(p_W4VSI1). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 87/300: toxic(p_Q9DF67). Generated 0 hypotheses.
+Best armg at iter 1:[88]. Score:-22 NumLits:31 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[88,187]. Score:-7 NumLits:24 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[67,88,187]. Score:3 NumLits:22 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[67,88,187,190]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[29,88,162,187,190]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[67,88,120,176,187,190]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[67,88,114,187,190,195,199]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[64,67,88,114,187,190,195,199]. Score:38 NumLits:16 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[64,67,88,114,151,187,190,195,199]. Score:43 NumLits:15 NewPos:58 Neg:0 Prec:1
+Best armg at iter 10:[57,64,67,88,114,151,187,190,195,199]. Score:50 NumLits:14 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[19,29,32,57,88,91,96,162,176,187,190]. Score:54 NumLits:13 NewPos:68 Neg:1 Prec:0.9855
+Best armg at iter 12:[19,29,40,45,82,88,91,96,162,176,187,190]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 13:[19,29,32,82,88,91,96,130,162,170,176,187,190]. Score:59 NumLits:11 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 14:[19,29,32,57,82,88,91,96,130,162,170,176,187,190]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Before neg reduction. Score:66 NumLits:10 NewPos:77, Neg:1 Prec:0.9872
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 88/300: toxic(p_P0CI41). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 89/300: toxic(p_C0HJQ5). Generated 0 hypotheses.
+Best armg at iter 1:[90]. Score:-22 NumLits:31 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[90,140]. Score:-7 NumLits:24 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[90,140,197]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[2,90,140,197]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[2,90,140,160,197]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[2,40,90,140,160,197]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[2,36,40,90,140,160,197]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[2,34,36,40,90,140,160,197]. Score:40 NumLits:16 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[2,34,36,40,90,132,140,160,197]. Score:44 NumLits:15 NewPos:60 Neg:1 Prec:0.9836
+Best armg at iter 10:[2,34,36,39,40,90,132,140,160,197]. Score:50 NumLits:14 NewPos:65 Neg:1 Prec:0.9848
+Best armg at iter 11:[2,34,36,40,82,84,90,108,140,160,197]. Score:51 NumLits:13 NewPos:65 Neg:1 Prec:0.9848
+Best armg at iter 12:[2,34,36,40,55,82,84,90,108,140,160,197]. Score:56 NumLits:12 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 13:[2,34,36,40,55,82,84,90,108,140,152,160,197]. Score:60 NumLits:11 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 14:[2,19,34,36,40,55,82,84,90,108,140,160,170,197]. Score:62 NumLits:10 NewPos:73 Neg:1 Prec:0.9865
+Before neg reduction. Score:62 NumLits:10 NewPos:73, Neg:1 Prec:0.9865
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 90/300: toxic(p_P24293). Generated 1 hypotheses.
+Best armg at iter 1:[91]. Score:-26 NumLits:30 NewPos:5 Neg:1 Prec:0.8333
+Best armg at iter 2:[91,121]. Score:-15 NumLits:28 NewPos:14 Neg:1 Prec:0.9333
+Best armg at iter 3:[91,121,140]. Score:-1 NumLits:22 NewPos:22 Neg:1 Prec:0.9565
+Best armg at iter 4:[91,121,140,166]. Score:9 NumLits:20 NewPos:30 Neg:1 Prec:0.9677
+Best armg at iter 5:[91,99,121,140,160]. Score:15 NumLits:20 NewPos:36 Neg:1 Prec:0.973
+Best armg at iter 6:[40,85,91,143,166,184]. Score:22 NumLits:19 NewPos:42 Neg:1 Prec:0.9767
+Best armg at iter 7:[40,85,91,124,143,166,184]. Score:32 NumLits:17 NewPos:50 Neg:1 Prec:0.9804
+Best armg at iter 8:[40,43,85,91,124,143,166,184]. Score:40 NumLits:16 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[40,43,85,91,124,132,143,166,184]. Score:44 NumLits:15 NewPos:60 Neg:1 Prec:0.9836
+Best armg at iter 10:[1,40,43,85,91,124,132,143,166,184]. Score:50 NumLits:14 NewPos:65 Neg:1 Prec:0.9848
+Best armg at iter 11:[1,40,43,85,91,96,124,132,143,166,184]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[1,32,40,43,85,91,96,124,132,143,166,184]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,32,40,43,85,91,96,124,130,132,143,166,184]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,12,32,40,43,85,91,96,124,130,132,143,166,184]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,32,40,43,85,91,96,108,124,130,132,143,152,166,184]. Score:70 NumLits:9 NewPos:80 Neg:1 Prec:0.9877
+Before neg reduction. Score:70 NumLits:9 NewPos:80, Neg:1 Prec:0.9877
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 91/300: toxic(p_P0C7A8). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 92/300: toxic(p_Q9DG83). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 93/300: toxic(p_Q2VBP4). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 94/300: toxic(p_P34180). Generated 0 hypotheses.
+Best armg at iter 1:[95]. Score:-25 NumLits:31 NewPos:6 Neg:0 Prec:1
+Best armg at iter 2:[95,192]. Score:-12 NumLits:26 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[95,155,192]. Score:0 NumLits:23 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[95,148,155,192]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[95,99,148,155,192]. Score:18 NumLits:20 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[95,99,148,155,192,195]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[47,95,99,148,155,189,192]. Score:33 NumLits:17 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[47,95,99,125,148,155,189,192]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,14,47,95,99,148,155,189,192]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,14,47,56,95,99,148,155,189,192]. Score:51 NumLits:14 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[1,10,14,47,66,95,99,148,155,189,192]. Score:55 NumLits:13 NewPos:68 Neg:0 Prec:1
+Best armg at iter 12:[1,10,14,47,66,91,95,99,148,155,189,192]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[1,10,14,47,66,91,95,99,130,148,155,189,192]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[1,10,14,34,45,47,66,95,99,148,152,155,189,192]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[1,10,14,34,45,47,66,95,99,130,148,152,155,189,192]. Score:70 NumLits:9 NewPos:80 Neg:1 Prec:0.9877
+Before neg reduction. Score:70 NumLits:9 NewPos:80, Neg:1 Prec:0.9877
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 95/300: toxic(p_Q7Z093). Generated 1 hypotheses.
+Best armg at iter 1:[96]. Score:-25 NumLits:30 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[96,184]. Score:-14 NumLits:26 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[85,96,184]. Score:-4 NumLits:25 NewPos:21 Neg:0 Prec:1
+Best armg at iter 4:[77,96,122,184]. Score:6 NumLits:23 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[77,96,122,184,199]. Score:16 NumLits:20 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[77,96,122,140,184,199]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[20,36,77,88,96,184,187]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[77,96,120,122,125,140,184,199]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[34,77,96,120,122,125,140,184,199]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[34,77,96,120,122,125,140,152,184,199]. Score:50 NumLits:14 NewPos:65 Neg:1 Prec:0.9848
+Best armg at iter 11:[34,77,96,120,122,125,140,152,154,184,199]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[34,77,84,96,120,122,125,140,152,154,184,199]. Score:59 NumLits:12 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[10,20,36,77,82,88,91,96,120,130,151,184,187]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[10,20,36,56,77,82,88,91,96,120,130,151,184,187]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[10,20,36,45,56,77,82,88,91,96,120,130,151,184,187]. Score:70 NumLits:9 NewPos:80 Neg:1 Prec:0.9877
+Before neg reduction. Score:70 NumLits:9 NewPos:80, Neg:1 Prec:0.9877
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 96/300: toxic(p_B1P1F5). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 97/300: toxic(p_Q68PH1). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 98/300: toxic(p_B1P1B3). Generated 0 hypotheses.
+Best armg at iter 1:[99]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[99,132]. Score:-14 NumLits:24 NewPos:10 Neg:0 Prec:1
+Best armg at iter 3:[14,67,99]. Score:-3 NumLits:25 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[14,67,99,155]. Score:9 NumLits:22 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[14,67,99,155,174]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[14,39,67,99,155,186]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[14,29,39,67,99,155,186]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[14,40,67,91,99,155,174,195]. Score:40 NumLits:16 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[14,40,67,91,96,99,155,174,195]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[14,40,67,91,99,114,151,155,174,195]. Score:51 NumLits:14 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[12,14,40,67,91,96,99,132,155,174,195]. Score:54 NumLits:13 NewPos:68 Neg:1 Prec:0.9855
+Best armg at iter 12:[1,12,14,40,67,91,96,99,132,155,174,195]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[10,12,14,40,67,68,91,96,99,130,155,174,195]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 14:[10,12,14,32,40,67,68,91,96,99,130,155,174,195]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[10,12,14,32,40,67,68,91,96,99,130,132,155,174,195]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:71 NumLits:9 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 99/300: toxic(p_P58807). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 100/300: toxic(p_A3QVP0). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 101/300: toxic(p_B6DCY9). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 102/300: toxic(p_Q9YGJ0). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 103/300: toxic(p_C7B247). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 104/300: toxic(p_P84805). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 105/300: toxic(p_B4ESA3). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 106/300: toxic(p_P24605). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 107/300: toxic(p_D2Y221). Generated 0 hypotheses.
+Best armg at iter 1:[108]. Score:-29 NumLits:30 NewPos:1 Neg:0 Prec:1
+Best armg at iter 2:[43,108]. Score:-16 NumLits:24 NewPos:8 Neg:0 Prec:1
+Best armg at iter 3:[43,108,192]. Score:-6 NumLits:22 NewPos:16 Neg:0 Prec:1
+Best armg at iter 4:[88,108,124,144]. Score:3 NumLits:21 NewPos:24 Neg:0 Prec:1
+Best armg at iter 5:[43,88,108,124,144]. Score:11 NumLits:20 NewPos:31 Neg:0 Prec:1
+Best armg at iter 6:[75,77,108,124,144,190]. Score:21 NumLits:18 NewPos:39 Neg:0 Prec:1
+Best armg at iter 7:[43,59,88,108,124,144,195]. Score:26 NumLits:17 NewPos:43 Neg:0 Prec:1
+Best armg at iter 8:[64,75,77,108,124,144,190,195]. Score:33 NumLits:16 NewPos:49 Neg:0 Prec:1
+Best armg at iter 9:[64,75,77,82,108,124,144,190,195]. Score:39 NumLits:15 NewPos:54 Neg:0 Prec:1
+Best armg at iter 10:[64,75,77,82,99,108,124,144,190,195]. Score:47 NumLits:14 NewPos:61 Neg:0 Prec:1
+Best armg at iter 11:[55,64,75,77,82,108,124,144,173,190,195]. Score:49 NumLits:13 NewPos:63 Neg:1 Prec:0.9844
+Best armg at iter 12:[39,55,64,75,77,82,108,124,144,173,190,195]. Score:55 NumLits:12 NewPos:68 Neg:1 Prec:0.9855
+Best armg at iter 13:[39,55,64,75,77,82,108,113,124,144,173,190,195]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[39,55,62,64,75,77,82,108,113,124,144,173,190,195]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:67 NumLits:10 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 108/300: toxic(p_P01394). Generated 1 hypotheses.
+Best armg at iter 1:[109]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[2,109]. Score:-11 NumLits:26 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[2,109,186]. Score:-1 NumLits:24 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[2,36,109,186]. Score:7 NumLits:23 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[2,36,109,116,186]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[2,36,109,116,184,186]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[2,36,79,109,116,184,186]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[2,36,79,109,114,116,184,186]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,2,29,43,109,114,122,144,186]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,2,29,43,109,114,122,144,173,186]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[1,2,29,43,109,114,122,144,151,173,186]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,2,29,43,109,114,122,144,151,152,173,186]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,2,29,43,56,109,114,122,144,151,152,173,186]. Score:65 NumLits:11 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[1,2,10,29,43,56,109,114,122,144,151,152,173,186]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,2,10,29,43,56,109,114,122,130,144,151,152,173,186]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:71 NumLits:9 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 109/300: toxic(p_P0DMG8). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 110/300: toxic(p_Q9BP83). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 111/300: toxic(p_Q45Z25). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 112/300: toxic(p_J3SFJ3). Generated 0 hypotheses.
+Best armg at iter 1:[113]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[113,121]. Score:-10 NumLits:26 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[113,121,124]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[17,113,155,166]. Score:9 NumLits:22 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[17,113,140,155,166]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[14,17,113,140,155,166]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[14,17,40,113,140,155,166]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[14,17,39,40,113,140,155,166]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[17,34,40,109,113,140,154,155,166]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[17,34,40,66,109,113,140,154,155,166]. Score:51 NumLits:14 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[12,17,32,40,47,109,113,140,154,155,166]. Score:56 NumLits:13 NewPos:69 Neg:0 Prec:1
+Best armg at iter 12:[12,17,32,40,47,109,113,132,140,154,155,166]. Score:60 NumLits:12 NewPos:72 Neg:0 Prec:1
+Best armg at iter 13:[12,17,19,32,40,109,113,114,140,154,155,166,173]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[12,17,32,40,47,108,109,113,132,140,154,155,166,170]. Score:65 NumLits:10 NewPos:75 Neg:0 Prec:1
+Before neg reduction. Score:65 NumLits:10 NewPos:75, Neg:0 Prec:1
+After neg reduction. Score:75 NumLits:4 NewPos:79, Neg:0 Prec:1
+Example 113/300: toxic(p_P0DMU1). Generated 1 hypotheses.
+Best armg at iter 1:[114]. Score:-25 NumLits:30 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[88,114]. Score:-12 NumLits:26 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[88,114,176]. Score:-2 NumLits:23 NewPos:21 Neg:0 Prec:1
+Best armg at iter 4:[88,114,176,182]. Score:8 NumLits:21 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[58,88,114,176,182]. Score:18 NumLits:19 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[29,58,88,114,176,182]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[24,58,88,114,125,176,182]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[29,58,88,95,114,154,176,182]. Score:39 NumLits:16 NewPos:55 Neg:0 Prec:1
+Best armg at iter 9:[24,40,58,88,114,125,132,176,182]. Score:45 NumLits:15 NewPos:60 Neg:0 Prec:1
+Best armg at iter 10:[29,55,58,88,95,114,154,176,182,197]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[19,29,55,58,88,95,114,154,176,182,197]. Score:55 NumLits:13 NewPos:68 Neg:0 Prec:1
+Best armg at iter 12:[19,29,55,58,88,91,95,114,154,176,182,197]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[19,29,55,58,62,88,95,108,114,154,176,182,197]. Score:61 NumLits:11 NewPos:72 Neg:0 Prec:1
+Best armg at iter 14:[19,29,55,58,62,88,95,108,114,154,173,176,182,197]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Before neg reduction. Score:66 NumLits:10 NewPos:77, Neg:1 Prec:0.9872
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 114/300: toxic(p_P84684). Generated 1 hypotheses.
+Best armg at iter 1:[115]. Score:-26 NumLits:30 NewPos:5 Neg:1 Prec:0.8333
+Best armg at iter 2:[115,126]. Score:-11 NumLits:23 NewPos:13 Neg:1 Prec:0.9286
+Best armg at iter 3:[115,126,143]. Score:-3 NumLits:22 NewPos:20 Neg:1 Prec:0.9524
+Best armg at iter 4:[88,115,126,143]. Score:7 NumLits:21 NewPos:29 Neg:1 Prec:0.9667
+Best armg at iter 5:[2,74,79,115,126]. Score:16 NumLits:19 NewPos:36 Neg:1 Prec:0.973
+Best armg at iter 6:[2,14,74,79,115,126]. Score:24 NumLits:18 NewPos:43 Neg:1 Prec:0.9773
+Best armg at iter 7:[40,67,88,113,115,126,143]. Score:32 NumLits:17 NewPos:50 Neg:1 Prec:0.9804
+Best armg at iter 8:[2,14,17,39,74,79,115,126]. Score:38 NumLits:16 NewPos:55 Neg:1 Prec:0.9821
+Best armg at iter 9:[2,14,17,37,39,74,79,115,126]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[2,14,17,37,39,59,74,79,115,126]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[2,14,17,19,37,39,59,74,79,115,126]. Score:55 NumLits:13 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[2,14,17,19,37,39,56,59,74,79,115,126]. Score:59 NumLits:12 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[2,14,17,19,37,39,55,56,59,74,79,115,126]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:64 NumLits:11 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 115/300: toxic(p_P0DJL2). Generated 1 hypotheses.
+Best armg at iter 1:[116]. Score:-22 NumLits:31 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[116,148]. Score:-7 NumLits:24 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[116,148,176]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[40,67,116,148]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[2,116,125,148,176]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[2,116,125,148,176,189]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[2,57,116,125,148,176,189]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[2,57,116,125,148,173,176,189]. Score:40 NumLits:16 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[2,57,116,125,148,151,173,176,189]. Score:45 NumLits:15 NewPos:61 Neg:1 Prec:0.9839
+Best armg at iter 10:[2,42,57,116,125,148,151,173,176,189]. Score:51 NumLits:14 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[2,42,57,68,116,125,148,151,173,176,189]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[2,42,57,64,68,116,125,148,151,173,176,189]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Before neg reduction. Score:61 NumLits:12 NewPos:74, Neg:1 Prec:0.9867
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 116/300: toxic(p_P35781). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 117/300: toxic(p_Q3YED3). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 118/300: toxic(p_P0DL57). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 119/300: toxic(p_D2Y2I0). Generated 0 hypotheses.
+Best armg at iter 1:[120]. Score:-25 NumLits:31 NewPos:6 Neg:0 Prec:1
+Best armg at iter 2:[67,120]. Score:-12 NumLits:26 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[67,120,155]. Score:0 NumLits:23 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[36,67,120,155]. Score:8 NumLits:22 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[36,67,120,155,174]. Score:18 NumLits:20 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[36,67,120,155,174,184]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[20,36,67,120,155,174,184]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[20,36,67,68,120,155,174,184]. Score:40 NumLits:17 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[20,34,36,67,68,120,155,174,184]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[20,32,36,39,67,68,120,155,174,184]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[20,32,36,39,45,67,68,120,155,174,184]. Score:55 NumLits:13 NewPos:68 Neg:0 Prec:1
+Best armg at iter 12:[19,20,32,36,39,67,68,120,155,174,184,194]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[19,20,32,36,39,62,67,68,120,155,174,184,194]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:64 NumLits:11 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 120/300: toxic(p_P0C256). Generated 1 hypotheses.
+Best armg at iter 1:[121]. Score:-22 NumLits:31 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[121,182]. Score:-7 NumLits:24 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[67,121,182]. Score:3 NumLits:22 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[29,67,121,182]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[29,67,121,176,182]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[29,67,121,144,176,182]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[29,67,121,144,176,182,194]. Score:32 NumLits:17 NewPos:50 Neg:1 Prec:0.9804
+Best armg at iter 8:[29,67,121,143,144,176,182,194]. Score:40 NumLits:16 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[29,59,67,121,125,144,176,182,194]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[29,59,67,96,121,125,144,176,182,194]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[29,56,59,67,96,121,125,144,176,182,194]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[29,45,55,59,64,67,121,125,144,176,182,194]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 13:[29,45,55,59,64,67,114,121,125,144,176,182,194]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:64 NumLits:11 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 121/300: toxic(p_P14421). Generated 1 hypotheses.
+Best armg at iter 1:[122]. Score:-22 NumLits:31 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[68,122]. Score:-9 NumLits:23 NewPos:14 Neg:0 Prec:1
+Best armg at iter 3:[2,122,197]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[40,67,122,182]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[40,67,122,176,182]. Score:18 NumLits:20 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[40,67,122,176,182,184]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[40,67,122,176,182,184,197]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[40,67,96,109,122,176,182,195]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[40,67,82,96,109,122,176,182,195]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,40,67,96,122,151,176,182,184,197]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[34,40,42,56,59,67,122,176,182,184,197]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Before neg reduction. Score:56 NumLits:13 NewPos:70, Neg:1 Prec:0.9859
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 122/300: toxic(p_P0DKT9). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 123/300: toxic(p_B5G6G9). Generated 0 hypotheses.
+Best armg at iter 1:[124]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[124,194]. Score:-11 NumLits:23 NewPos:13 Neg:1 Prec:0.9286
+Best armg at iter 3:[57,116,124]. Score:0 NumLits:23 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[2,57,116,124]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[2,57,116,124,176]. Score:18 NumLits:20 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[2,57,116,124,125,176]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[2,57,96,116,124,125,176]. Score:33 NumLits:17 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[2,29,57,96,116,124,125,176]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,2,29,57,96,116,124,125,176]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,2,29,55,57,96,116,124,125,176]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[1,2,29,55,57,91,96,116,124,125,176]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,2,29,55,57,84,91,96,116,124,125,176]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[1,2,29,55,57,84,91,96,116,124,125,170,176]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[1,2,29,55,57,84,91,96,116,124,125,152,170,176]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:67 NumLits:10 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 124/300: toxic(p_P0DKN6). Generated 1 hypotheses.
+Best armg at iter 1:[125]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[82,125]. Score:-14 NumLits:26 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[82,125,140]. Score:-5 NumLits:25 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[82,121,125,140]. Score:8 NumLits:21 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[82,121,125,140,162]. Score:17 NumLits:20 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[82,113,121,125,140,162]. Score:25 NumLits:19 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[39,82,113,121,125,140,162]. Score:32 NumLits:17 NewPos:49 Neg:0 Prec:1
+Best armg at iter 8:[29,57,82,121,125,140,176,192]. Score:40 NumLits:17 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[17,39,82,120,121,125,140,162,176]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[17,34,39,82,120,121,125,140,162,176]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[29,32,42,57,82,91,121,125,140,176,192]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[29,32,45,57,64,82,91,121,125,140,176,192]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 13:[29,32,39,45,57,64,82,91,121,125,140,176,192]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[29,32,39,45,57,64,82,84,91,121,125,140,176,192]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:67 NumLits:10 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 125/300: toxic(p_P85006). Generated 1 hypotheses.
+Best armg at iter 1:[126]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[126,155]. Score:-7 NumLits:24 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[126,127,155]. Score:3 NumLits:22 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[20,126,127,155]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[20,126,127,155,189]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[20,79,126,127,155,189]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[20,36,96,126,127,155,189]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[20,36,40,96,126,127,155,189]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,39,109,120,126,155,189,192,199]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,32,39,109,120,126,155,189,192,199]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[1,39,109,120,126,132,155,189,192,194,199]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[1,39,109,120,126,132,151,155,189,192,194,199]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,39,66,109,120,126,132,152,155,173,189,192,199]. Score:65 NumLits:11 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[1,39,45,66,109,120,126,132,152,155,173,189,192,199]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,10,39,45,66,109,120,126,132,152,155,173,189,192,199]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:71 NumLits:9 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 126/300: toxic(p_P01464). Generated 1 hypotheses.
+Best armg at iter 1:[127]. Score:-24 NumLits:32 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[127,155]. Score:-9 NumLits:26 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[127,140,155]. Score:3 NumLits:22 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[37,127,140,155]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[24,37,127,140,155]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[20,24,37,127,140,155]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[20,24,37,127,140,144,155]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[20,24,37,66,127,140,144,155]. Score:39 NumLits:17 NewPos:56 Neg:0 Prec:1
+Best armg at iter 9:[20,24,37,59,66,127,140,144,155]. Score:45 NumLits:16 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[20,24,37,59,62,66,127,140,144,155]. Score:50 NumLits:14 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[12,20,24,37,96,115,127,140,144,151,155]. Score:55 NumLits:13 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[12,20,24,37,96,115,127,140,144,151,154,155]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,20,24,37,59,62,66,115,127,130,140,144,155]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 14:[12,19,20,24,37,59,62,66,115,127,130,140,144,155]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:65 NumLits:10 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 127/300: toxic(p_P81658). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 128/300: toxic(p_Q9BPE5). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 129/300: toxic(p_P0CJ01). Generated 0 hypotheses.
+Best armg at iter 1:[130]. Score:-30 NumLits:32 NewPos:2 Neg:0 Prec:1
+Best armg at iter 2:[130,184]. Score:-16 NumLits:25 NewPos:9 Neg:0 Prec:1
+Best armg at iter 3:[40,90,130]. Score:-5 NumLits:22 NewPos:17 Neg:0 Prec:1
+Best armg at iter 4:[121,126,130,184]. Score:6 NumLits:20 NewPos:26 Neg:0 Prec:1
+Best armg at iter 5:[67,121,126,130,184]. Score:15 NumLits:19 NewPos:34 Neg:0 Prec:1
+Best armg at iter 6:[67,109,121,126,130,184]. Score:23 NumLits:18 NewPos:41 Neg:0 Prec:1
+Best armg at iter 7:[43,67,109,121,126,130,184]. Score:31 NumLits:17 NewPos:48 Neg:0 Prec:1
+Best armg at iter 8:[43,67,109,120,121,126,130,184]. Score:38 NumLits:16 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[43,67,109,114,120,121,126,130,184]. Score:44 NumLits:15 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[32,43,67,109,114,120,121,126,130,184]. Score:49 NumLits:14 NewPos:63 Neg:0 Prec:1
+Best armg at iter 11:[32,43,59,67,109,114,120,121,126,130,184]. Score:55 NumLits:13 NewPos:68 Neg:0 Prec:1
+Best armg at iter 12:[34,43,66,67,109,120,121,126,130,132,154,184]. Score:58 NumLits:12 NewPos:71 Neg:1 Prec:0.9861
+Before neg reduction. Score:58 NumLits:12 NewPos:71, Neg:1 Prec:0.9861
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 130/300: toxic(p_P30894). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 131/300: toxic(p_B6DD62). Generated 0 hypotheses.
+Best armg at iter 1:[132]. Score:-27 NumLits:30 NewPos:3 Neg:0 Prec:1
+Best armg at iter 2:[132,192]. Score:-14 NumLits:25 NewPos:11 Neg:0 Prec:1
+Best armg at iter 3:[116,132,192]. Score:-3 NumLits:23 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[116,125,132,192]. Score:6 NumLits:21 NewPos:27 Neg:0 Prec:1
+Best armg at iter 5:[90,120,132,140,192]. Score:15 NumLits:19 NewPos:34 Neg:0 Prec:1
+Best armg at iter 6:[116,125,132,160,174,192]. Score:24 NumLits:18 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[57,116,125,132,160,174,192]. Score:31 NumLits:17 NewPos:48 Neg:0 Prec:1
+Best armg at iter 8:[57,99,116,125,132,160,174,192]. Score:39 NumLits:16 NewPos:55 Neg:0 Prec:1
+Best armg at iter 9:[47,113,116,120,125,132,160,174,192]. Score:45 NumLits:15 NewPos:60 Neg:0 Prec:1
+Best armg at iter 10:[1,57,91,99,116,125,132,160,174,192]. Score:50 NumLits:14 NewPos:65 Neg:1 Prec:0.9848
+Best armg at iter 11:[1,57,66,91,99,116,125,132,160,174,192]. Score:55 NumLits:13 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 12:[1,57,66,91,96,99,116,125,132,160,174,192]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[42,57,59,64,99,116,125,132,151,160,170,174,192]. Score:63 NumLits:11 NewPos:74 Neg:0 Prec:1
+Best armg at iter 14:[42,57,59,64,91,99,116,125,132,151,160,170,174,192]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[42,57,59,64,84,91,99,116,125,132,151,160,170,174,192]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:71 NumLits:9 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 132/300: toxic(p_P59940). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 133/300: toxic(p_P82959). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 134/300: toxic(p_Q07932). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 135/300: toxic(p_Q86RQ7). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 136/300: toxic(p_D2Y251). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 137/300: toxic(p_B6DCU3). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 138/300: toxic(p_A9XDG2). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 139/300: toxic(p_P59172). Generated 0 hypotheses.
+Best armg at iter 1:[140]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[34,140]. Score:-11 NumLits:23 NewPos:13 Neg:1 Prec:0.9286
+Best armg at iter 3:[57,74,140]. Score:0 NumLits:23 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[14,57,74,140]. Score:8 NumLits:22 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[14,57,74,140,199]. Score:16 NumLits:21 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[14,57,67,74,140,199]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[14,57,74,77,140,184,199]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[14,24,34,57,67,74,140,199]. Score:40 NumLits:16 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[1,14,32,57,74,77,140,184,199]. Score:45 NumLits:16 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[14,32,42,57,74,77,91,140,184,199]. Score:51 NumLits:14 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[14,32,42,45,57,74,77,91,140,184,199]. Score:54 NumLits:13 NewPos:68 Neg:1 Prec:0.9855
+Best armg at iter 12:[14,32,42,45,57,68,74,77,91,140,184,199]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[1,10,14,24,34,57,62,67,74,114,140,170,199]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 14:[1,10,12,14,24,34,57,62,67,74,114,140,170,199]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 15:[1,10,12,14,24,34,55,57,62,67,74,114,140,170,199]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[1,10,12,14,24,34,55,57,62,67,74,84,114,140,170,199]. Score:74 NumLits:8 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:74 NumLits:8 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 140/300: toxic(p_P0DJ87). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 141/300: toxic(p_D2Y2N1). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 142/300: toxic(p_P15818). Generated 0 hypotheses.
+Best armg at iter 1:[143]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[90,143]. Score:-10 NumLits:26 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[90,143,174]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[85,143,182,189]. Score:9 NumLits:22 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[36,85,143,182,189]. Score:17 NumLits:21 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[36,85,143,182,189,192]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[36,57,85,143,182,189,192]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[36,47,57,85,143,182,189,192]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[34,36,57,59,85,143,182,189,192]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[12,36,47,57,85,143,151,182,189,192]. Score:50 NumLits:14 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[12,36,47,57,82,85,143,151,182,189,192]. Score:56 NumLits:13 NewPos:69 Neg:0 Prec:1
+Best armg at iter 12:[12,36,47,56,57,82,85,143,151,182,189,192]. Score:60 NumLits:12 NewPos:72 Neg:0 Prec:1
+Best armg at iter 13:[12,36,47,56,57,82,85,143,151,182,189,192,194]. Score:65 NumLits:11 NewPos:77 Neg:1 Prec:0.9872
+Before neg reduction. Score:65 NumLits:11 NewPos:77, Neg:1 Prec:0.9872
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 143/300: toxic(p_P85975). Generated 1 hypotheses.
+Best armg at iter 1:[144]. Score:-25 NumLits:31 NewPos:6 Neg:0 Prec:1
+Best armg at iter 2:[122,144]. Score:-11 NumLits:26 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[122,144,187]. Score:0 NumLits:23 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[122,144,166,187]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[42,122,144,166,187]. Score:17 NumLits:19 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[42,122,125,144,166,187]. Score:25 NumLits:18 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[20,43,122,144,166,187,189]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[20,43,114,122,144,166,187,189]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[20,43,82,114,122,144,166,187,189]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[20,43,56,82,114,122,144,166,187,189]. Score:51 NumLits:14 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[20,43,56,82,114,122,144,166,187,189,194]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[20,32,43,56,82,114,122,144,166,187,189,194]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[19,20,32,43,56,82,114,122,144,166,187,189,194]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[19,20,32,43,56,82,84,114,122,144,166,187,189,194]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:67 NumLits:10 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 144/300: toxic(p_P86342). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 145/300: toxic(p_B5L5P3). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 146/300: toxic(p_Q9BPH9). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 147/300: toxic(p_Q58L96). Generated 0 hypotheses.
+Best armg at iter 1:[148]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[148,160]. Score:-9 NumLits:24 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[88,109,148]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[67,88,109,148]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[37,67,88,109,148]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[37,47,67,88,109,148]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[24,37,47,67,88,109,148]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[37,40,47,67,88,109,148,184]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[37,40,47,67,68,88,109,148,184]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[24,32,37,47,67,79,88,109,148,154]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[24,32,37,47,67,79,88,109,148,154,194]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[24,32,37,47,62,67,79,88,109,148,154,194]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[19,24,32,37,47,62,67,79,88,109,148,154,194]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[19,24,32,37,47,62,64,67,79,88,109,148,154,194]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Before neg reduction. Score:68 NumLits:10 NewPos:79, Neg:1 Prec:0.9875
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 148/300: toxic(p_P85092). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 149/300: toxic(p_P0DME9). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 150/300: toxic(p_Q2PG81). Generated 0 hypotheses.
+Best armg at iter 1:[151]. Score:-27 NumLits:31 NewPos:4 Neg:0 Prec:1
+Best armg at iter 2:[85,151]. Score:-11 NumLits:24 NewPos:13 Neg:0 Prec:1
+Best armg at iter 3:[85,151,176]. Score:-3 NumLits:23 NewPos:20 Neg:0 Prec:1
+Best armg at iter 4:[85,126,151,176]. Score:6 NumLits:22 NewPos:28 Neg:0 Prec:1
+Best armg at iter 5:[85,126,151,176,197]. Score:14 NumLits:21 NewPos:35 Neg:0 Prec:1
+Best armg at iter 6:[85,126,151,162,176,197]. Score:24 NumLits:19 NewPos:43 Neg:0 Prec:1
+Best armg at iter 7:[17,85,143,151,162,176,186]. Score:32 NumLits:18 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[17,85,120,143,151,162,176,186]. Score:39 NumLits:17 NewPos:56 Neg:0 Prec:1
+Best armg at iter 9:[17,85,96,120,143,151,162,176,186]. Score:46 NumLits:15 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[1,17,85,96,120,143,151,162,176,186]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[1,17,85,96,120,130,143,151,162,176,186]. Score:55 NumLits:13 NewPos:68 Neg:0 Prec:1
+Best armg at iter 12:[17,56,59,85,96,120,143,151,152,162,176,186]. Score:60 NumLits:12 NewPos:72 Neg:0 Prec:1
+Best armg at iter 13:[17,45,56,59,85,96,120,143,151,152,162,176,186]. Score:63 NumLits:11 NewPos:74 Neg:0 Prec:1
+Best armg at iter 14:[17,45,56,59,85,91,96,120,143,151,152,162,176,186]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[17,45,56,59,85,91,96,108,120,143,151,152,162,176,186]. Score:70 NumLits:9 NewPos:80 Neg:1 Prec:0.9877
+Before neg reduction. Score:70 NumLits:9 NewPos:80, Neg:1 Prec:0.9877
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 151/300: toxic(p_P07494). Generated 1 hypotheses.
+Best armg at iter 1:[152]. Score:-27 NumLits:30 NewPos:3 Neg:0 Prec:1
+Best armg at iter 2:[116,152]. Score:-16 NumLits:28 NewPos:12 Neg:0 Prec:1
+Best armg at iter 3:[113,148,152]. Score:-6 NumLits:24 NewPos:18 Neg:0 Prec:1
+Best armg at iter 4:[88,113,148,152]. Score:5 NumLits:22 NewPos:27 Neg:0 Prec:1
+Best armg at iter 5:[2,88,113,148,152]. Score:15 NumLits:20 NewPos:35 Neg:0 Prec:1
+Best armg at iter 6:[2,88,113,143,148,152]. Score:23 NumLits:19 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[2,88,113,143,148,152,184]. Score:31 NumLits:18 NewPos:49 Neg:0 Prec:1
+Best armg at iter 8:[2,88,113,114,143,148,152,184]. Score:38 NumLits:16 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[2,40,82,88,113,143,148,152,184]. Score:44 NumLits:16 NewPos:60 Neg:0 Prec:1
+Best armg at iter 10:[2,39,40,82,88,113,143,148,152,184]. Score:51 NumLits:14 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[2,39,40,62,82,88,113,143,148,152,184]. Score:55 NumLits:13 NewPos:68 Neg:0 Prec:1
+Best armg at iter 12:[2,32,39,40,82,84,88,113,143,148,152,184]. Score:59 NumLits:12 NewPos:71 Neg:0 Prec:1
+Best armg at iter 13:[2,32,39,40,82,84,88,91,113,143,148,152,184]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[2,32,39,40,82,84,88,91,113,143,148,152,170,184]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[2,32,39,40,56,82,84,88,113,143,148,152,170,184,194]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:71 NumLits:9 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 152/300: toxic(p_P61233). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 153/300: toxic(p_Q90VW1). Generated 0 hypotheses.
+Best armg at iter 1:[154]. Score:-25 NumLits:30 NewPos:5 Neg:0 Prec:1
+Best armg at iter 2:[34,154]. Score:-13 NumLits:22 NewPos:10 Neg:1 Prec:0.9091
+Best armg at iter 3:[34,85,154]. Score:-3 NumLits:21 NewPos:19 Neg:1 Prec:0.95
+Best armg at iter 4:[2,34,85,154]. Score:6 NumLits:20 NewPos:27 Neg:1 Prec:0.9643
+Best armg at iter 5:[2,17,34,85,154]. Score:14 NumLits:19 NewPos:34 Neg:1 Prec:0.9714
+Best armg at iter 6:[2,17,34,85,154,176]. Score:22 NumLits:18 NewPos:41 Neg:1 Prec:0.9762
+Best armg at iter 7:[2,17,34,85,154,176,182]. Score:31 NumLits:17 NewPos:49 Neg:1 Prec:0.98
+Best armg at iter 8:[34,77,85,95,109,148,154,195]. Score:38 NumLits:16 NewPos:55 Neg:1 Prec:0.9821
+Best armg at iter 9:[32,34,77,85,95,109,148,154,195]. Score:43 NumLits:15 NewPos:59 Neg:1 Prec:0.9833
+Best armg at iter 10:[14,17,37,56,64,77,95,148,154,155]. Score:49 NumLits:14 NewPos:63 Neg:0 Prec:1
+Best armg at iter 11:[14,17,37,39,56,64,77,95,148,154,155]. Score:55 NumLits:13 NewPos:68 Neg:0 Prec:1
+Best armg at iter 12:[14,17,37,56,64,77,95,114,148,154,155,173]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[14,17,37,39,56,64,77,91,95,130,148,154,155]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Before neg reduction. Score:63 NumLits:11 NewPos:75, Neg:1 Prec:0.9868
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 154/300: toxic(p_C0JB48). Generated 1 hypotheses.
+Best armg at iter 1:[155]. Score:-22 NumLits:31 NewPos:9 Neg:0 Prec:1
+Best armg at iter 2:[127,155]. Score:-9 NumLits:26 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[126,127,155]. Score:3 NumLits:22 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[126,127,155,190]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[24,36,109,127,155]. Score:17 NumLits:21 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[24,36,109,127,155,174]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[24,36,109,114,127,155,174]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[24,36,57,109,114,127,155,174]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[19,24,36,57,109,114,127,155,174]. Score:44 NumLits:15 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[1,19,24,36,57,109,114,127,155,174]. Score:50 NumLits:14 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[1,19,24,36,55,57,109,114,127,155,174]. Score:55 NumLits:13 NewPos:68 Neg:0 Prec:1
+Best armg at iter 12:[1,19,24,36,55,57,109,114,127,132,155,174]. Score:59 NumLits:12 NewPos:71 Neg:0 Prec:1
+Best armg at iter 13:[1,19,24,34,36,55,57,109,114,127,132,155,174]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:64 NumLits:11 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 155/300: toxic(p_P00607). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 156/300: toxic(p_P0C1N3). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 157/300: toxic(p_D2Y286). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 158/300: toxic(p_A6MFL7). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 159/300: toxic(p_Q5Y4W3). Generated 0 hypotheses.
+Best armg at iter 1:[160]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[160,162]. Score:-11 NumLits:26 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[160,162,187]. Score:1 NumLits:22 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[109,160,162,187]. Score:9 NumLits:21 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[36,95,160,162,187]. Score:16 NumLits:20 NewPos:36 Neg:0 Prec:1
+Best armg at iter 6:[36,95,155,160,162,187]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[36,95,114,155,160,162,187]. Score:33 NumLits:17 NewPos:50 Neg:0 Prec:1
+Best armg at iter 8:[20,36,95,114,155,160,162,187]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[20,36,95,114,115,155,160,162,187]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[1,20,36,95,114,115,155,160,162,187]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[1,20,36,56,95,114,115,155,160,162,187]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[1,20,36,56,95,114,115,130,155,160,162,187]. Score:59 NumLits:12 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[1,12,20,36,56,95,114,115,130,155,160,162,187]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[1,19,20,36,95,114,115,130,132,155,160,162,170,187]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:65 NumLits:10 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 160/300: toxic(p_Q3SAF4). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 161/300: toxic(p_B1P1H4). Generated 0 hypotheses.
+Best armg at iter 1:[162]. Score:-24 NumLits:32 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[155,162]. Score:-9 NumLits:26 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[148,155,162]. Score:3 NumLits:22 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[148,155,162,195]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[99,148,155,162,195]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[99,109,148,155,162,195]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[79,99,109,148,155,162,195]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[82,95,99,109,148,155,162,195]. Score:40 NumLits:17 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[82,91,95,99,109,148,155,162,195]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[47,82,91,95,99,109,148,155,162,195]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[47,56,82,91,95,99,109,148,155,162,195]. Score:56 NumLits:13 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 12:[47,56,66,82,91,95,99,109,148,155,162,195]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Before neg reduction. Score:61 NumLits:12 NewPos:74, Neg:1 Prec:0.9867
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 162/300: toxic(p_C0JB33). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 163/300: toxic(p_Q9Y0X6). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 164/300: toxic(p_P0DMF4). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 165/300: toxic(p_Q91510). Generated 0 hypotheses.
+Best armg at iter 1:[166]. Score:-24 NumLits:32 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[17,166]. Score:-11 NumLits:26 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[17,140,166]. Score:1 NumLits:22 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[17,85,140,166]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[17,85,99,140,166]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[14,17,85,99,140,166]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[17,20,43,85,95,140,166]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[14,17,39,85,95,99,140,166]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[17,20,43,56,85,95,96,140,166]. Score:45 NumLits:15 NewPos:60 Neg:0 Prec:1
+Best armg at iter 10:[17,20,43,56,85,95,96,140,166,173]. Score:50 NumLits:14 NewPos:65 Neg:1 Prec:0.9848
+Best armg at iter 11:[17,20,32,43,56,64,85,95,96,140,166]. Score:54 NumLits:13 NewPos:67 Neg:0 Prec:1
+Best armg at iter 12:[17,20,32,43,56,64,85,95,96,140,166,194]. Score:59 NumLits:12 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[1,17,20,32,43,56,64,85,95,96,140,166,194]. Score:65 NumLits:11 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[1,10,17,20,32,43,56,64,85,95,96,140,166,194]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,10,17,20,32,43,45,56,64,85,95,96,140,166,194]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:71 NumLits:9 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 166/300: toxic(p_C0JB20). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 167/300: toxic(p_P0C251). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 168/300: toxic(p_P0CI51). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 169/300: toxic(p_Q91124). Generated 0 hypotheses.
+Best armg at iter 1:[170]. Score:-29 NumLits:31 NewPos:2 Neg:0 Prec:1
+Best armg at iter 2:[75,170]. Score:-18 NumLits:29 NewPos:11 Neg:0 Prec:1
+Best armg at iter 3:[75,166,170]. Score:-6 NumLits:25 NewPos:19 Neg:0 Prec:1
+Best armg at iter 4:[75,140,166,170]. Score:6 NumLits:21 NewPos:27 Neg:0 Prec:1
+Best armg at iter 5:[75,140,160,166,170]. Score:14 NumLits:20 NewPos:34 Neg:0 Prec:1
+Best armg at iter 6:[36,75,140,160,166,170]. Score:22 NumLits:19 NewPos:41 Neg:0 Prec:1
+Best armg at iter 7:[14,29,36,58,122,124,170]. Score:30 NumLits:18 NewPos:48 Neg:0 Prec:1
+Best armg at iter 8:[14,29,36,58,95,122,124,170]. Score:37 NumLits:17 NewPos:54 Neg:0 Prec:1
+Best armg at iter 9:[14,29,36,58,95,114,122,124,170]. Score:44 NumLits:15 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[14,29,36,58,95,114,115,122,124,170]. Score:49 NumLits:14 NewPos:64 Neg:1 Prec:0.9846
+Best armg at iter 11:[10,14,29,36,58,95,114,115,122,124,170]. Score:52 NumLits:13 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 12:[12,14,29,32,36,56,58,95,115,122,124,170]. Score:56 NumLits:12 NewPos:69 Neg:1 Prec:0.9857
+Best armg at iter 13:[1,12,14,29,32,36,56,58,95,115,122,124,170]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 14:[1,12,14,19,29,32,36,56,58,95,115,122,124,170]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 15:[1,12,14,19,29,32,36,56,58,95,115,122,124,130,170]. Score:68 NumLits:9 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:68 NumLits:9 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 170/300: toxic(p_P86401). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 171/300: toxic(p_D9U2B7). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 172/300: toxic(p_D2Y278). Generated 0 hypotheses.
+Best armg at iter 1:[173]. Score:-26 NumLits:30 NewPos:5 Neg:1 Prec:0.8333
+Best armg at iter 2:[2,173]. Score:-12 NumLits:24 NewPos:13 Neg:1 Prec:0.9286
+Best armg at iter 3:[2,173,174]. Score:-1 NumLits:21 NewPos:21 Neg:1 Prec:0.9545
+Best armg at iter 4:[2,116,173,174]. Score:9 NumLits:20 NewPos:30 Neg:1 Prec:0.9677
+Best armg at iter 5:[2,116,160,173,174]. Score:17 NumLits:19 NewPos:37 Neg:1 Prec:0.9737
+Best armg at iter 6:[2,36,116,160,173,174]. Score:25 NumLits:18 NewPos:44 Neg:1 Prec:0.9778
+Best armg at iter 7:[2,36,116,143,160,173,174]. Score:33 NumLits:17 NewPos:51 Neg:1 Prec:0.9808
+Best armg at iter 8:[2,40,116,143,160,173,174,176]. Score:40 NumLits:16 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[2,36,42,116,143,154,160,173,174]. Score:45 NumLits:15 NewPos:61 Neg:1 Prec:0.9839
+Best armg at iter 10:[2,32,36,59,95,114,116,160,173,174]. Score:49 NumLits:14 NewPos:64 Neg:1 Prec:0.9846
+Best armg at iter 11:[2,20,32,36,59,95,114,116,160,173,174]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[2,20,32,36,59,95,114,116,152,160,173,174]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[2,20,32,36,59,95,108,114,116,152,160,173,174]. Score:63 NumLits:11 NewPos:75 Neg:1 Prec:0.9868
+Best armg at iter 14:[2,10,12,14,36,45,59,84,95,114,116,160,173,174]. Score:65 NumLits:10 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 15:[2,10,12,14,36,45,59,84,95,114,116,132,160,173,174]. Score:69 NumLits:9 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 16:[2,10,12,14,32,36,45,59,84,95,114,116,132,160,173,174]. Score:74 NumLits:8 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:74 NumLits:8 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 173/300: toxic(p_P0DJC9). Generated 1 hypotheses.
+Best armg at iter 1:[174]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[29,174]. Score:-9 NumLits:24 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[74,144,174]. Score:0 NumLits:23 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[74,144,174,192]. Score:10 NumLits:21 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[74,113,144,174,192]. Score:18 NumLits:20 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[29,37,85,143,174,192]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[29,37,47,85,143,174,192]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[74,96,113,144,160,174,192,197]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[74,96,113,144,151,160,174,192,197]. Score:46 NumLits:15 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[29,37,47,55,59,79,85,143,174,192]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[74,82,96,113,144,151,160,173,174,192,197]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[29,37,47,55,59,79,85,115,132,143,174,192]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[19,56,74,82,96,113,144,151,160,173,174,192,197]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:64 NumLits:11 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 174/300: toxic(p_B2CI27). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 175/300: toxic(p_Q90220). Generated 0 hypotheses.
+Best armg at iter 1:[176]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[74,176]. Score:-10 NumLits:26 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[74,176,192]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[17,88,124,176]. Score:9 NumLits:22 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[17,122,124,127,176]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[17,120,122,124,127,176]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[17,120,122,124,125,127,176]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[17,114,120,122,124,125,127,176]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[17,79,96,122,124,127,143,151,176]. Score:46 NumLits:15 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[17,34,79,96,122,124,127,143,151,176]. Score:51 NumLits:14 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[17,34,79,96,122,124,127,143,151,154,176]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[17,34,62,79,96,122,124,127,143,151,154,176]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[17,19,34,62,79,96,122,124,127,143,151,154,176]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[12,17,19,34,62,79,96,122,124,127,143,151,154,176]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[12,17,19,34,62,79,84,96,122,124,127,143,151,154,176]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:71 NumLits:9 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 176/300: toxic(p_P83108). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 177/300: toxic(p_F8RKW2). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 178/300: toxic(p_P01442). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 179/300: toxic(p_D2Y2B4). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 180/300: toxic(p_Q6PN80). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 181/300: toxic(p_D2Y2A2). Generated 0 hypotheses.
+Best armg at iter 1:[182]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[182,184]. Score:-9 NumLits:24 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[122,182,197]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[2,37,182,184]. Score:9 NumLits:21 NewPos:30 Neg:0 Prec:1
+Best armg at iter 5:[95,122,127,182,197]. Score:18 NumLits:20 NewPos:38 Neg:0 Prec:1
+Best armg at iter 6:[1,2,37,182,184,197]. Score:23 NumLits:19 NewPos:42 Neg:0 Prec:1
+Best armg at iter 7:[1,2,37,74,182,184,197]. Score:33 NumLits:18 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[1,2,37,85,144,182,184,197]. Score:40 NumLits:17 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[1,2,37,39,85,144,182,184,197]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,2,37,39,85,144,151,182,184,197]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[1,2,37,39,55,56,85,144,182,184,197]. Score:56 NumLits:13 NewPos:69 Neg:0 Prec:1
+Best armg at iter 12:[1,2,37,39,55,56,85,144,182,184,194,197]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,2,37,39,55,56,84,85,144,182,184,194,197]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Before neg reduction. Score:64 NumLits:11 NewPos:76, Neg:1 Prec:0.987
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 182/300: toxic(p_Q9PTA6). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 183/300: toxic(p_D2Y279). Generated 0 hypotheses.
+Best armg at iter 1:[184]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[58,184]. Score:-11 NumLits:26 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[58,140,184]. Score:1 NumLits:22 NewPos:23 Neg:0 Prec:1
+Best armg at iter 4:[58,116,140,184]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[37,58,88,124,184]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[58,75,114,140,184,197]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[43,58,114,140,155,184,197]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[37,40,58,88,140,143,184,194]. Score:40 NumLits:16 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[32,37,40,58,88,140,143,184,194]. Score:45 NumLits:15 NewPos:61 Neg:1 Prec:0.9839
+Best armg at iter 10:[32,37,40,58,88,140,143,154,184,194]. Score:51 NumLits:14 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[32,37,40,58,88,96,140,143,154,184,194]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[12,32,37,40,58,88,96,140,143,154,184,194]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[12,32,37,40,58,88,96,132,140,143,154,184,194]. Score:65 NumLits:11 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[12,32,37,40,58,84,88,96,132,140,143,154,184,194]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Before neg reduction. Score:68 NumLits:10 NewPos:79, Neg:1 Prec:0.9875
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 184/300: toxic(p_Q3SAF8). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 185/300: toxic(p_Q8T0W1). Generated 0 hypotheses.
+Best armg at iter 1:[186]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[116,186]. Score:-7 NumLits:24 NewPos:17 Neg:0 Prec:1
+Best armg at iter 3:[116,184,186]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[17,88,186,192]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[17,121,186,190,192]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[17,121,186,190,192,199]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[17,68,121,186,190,192,199]. Score:33 NumLits:18 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[17,42,68,121,186,190,192,199]. Score:40 NumLits:16 NewPos:56 Neg:0 Prec:1
+Best armg at iter 9:[17,42,68,95,121,186,190,192,199]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[17,42,55,68,95,121,186,190,192,199]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[17,42,55,68,95,121,173,186,190,192,199]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[17,42,55,56,68,95,121,173,186,190,192,199]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[10,12,17,42,55,68,95,121,170,186,190,192,199]. Score:62 NumLits:11 NewPos:73 Neg:0 Prec:1
+Best armg at iter 14:[10,12,17,34,42,55,68,95,121,170,186,190,192,199]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[10,12,17,34,42,55,62,68,95,121,170,186,190,192,199]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[10,12,17,34,42,55,62,68,84,95,121,170,186,190,192,199]. Score:74 NumLits:8 NewPos:83 Neg:1 Prec:0.9881
+Before neg reduction. Score:74 NumLits:8 NewPos:83, Neg:1 Prec:0.9881
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 186/300: toxic(p_P29182). Generated 1 hypotheses.
+Best armg at iter 1:[187]. Score:-23 NumLits:31 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[187,192]. Score:-11 NumLits:27 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[85,187,192]. Score:3 NumLits:22 NewPos:25 Neg:0 Prec:1
+Best armg at iter 4:[29,116,187,192]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[29,37,85,187,192]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[29,36,96,116,187,192]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[1,29,37,85,143,187,192]. Score:33 NumLits:18 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[29,36,96,115,116,143,187,192]. Score:39 NumLits:16 NewPos:56 Neg:1 Prec:0.9825
+Best armg at iter 9:[1,29,34,37,85,143,151,187,192]. Score:44 NumLits:15 NewPos:60 Neg:1 Prec:0.9836
+Best armg at iter 10:[1,29,34,37,85,143,144,151,187,192]. Score:51 NumLits:14 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[1,29,34,37,85,114,143,144,151,187,192]. Score:57 NumLits:13 NewPos:71 Neg:1 Prec:0.9861
+Best armg at iter 12:[1,29,34,37,62,85,114,143,144,151,187,192]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,10,29,34,37,42,85,132,143,144,151,187,192]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,10,29,34,37,42,45,85,132,143,144,151,187,192]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:67 NumLits:10 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 187/300: toxic(p_P01482). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 188/300: toxic(p_P25428). Generated 0 hypotheses.
+Best armg at iter 1:[189]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[174,189]. Score:-9 NumLits:24 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[121,174,189]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[58,121,174,189]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[121,162,174,176,189]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[14,121,162,174,176,189]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[14,57,121,162,174,176,189]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[14,57,91,121,162,174,176,189]. Score:40 NumLits:16 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[12,14,42,121,154,162,174,176,189]. Score:44 NumLits:15 NewPos:59 Neg:0 Prec:1
+Best armg at iter 10:[12,14,42,120,121,154,162,174,176,189]. Score:51 NumLits:14 NewPos:65 Neg:0 Prec:1
+Before neg reduction. Score:51 NumLits:14 NewPos:65, Neg:0 Prec:1
+After neg reduction. Score:75 NumLits:4 NewPos:79, Neg:0 Prec:1
+Example 189/300: toxic(p_P84035). Generated 1 hypotheses.
+Best armg at iter 1:[190]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[85,190]. Score:-10 NumLits:26 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[67,85,190]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[67,85,190,199]. Score:9 NumLits:22 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[67,85,126,190,199]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[29,67,85,126,190,199]. Score:27 NumLits:19 NewPos:46 Neg:0 Prec:1
+Best armg at iter 7:[29,57,67,85,126,190,199]. Score:34 NumLits:18 NewPos:52 Neg:0 Prec:1
+Best armg at iter 8:[29,57,67,82,85,126,190,199]. Score:40 NumLits:17 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[29,57,67,82,85,114,126,190,199]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[29,57,67,82,85,114,126,130,190,199]. Score:50 NumLits:14 NewPos:64 Neg:0 Prec:1
+Best armg at iter 11:[29,64,67,68,85,120,126,132,151,190,199]. Score:54 NumLits:13 NewPos:67 Neg:0 Prec:1
+Best armg at iter 12:[29,64,67,68,85,96,120,126,132,151,190,199]. Score:60 NumLits:12 NewPos:72 Neg:0 Prec:1
+Best armg at iter 13:[29,64,67,68,85,120,126,132,151,170,190,194,199]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Before neg reduction. Score:62 NumLits:11 NewPos:74, Neg:1 Prec:0.9867
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 190/300: toxic(p_P83902). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 191/300: toxic(p_J3RZ81). Generated 0 hypotheses.
+Best armg at iter 1:[192]. Score:-24 NumLits:32 NewPos:8 Neg:0 Prec:1
+Best armg at iter 2:[42,192]. Score:-14 NumLits:27 NewPos:13 Neg:0 Prec:1
+Best armg at iter 3:[42,90,192]. Score:-2 NumLits:24 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[14,42,122,192]. Score:8 NumLits:21 NewPos:29 Neg:0 Prec:1
+Best armg at iter 5:[14,42,122,126,192]. Score:18 NumLits:19 NewPos:37 Neg:0 Prec:1
+Best armg at iter 6:[14,42,122,126,192,199]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[14,42,113,122,124,160,192]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[14,42,79,113,122,124,160,192]. Score:41 NumLits:16 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[14,42,68,120,122,126,189,192,199]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[1,14,42,56,79,113,122,124,160,192]. Score:51 NumLits:14 NewPos:65 Neg:0 Prec:1
+Best armg at iter 11:[14,42,68,120,122,126,151,170,189,192,199]. Score:55 NumLits:13 NewPos:68 Neg:0 Prec:1
+Best armg at iter 12:[14,42,68,120,122,126,151,170,173,189,192,199]. Score:60 NumLits:12 NewPos:73 Neg:1 Prec:0.9865
+Best armg at iter 13:[14,42,68,120,122,126,151,152,170,173,189,192,199]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[14,42,56,68,120,122,126,151,152,170,173,189,192,199]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[14,19,42,56,68,120,122,126,151,152,170,173,189,192,199]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Best armg at iter 16:[14,19,42,56,68,108,120,122,126,151,152,170,173,189,192,199]. Score:73 NumLits:8 NewPos:82 Neg:1 Prec:0.988
+Before neg reduction. Score:73 NumLits:8 NewPos:82, Neg:1 Prec:0.988
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 192/300: toxic(p_C0JB55). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 193/300: toxic(p_P0C8W0). Generated 0 hypotheses.
+Best armg at iter 1:[194]. Score:-26 NumLits:30 NewPos:5 Neg:1 Prec:0.8333
+Best armg at iter 2:[82,194]. Score:-13 NumLits:22 NewPos:10 Neg:1 Prec:0.9091
+Best armg at iter 3:[99,174,194]. Score:-3 NumLits:22 NewPos:20 Neg:1 Prec:0.9524
+Best armg at iter 4:[99,116,174,194]. Score:7 NumLits:21 NewPos:29 Neg:1 Prec:0.9667
+Best armg at iter 5:[2,99,116,174,194]. Score:17 NumLits:19 NewPos:37 Neg:1 Prec:0.9737
+Best armg at iter 6:[2,99,116,174,189,194]. Score:25 NumLits:18 NewPos:44 Neg:1 Prec:0.9778
+Best armg at iter 7:[24,77,82,124,155,194,199]. Score:31 NumLits:17 NewPos:49 Neg:1 Prec:0.98
+Best armg at iter 8:[2,56,99,116,143,174,189,194]. Score:37 NumLits:16 NewPos:54 Neg:1 Prec:0.9818
+Best armg at iter 9:[2,56,99,114,116,143,174,189,194]. Score:43 NumLits:15 NewPos:59 Neg:1 Prec:0.9833
+Best armg at iter 10:[2,40,56,99,114,116,143,174,189,194]. Score:50 NumLits:14 NewPos:65 Neg:1 Prec:0.9848
+Best armg at iter 11:[2,12,56,95,99,116,143,154,174,189,194]. Score:54 NumLits:13 NewPos:68 Neg:1 Prec:0.9855
+Best armg at iter 12:[2,12,56,66,95,99,116,143,154,174,189,194]. Score:59 NumLits:12 NewPos:72 Neg:1 Prec:0.9863
+Best armg at iter 13:[2,12,56,66,95,96,99,116,143,154,174,189,194]. Score:65 NumLits:11 NewPos:77 Neg:1 Prec:0.9872
+Best armg at iter 14:[2,10,12,45,56,95,99,114,116,143,154,174,189,194]. Score:66 NumLits:10 NewPos:77 Neg:1 Prec:0.9872
+Before neg reduction. Score:66 NumLits:10 NewPos:77, Neg:1 Prec:0.9872
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 194/300: toxic(p_B4XSZ8). Generated 1 hypotheses.
+Best armg at iter 1:[195]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[187,195]. Score:-9 NumLits:24 NewPos:15 Neg:0 Prec:1
+Best armg at iter 3:[36,187,195]. Score:-1 NumLits:23 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[36,155,187,195]. Score:9 NumLits:22 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[36,67,155,187,195]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[36,67,96,155,187,195]. Score:26 NumLits:18 NewPos:44 Neg:0 Prec:1
+Best armg at iter 7:[14,36,67,96,155,187,195]. Score:34 NumLits:17 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[36,59,67,144,155,187,195,197]. Score:40 NumLits:17 NewPos:57 Neg:0 Prec:1
+Best armg at iter 9:[36,39,59,67,144,155,187,195,197]. Score:47 NumLits:15 NewPos:62 Neg:0 Prec:1
+Best armg at iter 10:[36,39,59,67,115,144,155,187,195,197]. Score:52 NumLits:14 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 11:[36,39,56,59,67,130,144,155,187,195,197]. Score:54 NumLits:13 NewPos:67 Neg:0 Prec:1
+Best armg at iter 12:[32,36,39,56,59,67,130,144,155,187,195,197]. Score:59 NumLits:12 NewPos:71 Neg:0 Prec:1
+Best armg at iter 13:[32,34,36,39,56,59,67,130,144,155,187,195,197]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[32,36,39,45,56,59,67,130,144,155,187,194,195,197]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Best armg at iter 15:[19,34,36,39,56,59,67,130,144,151,152,155,187,195,197]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:71 NumLits:9 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 195/300: toxic(p_Q4JCS0). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 196/300: toxic(p_C6ZH27). Generated 0 hypotheses.
+Best armg at iter 1:[197]. Score:-24 NumLits:31 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[75,197]. Score:-10 NumLits:26 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[75,186,197]. Score:1 NumLits:23 NewPos:24 Neg:0 Prec:1
+Best armg at iter 4:[75,186,192,197]. Score:11 NumLits:21 NewPos:32 Neg:0 Prec:1
+Best armg at iter 5:[75,186,189,192,197]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[37,75,186,192,194,197]. Score:25 NumLits:18 NewPos:44 Neg:1 Prec:0.9778
+Best armg at iter 7:[24,37,75,186,192,194,197]. Score:33 NumLits:17 NewPos:51 Neg:1 Prec:0.9808
+Best armg at iter 8:[24,37,75,144,186,192,194,197]. Score:40 NumLits:16 NewPos:57 Neg:1 Prec:0.9828
+Best armg at iter 9:[1,24,37,75,144,186,192,194,197]. Score:46 NumLits:15 NewPos:62 Neg:1 Prec:0.9841
+Best armg at iter 10:[1,24,32,37,75,144,186,192,194,197]. Score:51 NumLits:14 NewPos:66 Neg:1 Prec:0.9851
+Best armg at iter 11:[10,24,37,75,144,152,154,186,192,194,197]. Score:53 NumLits:13 NewPos:67 Neg:1 Prec:0.9853
+Best armg at iter 12:[10,24,37,56,75,144,152,154,186,192,194,197]. Score:57 NumLits:12 NewPos:70 Neg:1 Prec:0.9859
+Best armg at iter 13:[10,24,37,75,114,144,152,154,170,186,192,194,197]. Score:62 NumLits:11 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 14:[10,24,32,37,42,75,144,152,154,170,186,192,194,197]. Score:67 NumLits:10 NewPos:78 Neg:1 Prec:0.9873
+Before neg reduction. Score:67 NumLits:10 NewPos:78, Neg:1 Prec:0.9873
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 197/300: toxic(p_B3EWT8). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 198/300: toxic(p_Q71QI8). Generated 0 hypotheses.
+Best armg at iter 1:[199]. Score:-25 NumLits:32 NewPos:7 Neg:0 Prec:1
+Best armg at iter 2:[155,199]. Score:-10 NumLits:26 NewPos:16 Neg:0 Prec:1
+Best armg at iter 3:[58,189,199]. Score:-1 NumLits:23 NewPos:22 Neg:0 Prec:1
+Best armg at iter 4:[58,90,189,199]. Score:9 NumLits:22 NewPos:31 Neg:0 Prec:1
+Best armg at iter 5:[58,90,174,189,199]. Score:19 NumLits:20 NewPos:39 Neg:0 Prec:1
+Best armg at iter 6:[58,90,144,174,189,199]. Score:26 NumLits:19 NewPos:45 Neg:0 Prec:1
+Best armg at iter 7:[1,58,75,174,189,197,199]. Score:33 NumLits:18 NewPos:51 Neg:0 Prec:1
+Best armg at iter 8:[1,58,75,174,189,194,197,199]. Score:39 NumLits:16 NewPos:56 Neg:1 Prec:0.9825
+Best armg at iter 9:[1,55,58,75,120,174,189,197,199]. Score:45 NumLits:16 NewPos:61 Neg:0 Prec:1
+Best armg at iter 10:[1,47,55,58,75,120,174,189,197,199]. Score:52 NumLits:14 NewPos:66 Neg:0 Prec:1
+Best armg at iter 11:[1,12,47,55,58,75,120,174,189,197,199]. Score:56 NumLits:13 NewPos:69 Neg:0 Prec:1
+Best armg at iter 12:[1,55,56,58,75,91,96,120,174,189,197,199]. Score:61 NumLits:12 NewPos:74 Neg:1 Prec:0.9867
+Best armg at iter 13:[1,45,55,56,58,75,91,96,120,174,189,197,199]. Score:64 NumLits:11 NewPos:76 Neg:1 Prec:0.987
+Best armg at iter 14:[1,45,55,56,58,64,75,91,96,120,174,189,197,199]. Score:68 NumLits:10 NewPos:79 Neg:1 Prec:0.9875
+Best armg at iter 15:[1,10,45,55,56,58,64,75,91,96,120,174,189,197,199]. Score:71 NumLits:9 NewPos:81 Neg:1 Prec:0.9878
+Before neg reduction. Score:71 NumLits:9 NewPos:81, Neg:1 Prec:0.9878
+After neg reduction. Score:80 NumLits:3 NewPos:84, Neg:1 Prec:0.9882
+Example 199/300: toxic(p_P80719). Generated 1 hypotheses.
+Bottom clause covers negatives
+Example 200/300: toxic(p_P0CY88). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 201/300: toxic(p_B2KTG2). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 202/300: toxic(p_P86307). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 203/300: toxic(p_Q69CK0). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 204/300: toxic(p_Q5Y4U3). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 205/300: toxic(p_Q6B4T4). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 206/300: toxic(p_Q0NZX7). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 207/300: toxic(p_B6DCM5). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 208/300: toxic(p_Q8UUK0). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 209/300: toxic(p_Q9BP67). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 210/300: toxic(p_C9X4J9). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 211/300: toxic(p_Q91137). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 212/300: toxic(p_P56610). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 213/300: toxic(p_Q6XLL5). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 214/300: toxic(p_B6DCR8). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 215/300: toxic(p_D3JWK6). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 216/300: toxic(p_P0CAQ3). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 217/300: toxic(p_P35787). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 218/300: toxic(p_P83745). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 219/300: toxic(p_P82851). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 220/300: toxic(p_B8XH38). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 221/300: toxic(p_S0F1N0). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 222/300: toxic(p_B1P1F9). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 223/300: toxic(p_D2Y259). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 224/300: toxic(p_Q86BW9). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 225/300: toxic(p_P85011). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 226/300: toxic(p_P0C6A4). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 227/300: toxic(p_P31981). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 228/300: toxic(p_P0CH77). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 229/300: toxic(p_P0C8R6). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 230/300: toxic(p_P58782). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 231/300: toxic(p_D2Y210). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 232/300: toxic(p_B2KKV8). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 233/300: toxic(p_D9U2B5). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 234/300: toxic(p_Q8UVU7). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 235/300: toxic(p_P01470). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 236/300: toxic(p_Q3YEF3). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 237/300: toxic(p_A6YR41). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 238/300: toxic(p_Q9U8D2). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 239/300: toxic(p_Q2PAY4). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 240/300: toxic(p_Q7Z156). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 241/300: toxic(p_P61408). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 242/300: toxic(p_P14613). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 243/300: toxic(p_P82419). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 244/300: toxic(p_P59854). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 245/300: toxic(p_P14615). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 246/300: toxic(p_D2Y2F9). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 247/300: toxic(p_P59170). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 248/300: toxic(p_F8J2D2). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 249/300: toxic(p_Q2VBP3). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 250/300: toxic(p_P86423). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 251/300: toxic(p_Q3SAF5). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 252/300: toxic(p_P45639). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 253/300: toxic(p_C0JB30). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 254/300: toxic(p_P0C902). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 255/300: toxic(p_D2Y2H1). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 256/300: toxic(p_Q7T2Q0). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 257/300: toxic(p_O93426). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 258/300: toxic(p_D8VNS7). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 259/300: toxic(p_P0C8V4). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 260/300: toxic(p_P0DKR6). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 261/300: toxic(p_P68515). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 262/300: toxic(p_Q53B59). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 263/300: toxic(p_B3EWT9). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 264/300: toxic(p_P0C1N2). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 265/300: toxic(p_P84038). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 266/300: toxic(p_Q9BP80). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 267/300: toxic(p_G1FE62). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 268/300: toxic(p_P59863). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 269/300: toxic(p_P18965). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 270/300: toxic(p_G1AS79). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 271/300: toxic(p_Q9BP95). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 272/300: toxic(p_P61102). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 273/300: toxic(p_P0DKQ6). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 274/300: toxic(p_D9U2A1). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 275/300: toxic(p_P01383). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 276/300: toxic(p_P0DJJ9). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 277/300: toxic(p_D2Y2M6). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 278/300: toxic(p_P63327). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 279/300: toxic(p_Q4ZFU1). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 280/300: toxic(p_Q719L9). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 281/300: toxic(p_P86308). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 282/300: toxic(p_Q75S51). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 283/300: toxic(p_P61095). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 284/300: toxic(p_P0C8R8). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 285/300: toxic(p_Q6H3C7). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 286/300: toxic(p_Q9YGI4). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 287/300: toxic(p_Q5Y4V8). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 288/300: toxic(p_Q86SE1). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 289/300: toxic(p_P0DJ34). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 290/300: toxic(p_D2Y488). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 291/300: toxic(p_Q9YI92). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 292/300: toxic(p_Q9W7K1). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 293/300: toxic(p_B5L5N3). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 294/300: toxic(p_D2Y2P5). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 295/300: toxic(p_P61792). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 296/300: toxic(p_P86300). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 297/300: toxic(p_P61409). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 298/300: toxic(p_P41736). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 299/300: toxic(p_P60771). Generated 0 hypotheses.
+Bottom clause covers negatives
+Example 300/300: toxic(p_P0DJC8). Generated 0 hypotheses.
+2 unique hypotheses were generated from 300 examples.
+Hypothesis 1/2. Coverage (weights): 79 (79) positives, 0 (0) negatives.
+Clause:
+toxic(A):-
+   start(A,B), not_m(B), not_d(B).
+
+Hypothesis 2/2. Coverage (weights): 84 (84) positives, 1 (1) negatives.
+Clause:
+toxic(A):-
+   start(A,B), not_m(B).
+
+Coverage for 2 unique hypotheses has been computed.
+
+*************************************************
+* Theory constructed from all the training data *
+*************************************************
+
+
+**************************
+* Induced General Theory *
+**************************
+
+Hypothesis 1/1:
+#Literals=3, PosScore=84 (84 new), NegScore=1 (1 new) Prec=98.8% (98.8% new)
+toxic(A):-
+   start(A,B), not_m(B).
+
+
+************************************************************
+* Train theory statistics (using all examples as training) *
+************************************************************
+
+           |                 Actual                |
+ Predicted |           Positive|           Negative|             Totals
+-----------|-------------------|-------------------|-------------------
+   Positive|             84+/-0|              1+/-0|             85+/-0
+-----------|-------------------|-------------------|-------------------
+   Negative|            216+/-0|            299+/-0|            515+/-0
+-----------|-------------------|-------------------|-------------------
+ Totals    |            300+/-0|            300+/-0|            600+/-0
+
+Default accuracy: 50% +/-0.0%
+Classifier accuracy: 63.8% +/-0.0%
+Recall/Sensitivity: 28% +/-0.0% (% of correctly class. positive examples)
+Specificity: 99.7% +/-0.0% (% of correctly class. negative examples)
+Precision: 98.8% +/-0.0% (% of correctly predicted positive examples)
+CorPredNeg: 58.1% +/-0.0% (i.e. % of correctly predicted negative examples)
+F1-score: 0.436 +/-0.00 (i.e. 2*Precision*Recall/(Precision+Recall)
+Matthews correlation: 0.397 +/-0.00 (i.e. (TP*TN-FP*FN)/sqrt((TP+FP)*(TP+FN)*(TN+FP)*(TN+FN)))
+
+Total memory used (in bytes): 49,826,832. Total cputime (in ms): 588,150
+
