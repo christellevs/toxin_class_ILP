@@ -47,7 +47,7 @@
 :- modeb(1,not_w(+aminoacid)).
 :- modeb(1,not_y(+aminoacid)).
 
-:- [positions, bookends, classes, nclasses].
+:- [bookends, classes, nclasses, positions].
 %:- [examples_fold], set(cross_validation_folds, 16).
 %:- [examples_holdout], set(cross_validation_folds, 2).
 

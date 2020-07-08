@@ -199,8 +199,6 @@ example(toxic(p_B3EWT8),1).
 example(toxic(p_Q71QI8),1).
 example(toxic(p_P80719),1).
 example(toxic(p_P0CY88),1).
-
-
 example(toxic(p_Q9RN01),-1).
 example(toxic(p_A7GJ66),-1).
 example(toxic(p_Q82Y61),-1).
@@ -401,5 +399,3 @@ example(toxic(p_Q0IFL5),-1).
 example(toxic(p_Q5Y4Y9),-1).
 example(toxic(p_B3DPW9),-1).
 example(toxic(p_P36687),-1).
-
-
